@@ -217,6 +217,12 @@ sqlite3 data/fairfarm_bd.db < sql/fairfarm_analysis_queries.sql
    recalculates because every KPI and chart is a live `SUMIF`/`SUMIFS`/
    `AVERAGEIF` formula, not a hardcoded number
 
+<img width="1589" height="711" alt="11" src="https://github.com/user-attachments/assets/4f6c1b4b-7856-44d9-add2-6e73e093e107" />
+<img width="1376" height="690" alt="22" src="https://github.com/user-attachments/assets/89a91594-24df-442b-b330-9b7638019a78" />
+<img width="1588" height="703" alt="33" src="https://github.com/user-attachments/assets/72f8b112-0bd6-4781-9bac-8f249a9da983" />
+
+   
+
 ## 📈 Power BI dashboard
 
 A `.pbix` is a Windows-only proprietary binary that can only be authored in
