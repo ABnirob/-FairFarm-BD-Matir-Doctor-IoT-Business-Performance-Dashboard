@@ -9,7 +9,8 @@
 > a digital ecosystem for Bangladeshi farmers combining AI crop intelligence,
 > marketplace access, microfinance, and education.
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](<img width="3200" height="2690" alt="dashboard_in_PowerBI" src="https://github.com/user-attachments/assets/0381c52c-02ad-426b-9386-5f8b94172edf" />
+)
 
 ---
 
