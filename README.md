@@ -1,4 +1,4 @@
-# 🌱 FairFarm BD — Matir Doctor IoT Device --- Sale Performance Dashboard
+# 🌱 FairFarm BD — Matir Doctor IoT Device Sale Performance Dashboard
 
 **Data & Business Analyst Portfolio Project** · Md. Abul Bashar Nirob
 [LinkedIn](https://linkedin.com/in/mdbashar202) · [GitHub](https://github.com/ABnirob) · [Portfolio](https://Portfolio/abul-bashar)
