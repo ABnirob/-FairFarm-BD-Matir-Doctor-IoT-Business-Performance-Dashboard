@@ -249,6 +249,6 @@ and Microsoft.
 
 ## 📄 License
 
-This project (code, synthetic data, and documentation) is shared for
-portfolio and educational purposes. The synthetic dataset is fabricated and
+This project (code, data, and documentation) is shared for
+portfolio and educational purposes. The dataset is fabricated and
 contains no real FairFarm BD customer or business data.
