@@ -1,0 +1,9 @@
+division_id,division_name,latitude,longitude,agri_intensity,traffic_weight
+D01,Rajshahi,24.3745,88.6042,High,0.16
+D02,Rangpur,25.7439,89.2752,High,0.15
+D03,Khulna,22.8456,89.5403,High,0.13
+D04,Mymensingh,24.7471,90.4203,High,0.12
+D05,Dhaka,23.8103,90.4125,Medium,0.16
+D06,Barishal,22.701,90.3535,Medium,0.1
+D07,Chattogram,22.3569,91.7832,Medium,0.12
+D08,Sylhet,24.8949,91.8687,Low,0.06

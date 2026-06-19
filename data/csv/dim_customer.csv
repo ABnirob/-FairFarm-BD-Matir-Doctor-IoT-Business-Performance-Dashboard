@@ -1,0 +1,1501 @@
+customer_id,division_name,district_name,farm_size_acres,customer_segment,crop_type,signup_date,acquisition_channel,district_id,division_id
+C00001,Barishal,Bhola,0.98,Smallholder (<2 acre),Vegetables,2025-11-22,SMS Campaign,DT022,D06
+C00002,Khulna,Jashore,0.55,Smallholder (<2 acre),Vegetables,2025-06-28,Organic Search,DT010,D03
+C00003,Chattogram,Comilla,1.99,Smallholder (<2 acre),Jute,2025-12-27,Referral/NGO Partner,DT025,D07
+C00004,Dhaka,Narayanganj,1.61,Smallholder (<2 acre),Mustard,2025-04-19,Direct,DT018,D05
+C00005,Rajshahi,Natore,5.48,Large (>5 acre),Jute,2025-03-16,YouTube,DT004,D01
+C00006,Sylhet,Moulvibazar,3.17,Medium (2-5 acre),Maize,2025-12-19,Field Dealer Network,DT028,D08
+C00007,Barishal,Bhola,2.1,Medium (2-5 acre),Potato,2025-03-13,Field Dealer Network,DT022,D06
+C00008,Barishal,Barishal,1.38,Smallholder (<2 acre),Wheat,2026-02-06,SMS Campaign,DT020,D06
+C00009,Rajshahi,Pabna,3.04,Medium (2-5 acre),Potato,2025-12-29,Facebook Ads,DT003,D01
+C00010,Mymensingh,Netrokona,2.34,Medium (2-5 acre),Jute,2025-06-14,Facebook Ads,DT015,D04
+C00011,Khulna,Satkhira,1.77,Smallholder (<2 acre),Rice (Aman),2025-04-27,Organic Search,DT011,D03
+C00012,Chattogram,Cox's Bazar,3.42,Medium (2-5 acre),Potato,2025-01-07,Facebook Ads,DT024,D07
+C00013,Dhaka,Narayanganj,0.99,Smallholder (<2 acre),Wheat,2026-01-05,SMS Campaign,DT018,D05
+C00014,Chattogram,Comilla,1.58,Smallholder (<2 acre),Mustard,2025-10-29,Field Dealer Network,DT025,D07
+C00015,Mymensingh,Netrokona,1.6,Smallholder (<2 acre),Potato,2025-02-09,Field Dealer Network,DT015,D04
+C00016,Rangpur,Dinajpur,3.61,Medium (2-5 acre),Vegetables,2025-08-07,Organic Search,DT006,D02
+C00017,Mymensingh,Netrokona,3.12,Medium (2-5 acre),Maize,2025-04-19,SMS Campaign,DT015,D04
+C00018,Rajshahi,Natore,3.3,Medium (2-5 acre),Mustard,2025-02-27,Facebook Ads,DT004,D01
+C00019,Chattogram,Feni,1.52,Smallholder (<2 acre),Mustard,2025-10-21,Facebook Ads,DT026,D07
+C00020,Dhaka,Narayanganj,0.39,Smallholder (<2 acre),Rice (Aman),2025-04-15,YouTube,DT018,D05
+C00021,Barishal,Bhola,0.49,Smallholder (<2 acre),Wheat,2025-07-14,Organic Search,DT022,D06
+C00022,Khulna,Khulna,1.63,Smallholder (<2 acre),Maize,2025-04-20,Organic Search,DT009,D03
+C00023,Sylhet,Sylhet,0.64,Smallholder (<2 acre),Tea,2025-11-25,Direct,DT027,D08
+C00024,Chattogram,Comilla,3.08,Medium (2-5 acre),Wheat,2025-05-09,SMS Campaign,DT025,D07
+C00025,Barishal,Barishal,1.82,Smallholder (<2 acre),Maize,2025-10-22,Organic Search,DT020,D06
+C00026,Rangpur,Kurigram,3.72,Medium (2-5 acre),Mustard,2025-01-03,Organic Search,DT007,D02
+C00027,Mymensingh,Mymensingh,2.73,Medium (2-5 acre),Vegetables,2026-03-11,Facebook Ads,DT013,D04
+C00028,Rajshahi,Bogura,0.2,Smallholder (<2 acre),Rice (Aman),2025-12-28,Field Dealer Network,DT002,D01
+C00029,Rajshahi,Rajshahi,0.47,Smallholder (<2 acre),Potato,2025-07-30,Referral/NGO Partner,DT001,D01
+C00030,Dhaka,Dhaka,2.55,Medium (2-5 acre),Rice (Aman),2026-04-21,Facebook Ads,DT016,D05
+C00031,Barishal,Bhola,1.76,Smallholder (<2 acre),Wheat,2026-04-26,Field Dealer Network,DT022,D06
+C00032,Sylhet,Sylhet,1.42,Smallholder (<2 acre),Tea,2025-04-08,SMS Campaign,DT027,D08
+C00033,Khulna,Khulna,1.34,Smallholder (<2 acre),Vegetables,2026-03-16,Facebook Ads,DT009,D03
+C00034,Khulna,Jashore,1.03,Smallholder (<2 acre),Rice (Aman),2025-05-14,Facebook Ads,DT010,D03
+C00035,Mymensingh,Jamalpur,2.33,Medium (2-5 acre),Rice (Boro),2026-02-14,Referral/NGO Partner,DT014,D04
+C00036,Rangpur,Rangpur,4.06,Medium (2-5 acre),Maize,2025-07-29,SMS Campaign,DT005,D02
+C00037,Rajshahi,Rajshahi,5.15,Large (>5 acre),Maize,2026-02-15,Facebook Ads,DT001,D01
+C00038,Mymensingh,Netrokona,2.05,Medium (2-5 acre),Vegetables,2025-02-17,SMS Campaign,DT015,D04
+C00039,Rangpur,Rangpur,0.3,Smallholder (<2 acre),Rice (Boro),2026-03-31,Field Dealer Network,DT005,D02
+C00040,Dhaka,Tangail,2.64,Medium (2-5 acre),Wheat,2026-04-22,Facebook Ads,DT019,D05
+C00041,Khulna,Jashore,0.43,Smallholder (<2 acre),Wheat,2025-02-27,Field Dealer Network,DT010,D03
+C00042,Chattogram,Comilla,1.01,Smallholder (<2 acre),Potato,2026-02-20,Facebook Ads,DT025,D07
+C00043,Dhaka,Tangail,1.34,Smallholder (<2 acre),Maize,2025-12-23,SMS Campaign,DT019,D05
+C00044,Khulna,Khulna,3.12,Medium (2-5 acre),Mustard,2025-08-08,Direct,DT009,D03
+C00045,Chattogram,Cox's Bazar,1.69,Smallholder (<2 acre),Rice (Boro),2025-06-20,Organic Search,DT024,D07
+C00046,Barishal,Bhola,1.84,Smallholder (<2 acre),Potato,2025-10-17,SMS Campaign,DT022,D06
+C00047,Khulna,Satkhira,0.37,Smallholder (<2 acre),Maize,2025-07-05,SMS Campaign,DT011,D03
+C00048,Rangpur,Dinajpur,3.63,Medium (2-5 acre),Jute,2025-04-11,SMS Campaign,DT006,D02
+C00049,Dhaka,Tangail,0.42,Smallholder (<2 acre),Jute,2025-01-12,Field Dealer Network,DT019,D05
+C00050,Rajshahi,Pabna,2.9,Medium (2-5 acre),Rice (Boro),2025-08-18,Organic Search,DT003,D01
+C00051,Rangpur,Gaibandha,3.37,Medium (2-5 acre),Jute,2025-07-11,Facebook Ads,DT008,D02
+C00052,Rajshahi,Pabna,1.18,Smallholder (<2 acre),Maize,2025-09-11,Field Dealer Network,DT003,D01
+C00053,Barishal,Patuakhali,7.7,Large (>5 acre),Potato,2026-01-13,Direct,DT021,D06
+C00054,Dhaka,Dhaka,2.04,Medium (2-5 acre),Wheat,2025-08-03,Field Dealer Network,DT016,D05
+C00055,Dhaka,Dhaka,1.26,Smallholder (<2 acre),Jute,2025-08-19,YouTube,DT016,D05
+C00056,Barishal,Barishal,0.2,Smallholder (<2 acre),Maize,2026-02-10,Organic Search,DT020,D06
+C00057,Mymensingh,Mymensingh,2.02,Medium (2-5 acre),Maize,2026-04-16,Organic Search,DT013,D04
+C00058,Dhaka,Gazipur,3.76,Medium (2-5 acre),Rice (Aman),2025-05-21,Organic Search,DT017,D05
+C00059,Rajshahi,Rajshahi,3.95,Medium (2-5 acre),Vegetables,2026-04-25,Field Dealer Network,DT001,D01
+C00060,Rajshahi,Natore,1.89,Smallholder (<2 acre),Maize,2025-02-11,Referral/NGO Partner,DT004,D01
+C00061,Dhaka,Gazipur,0.45,Smallholder (<2 acre),Wheat,2025-09-10,Field Dealer Network,DT017,D05
+C00062,Mymensingh,Jamalpur,0.9,Smallholder (<2 acre),Rice (Aman),2025-02-03,Organic Search,DT014,D04
+C00063,Dhaka,Tangail,2.65,Medium (2-5 acre),Mustard,2025-04-30,SMS Campaign,DT019,D05
+C00064,Barishal,Bhola,2.32,Medium (2-5 acre),Rice (Boro),2026-03-03,Organic Search,DT022,D06
+C00065,Dhaka,Gazipur,1.09,Smallholder (<2 acre),Mustard,2025-11-30,Facebook Ads,DT017,D05
+C00066,Mymensingh,Jamalpur,5.49,Large (>5 acre),Vegetables,2025-06-14,Referral/NGO Partner,DT014,D04
+C00067,Mymensingh,Netrokona,0.62,Smallholder (<2 acre),Vegetables,2025-03-07,Organic Search,DT015,D04
+C00068,Rangpur,Kurigram,1.64,Smallholder (<2 acre),Potato,2025-12-30,Facebook Ads,DT007,D02
+C00069,Rajshahi,Bogura,9.42,Large (>5 acre),Maize,2025-08-02,Field Dealer Network,DT002,D01
+C00070,Khulna,Bagerhat,0.54,Smallholder (<2 acre),Maize,2025-01-18,Referral/NGO Partner,DT012,D03
+C00071,Rangpur,Kurigram,0.51,Smallholder (<2 acre),Wheat,2026-03-26,Referral/NGO Partner,DT007,D02
+C00072,Khulna,Satkhira,1.97,Smallholder (<2 acre),Rice (Boro),2025-02-28,YouTube,DT011,D03
+C00073,Chattogram,Cox's Bazar,4.15,Medium (2-5 acre),Vegetables,2025-08-27,Organic Search,DT024,D07
+C00074,Rangpur,Dinajpur,0.34,Smallholder (<2 acre),Rice (Aman),2025-07-26,Field Dealer Network,DT006,D02
+C00075,Rajshahi,Bogura,0.26,Smallholder (<2 acre),Rice (Aman),2026-01-08,Organic Search,DT002,D01
+C00076,Rangpur,Kurigram,1.27,Smallholder (<2 acre),Mustard,2025-02-21,Facebook Ads,DT007,D02
+C00077,Rangpur,Dinajpur,1.31,Smallholder (<2 acre),Rice (Aman),2025-11-07,YouTube,DT006,D02
+C00078,Dhaka,Dhaka,1.89,Smallholder (<2 acre),Vegetables,2026-04-03,Direct,DT016,D05
+C00079,Mymensingh,Netrokona,2.25,Medium (2-5 acre),Wheat,2025-04-19,Field Dealer Network,DT015,D04
+C00080,Barishal,Barishal,3.5,Medium (2-5 acre),Mustard,2025-12-30,Referral/NGO Partner,DT020,D06
+C00081,Dhaka,Narayanganj,3.16,Medium (2-5 acre),Potato,2026-02-21,SMS Campaign,DT018,D05
+C00082,Khulna,Satkhira,3.35,Medium (2-5 acre),Jute,2025-04-19,Direct,DT011,D03
+C00083,Barishal,Bhola,3.11,Medium (2-5 acre),Rice (Boro),2026-03-15,Field Dealer Network,DT022,D06
+C00084,Rangpur,Dinajpur,1.96,Smallholder (<2 acre),Vegetables,2025-02-09,Field Dealer Network,DT006,D02
+C00085,Rajshahi,Pabna,0.83,Smallholder (<2 acre),Vegetables,2025-12-29,Organic Search,DT003,D01
+C00086,Rajshahi,Rajshahi,0.53,Smallholder (<2 acre),Maize,2025-09-15,Referral/NGO Partner,DT001,D01
+C00087,Barishal,Bhola,1.34,Smallholder (<2 acre),Rice (Boro),2025-09-26,Referral/NGO Partner,DT022,D06
+C00088,Mymensingh,Mymensingh,2.96,Medium (2-5 acre),Jute,2026-03-08,Field Dealer Network,DT013,D04
+C00089,Rangpur,Gaibandha,3.75,Medium (2-5 acre),Vegetables,2025-01-11,Field Dealer Network,DT008,D02
+C00090,Mymensingh,Jamalpur,4.66,Medium (2-5 acre),Potato,2025-11-23,YouTube,DT014,D04
+C00091,Rajshahi,Rajshahi,1.55,Smallholder (<2 acre),Jute,2025-01-06,Organic Search,DT001,D01
+C00092,Dhaka,Narayanganj,1.15,Smallholder (<2 acre),Rice (Aman),2026-03-11,Field Dealer Network,DT018,D05
+C00093,Mymensingh,Netrokona,0.27,Smallholder (<2 acre),Mustard,2026-04-07,Facebook Ads,DT015,D04
+C00094,Khulna,Jashore,3.07,Medium (2-5 acre),Rice (Aman),2025-12-25,Referral/NGO Partner,DT010,D03
+C00095,Rangpur,Dinajpur,0.2,Smallholder (<2 acre),Rice (Aman),2025-01-09,SMS Campaign,DT006,D02
+C00096,Dhaka,Narayanganj,2.72,Medium (2-5 acre),Maize,2025-09-10,Field Dealer Network,DT018,D05
+C00097,Khulna,Satkhira,0.2,Smallholder (<2 acre),Maize,2025-10-20,Field Dealer Network,DT011,D03
+C00098,Rajshahi,Rajshahi,1.27,Smallholder (<2 acre),Potato,2025-03-20,YouTube,DT001,D01
+C00099,Rajshahi,Bogura,2.83,Medium (2-5 acre),Jute,2025-04-08,Direct,DT002,D01
+C00100,Sylhet,Habiganj,2.05,Medium (2-5 acre),Rice (Boro),2025-09-04,Direct,DT029,D08
+C00101,Chattogram,Chattogram,2.73,Medium (2-5 acre),Rice (Boro),2025-09-24,Referral/NGO Partner,DT023,D07
+C00102,Dhaka,Narayanganj,3.71,Medium (2-5 acre),Potato,2025-08-21,Referral/NGO Partner,DT018,D05
+C00103,Rangpur,Kurigram,3.71,Medium (2-5 acre),Vegetables,2025-02-06,Field Dealer Network,DT007,D02
+C00104,Sylhet,Moulvibazar,1.12,Smallholder (<2 acre),Jute,2025-09-21,Organic Search,DT028,D08
+C00105,Barishal,Patuakhali,1.32,Smallholder (<2 acre),Vegetables,2025-04-17,Organic Search,DT021,D06
+C00106,Dhaka,Narayanganj,1.79,Smallholder (<2 acre),Maize,2026-04-04,Facebook Ads,DT018,D05
+C00107,Mymensingh,Jamalpur,0.55,Smallholder (<2 acre),Rice (Boro),2025-10-27,Direct,DT014,D04
+C00108,Rangpur,Kurigram,0.28,Smallholder (<2 acre),Rice (Aman),2025-09-20,Facebook Ads,DT007,D02
+C00109,Rajshahi,Bogura,6.4,Large (>5 acre),Rice (Aman),2025-02-04,Facebook Ads,DT002,D01
+C00110,Chattogram,Cox's Bazar,2.16,Medium (2-5 acre),Maize,2025-01-13,Field Dealer Network,DT024,D07
+C00111,Mymensingh,Netrokona,1.46,Smallholder (<2 acre),Jute,2026-04-07,Field Dealer Network,DT015,D04
+C00112,Rangpur,Gaibandha,1.52,Smallholder (<2 acre),Rice (Aman),2025-05-17,Organic Search,DT008,D02
+C00113,Rangpur,Kurigram,1.71,Smallholder (<2 acre),Wheat,2025-05-19,Field Dealer Network,DT007,D02
+C00114,Dhaka,Gazipur,1.99,Smallholder (<2 acre),Jute,2025-05-11,Facebook Ads,DT017,D05
+C00115,Rangpur,Dinajpur,0.24,Smallholder (<2 acre),Potato,2025-11-12,Field Dealer Network,DT006,D02
+C00116,Chattogram,Chattogram,1.15,Smallholder (<2 acre),Potato,2025-06-06,Field Dealer Network,DT023,D07
+C00117,Barishal,Barishal,1.45,Smallholder (<2 acre),Maize,2025-10-15,Field Dealer Network,DT020,D06
+C00118,Dhaka,Gazipur,2.45,Medium (2-5 acre),Rice (Boro),2025-12-24,Organic Search,DT017,D05
+C00119,Khulna,Bagerhat,1.96,Smallholder (<2 acre),Maize,2025-10-19,Referral/NGO Partner,DT012,D03
+C00120,Dhaka,Tangail,7.12,Large (>5 acre),Mustard,2025-05-11,Field Dealer Network,DT019,D05
+C00121,Dhaka,Tangail,2.21,Medium (2-5 acre),Rice (Boro),2025-09-22,Organic Search,DT019,D05
+C00122,Dhaka,Tangail,4.09,Medium (2-5 acre),Potato,2025-02-07,Field Dealer Network,DT019,D05
+C00123,Rajshahi,Rajshahi,2.94,Medium (2-5 acre),Rice (Aman),2026-04-19,YouTube,DT001,D01
+C00124,Khulna,Khulna,1.79,Smallholder (<2 acre),Jute,2026-04-22,Field Dealer Network,DT009,D03
+C00125,Rajshahi,Rajshahi,1.85,Smallholder (<2 acre),Mustard,2026-03-27,Field Dealer Network,DT001,D01
+C00126,Mymensingh,Mymensingh,0.44,Smallholder (<2 acre),Maize,2025-12-18,SMS Campaign,DT013,D04
+C00127,Khulna,Bagerhat,1.23,Smallholder (<2 acre),Rice (Aman),2025-07-08,Facebook Ads,DT012,D03
+C00128,Rajshahi,Rajshahi,2.0,Medium (2-5 acre),Rice (Boro),2025-04-07,Referral/NGO Partner,DT001,D01
+C00129,Rajshahi,Bogura,0.75,Smallholder (<2 acre),Vegetables,2025-03-29,Facebook Ads,DT002,D01
+C00130,Dhaka,Gazipur,0.95,Smallholder (<2 acre),Wheat,2025-05-27,SMS Campaign,DT017,D05
+C00131,Rangpur,Rangpur,2.64,Medium (2-5 acre),Potato,2025-10-04,Organic Search,DT005,D02
+C00132,Chattogram,Cox's Bazar,4.02,Medium (2-5 acre),Potato,2025-10-01,Referral/NGO Partner,DT024,D07
+C00133,Dhaka,Gazipur,2.79,Medium (2-5 acre),Rice (Aman),2025-03-05,Referral/NGO Partner,DT017,D05
+C00134,Khulna,Satkhira,0.45,Smallholder (<2 acre),Wheat,2025-07-21,Organic Search,DT011,D03
+C00135,Dhaka,Dhaka,1.43,Smallholder (<2 acre),Potato,2025-09-09,Organic Search,DT016,D05
+C00136,Rajshahi,Pabna,1.57,Smallholder (<2 acre),Mustard,2025-02-05,Organic Search,DT003,D01
+C00137,Sylhet,Habiganj,1.49,Smallholder (<2 acre),Tea,2025-04-27,Organic Search,DT029,D08
+C00138,Mymensingh,Netrokona,1.91,Smallholder (<2 acre),Jute,2025-07-03,Organic Search,DT015,D04
+C00139,Barishal,Barishal,0.63,Smallholder (<2 acre),Rice (Boro),2025-10-20,Direct,DT020,D06
+C00140,Rajshahi,Bogura,1.7,Smallholder (<2 acre),Mustard,2026-03-26,SMS Campaign,DT002,D01
+C00141,Mymensingh,Mymensingh,2.88,Medium (2-5 acre),Maize,2025-02-02,Field Dealer Network,DT013,D04
+C00142,Mymensingh,Mymensingh,3.19,Medium (2-5 acre),Rice (Boro),2026-01-07,Organic Search,DT013,D04
+C00143,Chattogram,Feni,2.22,Medium (2-5 acre),Mustard,2026-03-25,Referral/NGO Partner,DT026,D07
+C00144,Dhaka,Dhaka,1.46,Smallholder (<2 acre),Maize,2025-01-17,SMS Campaign,DT016,D05
+C00145,Mymensingh,Jamalpur,2.15,Medium (2-5 acre),Rice (Boro),2025-06-18,Organic Search,DT014,D04
+C00146,Rangpur,Kurigram,2.13,Medium (2-5 acre),Maize,2025-08-05,SMS Campaign,DT007,D02
+C00147,Khulna,Jashore,2.16,Medium (2-5 acre),Jute,2025-03-31,Facebook Ads,DT010,D03
+C00148,Mymensingh,Netrokona,0.91,Smallholder (<2 acre),Jute,2025-09-01,Organic Search,DT015,D04
+C00149,Khulna,Satkhira,1.19,Smallholder (<2 acre),Jute,2026-01-07,SMS Campaign,DT011,D03
+C00150,Rajshahi,Natore,7.56,Large (>5 acre),Potato,2025-05-05,SMS Campaign,DT004,D01
+C00151,Chattogram,Feni,2.21,Medium (2-5 acre),Rice (Aman),2025-03-22,SMS Campaign,DT026,D07
+C00152,Chattogram,Cox's Bazar,1.7,Smallholder (<2 acre),Mustard,2025-10-10,Field Dealer Network,DT024,D07
+C00153,Rajshahi,Rajshahi,1.01,Smallholder (<2 acre),Wheat,2025-07-05,SMS Campaign,DT001,D01
+C00154,Mymensingh,Mymensingh,2.02,Medium (2-5 acre),Rice (Boro),2025-02-02,Organic Search,DT013,D04
+C00155,Rajshahi,Pabna,2.17,Medium (2-5 acre),Mustard,2025-07-13,Facebook Ads,DT003,D01
+C00156,Dhaka,Dhaka,2.97,Medium (2-5 acre),Potato,2025-10-12,Organic Search,DT016,D05
+C00157,Rangpur,Rangpur,2.78,Medium (2-5 acre),Mustard,2025-12-16,Field Dealer Network,DT005,D02
+C00158,Dhaka,Tangail,4.24,Medium (2-5 acre),Vegetables,2026-03-23,YouTube,DT019,D05
+C00159,Barishal,Bhola,0.87,Smallholder (<2 acre),Jute,2025-06-16,Field Dealer Network,DT022,D06
+C00160,Barishal,Barishal,2.35,Medium (2-5 acre),Potato,2025-04-02,Organic Search,DT020,D06
+C00161,Rajshahi,Pabna,1.35,Smallholder (<2 acre),Rice (Boro),2025-10-14,Referral/NGO Partner,DT003,D01
+C00162,Chattogram,Cox's Bazar,0.75,Smallholder (<2 acre),Potato,2025-02-15,Organic Search,DT024,D07
+C00163,Rangpur,Gaibandha,6.43,Large (>5 acre),Jute,2026-02-16,Facebook Ads,DT008,D02
+C00164,Rajshahi,Natore,0.75,Smallholder (<2 acre),Wheat,2025-01-30,Organic Search,DT004,D01
+C00165,Mymensingh,Jamalpur,1.85,Smallholder (<2 acre),Jute,2025-12-04,Facebook Ads,DT014,D04
+C00166,Khulna,Satkhira,1.59,Smallholder (<2 acre),Jute,2025-09-16,Direct,DT011,D03
+C00167,Chattogram,Comilla,1.26,Smallholder (<2 acre),Vegetables,2025-05-25,Organic Search,DT025,D07
+C00168,Barishal,Bhola,3.2,Medium (2-5 acre),Maize,2025-07-27,Organic Search,DT022,D06
+C00169,Khulna,Jashore,1.85,Smallholder (<2 acre),Vegetables,2025-08-03,Field Dealer Network,DT010,D03
+C00170,Sylhet,Sylhet,0.43,Smallholder (<2 acre),Potato,2025-12-17,SMS Campaign,DT027,D08
+C00171,Rangpur,Gaibandha,2.19,Medium (2-5 acre),Maize,2025-09-11,Organic Search,DT008,D02
+C00172,Mymensingh,Mymensingh,2.26,Medium (2-5 acre),Rice (Boro),2026-02-21,Facebook Ads,DT013,D04
+C00173,Rangpur,Rangpur,0.81,Smallholder (<2 acre),Wheat,2025-12-07,YouTube,DT005,D02
+C00174,Chattogram,Comilla,0.83,Smallholder (<2 acre),Rice (Aman),2026-01-05,Referral/NGO Partner,DT025,D07
+C00175,Rangpur,Gaibandha,3.52,Medium (2-5 acre),Vegetables,2025-10-11,Organic Search,DT008,D02
+C00176,Rajshahi,Rajshahi,0.97,Smallholder (<2 acre),Mustard,2025-12-19,YouTube,DT001,D01
+C00177,Khulna,Satkhira,2.97,Medium (2-5 acre),Maize,2025-06-01,Field Dealer Network,DT011,D03
+C00178,Sylhet,Sylhet,2.35,Medium (2-5 acre),Wheat,2025-06-07,Direct,DT027,D08
+C00179,Chattogram,Feni,2.04,Medium (2-5 acre),Rice (Boro),2026-02-05,Facebook Ads,DT026,D07
+C00180,Barishal,Barishal,2.84,Medium (2-5 acre),Maize,2025-05-20,YouTube,DT020,D06
+C00181,Chattogram,Cox's Bazar,0.68,Smallholder (<2 acre),Rice (Boro),2026-02-12,Organic Search,DT024,D07
+C00182,Chattogram,Cox's Bazar,0.2,Smallholder (<2 acre),Rice (Boro),2025-05-08,Field Dealer Network,DT024,D07
+C00183,Mymensingh,Mymensingh,4.21,Medium (2-5 acre),Potato,2025-07-23,SMS Campaign,DT013,D04
+C00184,Khulna,Jashore,2.56,Medium (2-5 acre),Rice (Aman),2025-03-09,Facebook Ads,DT010,D03
+C00185,Barishal,Bhola,0.38,Smallholder (<2 acre),Vegetables,2025-09-26,Organic Search,DT022,D06
+C00186,Dhaka,Narayanganj,1.29,Smallholder (<2 acre),Rice (Boro),2025-12-19,SMS Campaign,DT018,D05
+C00187,Khulna,Khulna,1.2,Smallholder (<2 acre),Maize,2025-12-09,Organic Search,DT009,D03
+C00188,Rajshahi,Pabna,2.41,Medium (2-5 acre),Mustard,2026-02-18,Field Dealer Network,DT003,D01
+C00189,Barishal,Patuakhali,2.23,Medium (2-5 acre),Mustard,2026-03-07,Organic Search,DT021,D06
+C00190,Rangpur,Dinajpur,1.91,Smallholder (<2 acre),Mustard,2025-08-20,Facebook Ads,DT006,D02
+C00191,Chattogram,Comilla,7.19,Large (>5 acre),Potato,2026-02-05,Field Dealer Network,DT025,D07
+C00192,Rangpur,Dinajpur,3.98,Medium (2-5 acre),Maize,2025-06-08,Organic Search,DT006,D02
+C00193,Rajshahi,Bogura,4.81,Medium (2-5 acre),Maize,2026-01-26,Referral/NGO Partner,DT002,D01
+C00194,Chattogram,Feni,0.39,Smallholder (<2 acre),Vegetables,2026-02-15,Organic Search,DT026,D07
+C00195,Rajshahi,Rajshahi,9.24,Large (>5 acre),Maize,2025-05-24,Referral/NGO Partner,DT001,D01
+C00196,Rangpur,Rangpur,4.84,Medium (2-5 acre),Maize,2025-02-04,Organic Search,DT005,D02
+C00197,Dhaka,Gazipur,0.77,Smallholder (<2 acre),Vegetables,2025-05-29,Organic Search,DT017,D05
+C00198,Chattogram,Comilla,3.12,Medium (2-5 acre),Rice (Aman),2025-03-01,Referral/NGO Partner,DT025,D07
+C00199,Rangpur,Gaibandha,0.61,Smallholder (<2 acre),Mustard,2025-08-15,Field Dealer Network,DT008,D02
+C00200,Khulna,Satkhira,4.14,Medium (2-5 acre),Vegetables,2025-05-24,Direct,DT011,D03
+C00201,Barishal,Bhola,2.6,Medium (2-5 acre),Potato,2025-08-30,Organic Search,DT022,D06
+C00202,Sylhet,Moulvibazar,1.34,Smallholder (<2 acre),Maize,2025-04-25,Organic Search,DT028,D08
+C00203,Mymensingh,Mymensingh,5.15,Large (>5 acre),Maize,2025-12-30,Referral/NGO Partner,DT013,D04
+C00204,Rajshahi,Rajshahi,1.01,Smallholder (<2 acre),Jute,2025-02-03,SMS Campaign,DT001,D01
+C00205,Rajshahi,Natore,0.4,Smallholder (<2 acre),Wheat,2026-03-08,Referral/NGO Partner,DT004,D01
+C00206,Rangpur,Rangpur,0.37,Smallholder (<2 acre),Potato,2026-04-09,Referral/NGO Partner,DT005,D02
+C00207,Rajshahi,Bogura,3.03,Medium (2-5 acre),Mustard,2025-07-03,Field Dealer Network,DT002,D01
+C00208,Dhaka,Gazipur,0.63,Smallholder (<2 acre),Potato,2025-08-21,Field Dealer Network,DT017,D05
+C00209,Rajshahi,Bogura,1.27,Smallholder (<2 acre),Vegetables,2026-01-02,Referral/NGO Partner,DT002,D01
+C00210,Mymensingh,Mymensingh,0.86,Smallholder (<2 acre),Rice (Boro),2026-01-18,Field Dealer Network,DT013,D04
+C00211,Dhaka,Gazipur,1.17,Smallholder (<2 acre),Maize,2026-04-18,Field Dealer Network,DT017,D05
+C00212,Dhaka,Dhaka,0.45,Smallholder (<2 acre),Potato,2025-04-18,Field Dealer Network,DT016,D05
+C00213,Rangpur,Kurigram,2.86,Medium (2-5 acre),Jute,2025-05-24,Referral/NGO Partner,DT007,D02
+C00214,Barishal,Patuakhali,5.03,Large (>5 acre),Maize,2025-09-09,Organic Search,DT021,D06
+C00215,Dhaka,Dhaka,1.13,Smallholder (<2 acre),Jute,2025-03-19,Facebook Ads,DT016,D05
+C00216,Barishal,Bhola,3.71,Medium (2-5 acre),Maize,2025-02-21,SMS Campaign,DT022,D06
+C00217,Rajshahi,Bogura,0.76,Smallholder (<2 acre),Maize,2026-01-23,Organic Search,DT002,D01
+C00218,Rajshahi,Natore,1.93,Smallholder (<2 acre),Mustard,2026-03-23,Organic Search,DT004,D01
+C00219,Chattogram,Comilla,8.57,Large (>5 acre),Maize,2025-12-28,Referral/NGO Partner,DT025,D07
+C00220,Khulna,Bagerhat,3.26,Medium (2-5 acre),Maize,2026-04-06,YouTube,DT012,D03
+C00221,Rangpur,Rangpur,1.31,Smallholder (<2 acre),Mustard,2025-11-15,Field Dealer Network,DT005,D02
+C00222,Mymensingh,Netrokona,0.26,Smallholder (<2 acre),Wheat,2025-07-23,SMS Campaign,DT015,D04
+C00223,Dhaka,Dhaka,0.61,Smallholder (<2 acre),Rice (Aman),2025-06-24,Organic Search,DT016,D05
+C00224,Sylhet,Moulvibazar,4.43,Medium (2-5 acre),Jute,2025-03-20,Organic Search,DT028,D08
+C00225,Rangpur,Gaibandha,2.79,Medium (2-5 acre),Mustard,2026-04-11,Referral/NGO Partner,DT008,D02
+C00226,Chattogram,Comilla,2.15,Medium (2-5 acre),Vegetables,2025-10-28,Direct,DT025,D07
+C00227,Rajshahi,Rajshahi,2.16,Medium (2-5 acre),Vegetables,2026-03-17,Organic Search,DT001,D01
+C00228,Mymensingh,Netrokona,1.99,Smallholder (<2 acre),Vegetables,2025-09-04,Facebook Ads,DT015,D04
+C00229,Dhaka,Gazipur,1.83,Smallholder (<2 acre),Vegetables,2025-03-08,Organic Search,DT017,D05
+C00230,Rajshahi,Pabna,0.95,Smallholder (<2 acre),Rice (Aman),2025-06-04,Referral/NGO Partner,DT003,D01
+C00231,Rajshahi,Bogura,1.16,Smallholder (<2 acre),Mustard,2026-01-03,Organic Search,DT002,D01
+C00232,Khulna,Khulna,3.67,Medium (2-5 acre),Maize,2025-05-07,Referral/NGO Partner,DT009,D03
+C00233,Sylhet,Moulvibazar,2.39,Medium (2-5 acre),Wheat,2025-02-25,Organic Search,DT028,D08
+C00234,Dhaka,Narayanganj,2.16,Medium (2-5 acre),Potato,2025-02-18,Field Dealer Network,DT018,D05
+C00235,Chattogram,Chattogram,4.72,Medium (2-5 acre),Maize,2025-11-06,Referral/NGO Partner,DT023,D07
+C00236,Barishal,Barishal,5.71,Large (>5 acre),Rice (Aman),2025-12-04,Organic Search,DT020,D06
+C00237,Mymensingh,Netrokona,6.05,Large (>5 acre),Maize,2025-05-19,Organic Search,DT015,D04
+C00238,Barishal,Patuakhali,3.84,Medium (2-5 acre),Rice (Aman),2025-08-04,Field Dealer Network,DT021,D06
+C00239,Rajshahi,Bogura,2.05,Medium (2-5 acre),Maize,2026-02-18,Organic Search,DT002,D01
+C00240,Rajshahi,Natore,0.86,Smallholder (<2 acre),Jute,2025-05-23,YouTube,DT004,D01
+C00241,Chattogram,Cox's Bazar,2.48,Medium (2-5 acre),Mustard,2025-10-03,Field Dealer Network,DT024,D07
+C00242,Barishal,Bhola,1.22,Smallholder (<2 acre),Potato,2025-12-31,Facebook Ads,DT022,D06
+C00243,Rangpur,Kurigram,0.33,Smallholder (<2 acre),Wheat,2026-01-16,SMS Campaign,DT007,D02
+C00244,Mymensingh,Jamalpur,2.44,Medium (2-5 acre),Rice (Aman),2025-08-27,Organic Search,DT014,D04
+C00245,Dhaka,Gazipur,4.87,Medium (2-5 acre),Maize,2025-07-02,SMS Campaign,DT017,D05
+C00246,Chattogram,Feni,5.41,Large (>5 acre),Mustard,2026-04-10,Field Dealer Network,DT026,D07
+C00247,Dhaka,Narayanganj,0.28,Smallholder (<2 acre),Vegetables,2025-12-12,Facebook Ads,DT018,D05
+C00248,Khulna,Bagerhat,4.82,Medium (2-5 acre),Vegetables,2025-02-09,Field Dealer Network,DT012,D03
+C00249,Khulna,Satkhira,0.78,Smallholder (<2 acre),Potato,2025-03-31,SMS Campaign,DT011,D03
+C00250,Khulna,Jashore,3.58,Medium (2-5 acre),Mustard,2025-04-07,SMS Campaign,DT010,D03
+C00251,Dhaka,Narayanganj,1.95,Smallholder (<2 acre),Jute,2025-05-09,SMS Campaign,DT018,D05
+C00252,Chattogram,Chattogram,0.89,Smallholder (<2 acre),Rice (Aman),2025-11-18,SMS Campaign,DT023,D07
+C00253,Mymensingh,Jamalpur,0.9,Smallholder (<2 acre),Wheat,2025-07-10,Facebook Ads,DT014,D04
+C00254,Rangpur,Dinajpur,3.74,Medium (2-5 acre),Jute,2025-10-01,Facebook Ads,DT006,D02
+C00255,Rangpur,Gaibandha,4.07,Medium (2-5 acre),Potato,2026-03-18,SMS Campaign,DT008,D02
+C00256,Barishal,Patuakhali,3.28,Medium (2-5 acre),Potato,2026-03-10,Referral/NGO Partner,DT021,D06
+C00257,Barishal,Patuakhali,1.33,Smallholder (<2 acre),Potato,2025-10-02,Field Dealer Network,DT021,D06
+C00258,Rajshahi,Rajshahi,3.5,Medium (2-5 acre),Wheat,2025-08-31,Facebook Ads,DT001,D01
+C00259,Rajshahi,Pabna,5.0,Medium (2-5 acre),Maize,2025-11-13,Field Dealer Network,DT003,D01
+C00260,Dhaka,Narayanganj,4.5,Medium (2-5 acre),Wheat,2025-05-19,Facebook Ads,DT018,D05
+C00261,Rajshahi,Pabna,0.76,Smallholder (<2 acre),Vegetables,2025-08-24,SMS Campaign,DT003,D01
+C00262,Chattogram,Chattogram,4.14,Medium (2-5 acre),Mustard,2026-04-23,SMS Campaign,DT023,D07
+C00263,Khulna,Jashore,2.8,Medium (2-5 acre),Wheat,2026-02-17,SMS Campaign,DT010,D03
+C00264,Rajshahi,Pabna,4.75,Medium (2-5 acre),Jute,2025-12-10,Organic Search,DT003,D01
+C00265,Chattogram,Chattogram,7.76,Large (>5 acre),Wheat,2025-09-28,Facebook Ads,DT023,D07
+C00266,Rangpur,Gaibandha,4.33,Medium (2-5 acre),Jute,2025-03-09,Direct,DT008,D02
+C00267,Rangpur,Kurigram,0.79,Smallholder (<2 acre),Rice (Boro),2025-07-15,SMS Campaign,DT007,D02
+C00268,Rajshahi,Bogura,1.01,Smallholder (<2 acre),Jute,2025-06-21,SMS Campaign,DT002,D01
+C00269,Rajshahi,Pabna,1.32,Smallholder (<2 acre),Rice (Aman),2025-05-29,Organic Search,DT003,D01
+C00270,Rajshahi,Pabna,3.0,Medium (2-5 acre),Vegetables,2025-05-25,Field Dealer Network,DT003,D01
+C00271,Rajshahi,Bogura,2.4,Medium (2-5 acre),Rice (Aman),2026-01-22,Field Dealer Network,DT002,D01
+C00272,Rangpur,Gaibandha,2.56,Medium (2-5 acre),Rice (Aman),2025-02-15,Facebook Ads,DT008,D02
+C00273,Rajshahi,Natore,0.43,Smallholder (<2 acre),Maize,2025-08-18,Field Dealer Network,DT004,D01
+C00274,Dhaka,Tangail,4.34,Medium (2-5 acre),Vegetables,2025-01-16,Organic Search,DT019,D05
+C00275,Dhaka,Tangail,1.36,Smallholder (<2 acre),Mustard,2025-10-02,Referral/NGO Partner,DT019,D05
+C00276,Khulna,Satkhira,2.05,Medium (2-5 acre),Maize,2025-11-23,Organic Search,DT011,D03
+C00277,Khulna,Bagerhat,3.29,Medium (2-5 acre),Jute,2025-10-12,Field Dealer Network,DT012,D03
+C00278,Mymensingh,Mymensingh,2.46,Medium (2-5 acre),Jute,2025-11-23,SMS Campaign,DT013,D04
+C00279,Chattogram,Chattogram,3.03,Medium (2-5 acre),Mustard,2025-04-16,Facebook Ads,DT023,D07
+C00280,Chattogram,Comilla,1.93,Smallholder (<2 acre),Vegetables,2025-11-10,Organic Search,DT025,D07
+C00281,Rajshahi,Rajshahi,2.09,Medium (2-5 acre),Rice (Boro),2026-01-17,Organic Search,DT001,D01
+C00282,Rangpur,Gaibandha,1.12,Smallholder (<2 acre),Vegetables,2025-12-01,Facebook Ads,DT008,D02
+C00283,Rangpur,Gaibandha,0.56,Smallholder (<2 acre),Maize,2025-09-18,Direct,DT008,D02
+C00284,Rangpur,Gaibandha,1.25,Smallholder (<2 acre),Maize,2026-02-14,Referral/NGO Partner,DT008,D02
+C00285,Dhaka,Gazipur,8.01,Large (>5 acre),Maize,2025-12-31,Organic Search,DT017,D05
+C00286,Khulna,Jashore,0.89,Smallholder (<2 acre),Wheat,2025-10-16,Referral/NGO Partner,DT010,D03
+C00287,Rajshahi,Bogura,1.24,Smallholder (<2 acre),Rice (Aman),2026-01-21,SMS Campaign,DT002,D01
+C00288,Khulna,Khulna,2.45,Medium (2-5 acre),Potato,2025-12-02,Facebook Ads,DT009,D03
+C00289,Mymensingh,Jamalpur,0.6,Smallholder (<2 acre),Vegetables,2026-01-07,Facebook Ads,DT014,D04
+C00290,Rajshahi,Pabna,3.37,Medium (2-5 acre),Mustard,2025-11-25,Referral/NGO Partner,DT003,D01
+C00291,Chattogram,Feni,1.17,Smallholder (<2 acre),Potato,2025-01-28,Referral/NGO Partner,DT026,D07
+C00292,Rajshahi,Rajshahi,3.27,Medium (2-5 acre),Rice (Aman),2025-04-18,Referral/NGO Partner,DT001,D01
+C00293,Chattogram,Feni,1.61,Smallholder (<2 acre),Wheat,2025-06-20,Facebook Ads,DT026,D07
+C00294,Rajshahi,Pabna,1.25,Smallholder (<2 acre),Vegetables,2025-01-23,Facebook Ads,DT003,D01
+C00295,Chattogram,Cox's Bazar,2.64,Medium (2-5 acre),Rice (Aman),2026-01-03,Organic Search,DT024,D07
+C00296,Chattogram,Chattogram,1.85,Smallholder (<2 acre),Jute,2026-01-07,SMS Campaign,DT023,D07
+C00297,Sylhet,Moulvibazar,1.68,Smallholder (<2 acre),Jute,2025-07-19,Field Dealer Network,DT028,D08
+C00298,Barishal,Barishal,1.13,Smallholder (<2 acre),Wheat,2025-12-28,Facebook Ads,DT020,D06
+C00299,Barishal,Patuakhali,1.49,Smallholder (<2 acre),Rice (Boro),2025-09-11,Field Dealer Network,DT021,D06
+C00300,Dhaka,Narayanganj,0.87,Smallholder (<2 acre),Maize,2025-09-27,Field Dealer Network,DT018,D05
+C00301,Barishal,Patuakhali,0.49,Smallholder (<2 acre),Rice (Boro),2025-01-09,Facebook Ads,DT021,D06
+C00302,Rajshahi,Rajshahi,1.17,Smallholder (<2 acre),Rice (Boro),2025-07-14,Organic Search,DT001,D01
+C00303,Mymensingh,Mymensingh,3.12,Medium (2-5 acre),Vegetables,2025-06-02,Facebook Ads,DT013,D04
+C00304,Mymensingh,Jamalpur,2.97,Medium (2-5 acre),Wheat,2025-01-12,Organic Search,DT014,D04
+C00305,Chattogram,Chattogram,6.15,Large (>5 acre),Mustard,2026-03-04,Direct,DT023,D07
+C00306,Mymensingh,Netrokona,3.61,Medium (2-5 acre),Maize,2025-02-12,Field Dealer Network,DT015,D04
+C00307,Khulna,Satkhira,2.74,Medium (2-5 acre),Potato,2025-03-02,Direct,DT011,D03
+C00308,Dhaka,Gazipur,1.61,Smallholder (<2 acre),Vegetables,2025-07-03,YouTube,DT017,D05
+C00309,Rangpur,Rangpur,0.71,Smallholder (<2 acre),Vegetables,2025-07-10,Field Dealer Network,DT005,D02
+C00310,Rajshahi,Rajshahi,3.6,Medium (2-5 acre),Maize,2025-11-22,SMS Campaign,DT001,D01
+C00311,Mymensingh,Mymensingh,1.75,Smallholder (<2 acre),Rice (Boro),2026-03-01,Referral/NGO Partner,DT013,D04
+C00312,Khulna,Satkhira,0.44,Smallholder (<2 acre),Potato,2025-01-30,Facebook Ads,DT011,D03
+C00313,Rangpur,Kurigram,0.56,Smallholder (<2 acre),Wheat,2025-06-15,Field Dealer Network,DT007,D02
+C00314,Khulna,Satkhira,2.77,Medium (2-5 acre),Wheat,2026-03-03,Organic Search,DT011,D03
+C00315,Khulna,Jashore,2.0,Medium (2-5 acre),Rice (Aman),2026-03-19,Facebook Ads,DT010,D03
+C00316,Khulna,Khulna,0.89,Smallholder (<2 acre),Wheat,2026-01-30,Facebook Ads,DT009,D03
+C00317,Khulna,Jashore,3.98,Medium (2-5 acre),Maize,2025-09-18,Organic Search,DT010,D03
+C00318,Dhaka,Dhaka,2.04,Medium (2-5 acre),Maize,2026-01-11,Facebook Ads,DT016,D05
+C00319,Rangpur,Kurigram,1.7,Smallholder (<2 acre),Rice (Aman),2025-11-30,YouTube,DT007,D02
+C00320,Sylhet,Sylhet,1.04,Smallholder (<2 acre),Rice (Boro),2026-01-21,Field Dealer Network,DT027,D08
+C00321,Chattogram,Cox's Bazar,1.15,Smallholder (<2 acre),Jute,2025-06-13,Organic Search,DT024,D07
+C00322,Mymensingh,Mymensingh,1.31,Smallholder (<2 acre),Jute,2025-08-16,Field Dealer Network,DT013,D04
+C00323,Khulna,Bagerhat,2.72,Medium (2-5 acre),Maize,2025-07-13,Referral/NGO Partner,DT012,D03
+C00324,Mymensingh,Jamalpur,0.2,Smallholder (<2 acre),Wheat,2026-02-28,Referral/NGO Partner,DT014,D04
+C00325,Chattogram,Chattogram,0.73,Smallholder (<2 acre),Rice (Boro),2025-04-04,Field Dealer Network,DT023,D07
+C00326,Dhaka,Tangail,0.55,Smallholder (<2 acre),Mustard,2025-03-19,Facebook Ads,DT019,D05
+C00327,Barishal,Bhola,2.26,Medium (2-5 acre),Vegetables,2026-03-19,Referral/NGO Partner,DT022,D06
+C00328,Mymensingh,Mymensingh,3.37,Medium (2-5 acre),Vegetables,2025-04-12,Field Dealer Network,DT013,D04
+C00329,Dhaka,Tangail,0.29,Smallholder (<2 acre),Rice (Aman),2025-08-15,SMS Campaign,DT019,D05
+C00330,Rangpur,Kurigram,5.3,Large (>5 acre),Maize,2025-10-13,Facebook Ads,DT007,D02
+C00331,Barishal,Bhola,2.18,Medium (2-5 acre),Mustard,2025-06-03,Facebook Ads,DT022,D06
+C00332,Rangpur,Gaibandha,4.05,Medium (2-5 acre),Vegetables,2025-12-10,Facebook Ads,DT008,D02
+C00333,Dhaka,Gazipur,0.2,Smallholder (<2 acre),Potato,2025-07-12,Field Dealer Network,DT017,D05
+C00334,Chattogram,Chattogram,2.0,Medium (2-5 acre),Maize,2025-06-02,Referral/NGO Partner,DT023,D07
+C00335,Rajshahi,Natore,2.3,Medium (2-5 acre),Potato,2025-11-07,Facebook Ads,DT004,D01
+C00336,Dhaka,Gazipur,4.65,Medium (2-5 acre),Wheat,2025-04-22,Organic Search,DT017,D05
+C00337,Rajshahi,Pabna,1.76,Smallholder (<2 acre),Rice (Aman),2025-05-26,YouTube,DT003,D01
+C00338,Barishal,Bhola,2.32,Medium (2-5 acre),Rice (Aman),2026-01-06,Field Dealer Network,DT022,D06
+C00339,Rajshahi,Natore,1.1,Smallholder (<2 acre),Wheat,2025-06-02,YouTube,DT004,D01
+C00340,Chattogram,Cox's Bazar,1.57,Smallholder (<2 acre),Vegetables,2025-02-17,Field Dealer Network,DT024,D07
+C00341,Rajshahi,Pabna,2.15,Medium (2-5 acre),Vegetables,2025-08-12,Facebook Ads,DT003,D01
+C00342,Sylhet,Sylhet,2.9,Medium (2-5 acre),Jute,2025-10-17,Field Dealer Network,DT027,D08
+C00343,Barishal,Patuakhali,0.6,Smallholder (<2 acre),Potato,2026-03-19,Field Dealer Network,DT021,D06
+C00344,Dhaka,Gazipur,4.24,Medium (2-5 acre),Vegetables,2025-01-08,SMS Campaign,DT017,D05
+C00345,Barishal,Bhola,1.25,Smallholder (<2 acre),Mustard,2025-01-06,Referral/NGO Partner,DT022,D06
+C00346,Barishal,Bhola,3.1,Medium (2-5 acre),Rice (Aman),2025-05-10,SMS Campaign,DT022,D06
+C00347,Sylhet,Moulvibazar,3.62,Medium (2-5 acre),Maize,2026-02-01,Field Dealer Network,DT028,D08
+C00348,Rangpur,Gaibandha,4.9,Medium (2-5 acre),Jute,2026-03-21,Facebook Ads,DT008,D02
+C00349,Dhaka,Dhaka,1.16,Smallholder (<2 acre),Jute,2025-10-27,Organic Search,DT016,D05
+C00350,Rajshahi,Rajshahi,2.25,Medium (2-5 acre),Rice (Boro),2026-04-10,Facebook Ads,DT001,D01
+C00351,Dhaka,Narayanganj,3.86,Medium (2-5 acre),Wheat,2025-12-10,Facebook Ads,DT018,D05
+C00352,Rangpur,Kurigram,0.88,Smallholder (<2 acre),Rice (Boro),2025-05-04,Referral/NGO Partner,DT007,D02
+C00353,Dhaka,Gazipur,1.22,Smallholder (<2 acre),Rice (Aman),2025-03-15,Facebook Ads,DT017,D05
+C00354,Dhaka,Narayanganj,2.68,Medium (2-5 acre),Maize,2025-03-20,Organic Search,DT018,D05
+C00355,Mymensingh,Jamalpur,0.83,Smallholder (<2 acre),Rice (Aman),2025-11-27,Referral/NGO Partner,DT014,D04
+C00356,Mymensingh,Netrokona,1.27,Smallholder (<2 acre),Vegetables,2026-04-02,Organic Search,DT015,D04
+C00357,Barishal,Barishal,2.13,Medium (2-5 acre),Wheat,2025-05-13,Organic Search,DT020,D06
+C00358,Barishal,Barishal,1.84,Smallholder (<2 acre),Vegetables,2026-01-12,Direct,DT020,D06
+C00359,Mymensingh,Mymensingh,3.34,Medium (2-5 acre),Rice (Boro),2025-02-04,Referral/NGO Partner,DT013,D04
+C00360,Dhaka,Dhaka,4.29,Medium (2-5 acre),Jute,2025-12-11,Field Dealer Network,DT016,D05
+C00361,Chattogram,Chattogram,3.76,Medium (2-5 acre),Jute,2025-05-26,Facebook Ads,DT023,D07
+C00362,Rajshahi,Rajshahi,1.19,Smallholder (<2 acre),Potato,2025-02-03,Direct,DT001,D01
+C00363,Rajshahi,Bogura,2.06,Medium (2-5 acre),Mustard,2025-02-28,Referral/NGO Partner,DT002,D01
+C00364,Rajshahi,Rajshahi,3.51,Medium (2-5 acre),Vegetables,2025-12-01,Referral/NGO Partner,DT001,D01
+C00365,Dhaka,Dhaka,1.05,Smallholder (<2 acre),Mustard,2025-05-24,Direct,DT016,D05
+C00366,Khulna,Jashore,1.19,Smallholder (<2 acre),Wheat,2025-11-25,Organic Search,DT010,D03
+C00367,Barishal,Patuakhali,3.13,Medium (2-5 acre),Vegetables,2025-01-18,Field Dealer Network,DT021,D06
+C00368,Dhaka,Tangail,2.19,Medium (2-5 acre),Mustard,2025-03-26,SMS Campaign,DT019,D05
+C00369,Khulna,Satkhira,3.12,Medium (2-5 acre),Rice (Aman),2025-03-11,Organic Search,DT011,D03
+C00370,Chattogram,Chattogram,0.57,Smallholder (<2 acre),Maize,2025-09-25,Field Dealer Network,DT023,D07
+C00371,Barishal,Patuakhali,2.2,Medium (2-5 acre),Rice (Boro),2025-10-08,SMS Campaign,DT021,D06
+C00372,Rangpur,Dinajpur,0.98,Smallholder (<2 acre),Vegetables,2026-03-23,Field Dealer Network,DT006,D02
+C00373,Khulna,Bagerhat,1.08,Smallholder (<2 acre),Rice (Boro),2025-02-11,Organic Search,DT012,D03
+C00374,Khulna,Satkhira,3.8,Medium (2-5 acre),Mustard,2025-06-20,Organic Search,DT011,D03
+C00375,Rajshahi,Pabna,0.92,Smallholder (<2 acre),Wheat,2026-02-17,Facebook Ads,DT003,D01
+C00376,Rajshahi,Rajshahi,2.41,Medium (2-5 acre),Rice (Boro),2025-06-10,Referral/NGO Partner,DT001,D01
+C00377,Chattogram,Feni,2.24,Medium (2-5 acre),Rice (Aman),2025-04-02,Organic Search,DT026,D07
+C00378,Khulna,Jashore,1.1,Smallholder (<2 acre),Rice (Aman),2025-11-10,Field Dealer Network,DT010,D03
+C00379,Khulna,Khulna,1.01,Smallholder (<2 acre),Rice (Boro),2025-06-27,Direct,DT009,D03
+C00380,Barishal,Barishal,2.97,Medium (2-5 acre),Wheat,2025-05-18,Field Dealer Network,DT020,D06
+C00381,Mymensingh,Netrokona,0.81,Smallholder (<2 acre),Mustard,2025-12-12,Field Dealer Network,DT015,D04
+C00382,Chattogram,Cox's Bazar,3.6,Medium (2-5 acre),Jute,2025-06-17,Direct,DT024,D07
+C00383,Barishal,Patuakhali,2.1,Medium (2-5 acre),Vegetables,2025-09-05,Organic Search,DT021,D06
+C00384,Mymensingh,Mymensingh,0.42,Smallholder (<2 acre),Jute,2026-01-25,Organic Search,DT013,D04
+C00385,Khulna,Satkhira,0.76,Smallholder (<2 acre),Rice (Boro),2025-01-03,Field Dealer Network,DT011,D03
+C00386,Sylhet,Habiganj,0.46,Smallholder (<2 acre),Jute,2025-06-13,Organic Search,DT029,D08
+C00387,Dhaka,Tangail,0.54,Smallholder (<2 acre),Mustard,2026-03-31,Referral/NGO Partner,DT019,D05
+C00388,Sylhet,Moulvibazar,1.13,Smallholder (<2 acre),Rice (Aman),2025-12-07,Organic Search,DT028,D08
+C00389,Rajshahi,Bogura,2.6,Medium (2-5 acre),Wheat,2025-11-04,Organic Search,DT002,D01
+C00390,Chattogram,Chattogram,1.89,Smallholder (<2 acre),Rice (Aman),2025-04-03,Organic Search,DT023,D07
+C00391,Dhaka,Gazipur,2.58,Medium (2-5 acre),Potato,2025-03-06,Field Dealer Network,DT017,D05
+C00392,Rajshahi,Pabna,3.66,Medium (2-5 acre),Jute,2025-08-26,Field Dealer Network,DT003,D01
+C00393,Dhaka,Tangail,2.22,Medium (2-5 acre),Potato,2026-02-22,Facebook Ads,DT019,D05
+C00394,Dhaka,Gazipur,2.85,Medium (2-5 acre),Rice (Aman),2025-05-04,Field Dealer Network,DT017,D05
+C00395,Rajshahi,Rajshahi,3.37,Medium (2-5 acre),Rice (Boro),2025-06-05,Field Dealer Network,DT001,D01
+C00396,Mymensingh,Netrokona,3.1,Medium (2-5 acre),Rice (Aman),2025-10-26,Organic Search,DT015,D04
+C00397,Chattogram,Comilla,2.23,Medium (2-5 acre),Rice (Boro),2025-02-16,Field Dealer Network,DT025,D07
+C00398,Rangpur,Gaibandha,0.88,Smallholder (<2 acre),Rice (Aman),2025-12-09,Field Dealer Network,DT008,D02
+C00399,Mymensingh,Netrokona,1.77,Smallholder (<2 acre),Maize,2025-02-14,YouTube,DT015,D04
+C00400,Mymensingh,Jamalpur,2.36,Medium (2-5 acre),Potato,2025-05-14,Facebook Ads,DT014,D04
+C00401,Rangpur,Dinajpur,1.99,Smallholder (<2 acre),Vegetables,2025-06-11,Field Dealer Network,DT006,D02
+C00402,Chattogram,Chattogram,1.22,Smallholder (<2 acre),Rice (Aman),2025-06-14,Field Dealer Network,DT023,D07
+C00403,Barishal,Barishal,0.9,Smallholder (<2 acre),Wheat,2025-08-07,SMS Campaign,DT020,D06
+C00404,Rajshahi,Bogura,1.35,Smallholder (<2 acre),Mustard,2025-07-10,Facebook Ads,DT002,D01
+C00405,Sylhet,Sylhet,0.95,Smallholder (<2 acre),Potato,2025-04-07,Referral/NGO Partner,DT027,D08
+C00406,Chattogram,Chattogram,4.38,Medium (2-5 acre),Jute,2025-11-19,Field Dealer Network,DT023,D07
+C00407,Rangpur,Kurigram,1.31,Smallholder (<2 acre),Jute,2025-03-02,Referral/NGO Partner,DT007,D02
+C00408,Chattogram,Cox's Bazar,1.22,Smallholder (<2 acre),Vegetables,2025-03-07,SMS Campaign,DT024,D07
+C00409,Rajshahi,Rajshahi,1.75,Smallholder (<2 acre),Rice (Aman),2025-01-06,Organic Search,DT001,D01
+C00410,Sylhet,Moulvibazar,3.6,Medium (2-5 acre),Wheat,2026-03-20,Organic Search,DT028,D08
+C00411,Dhaka,Narayanganj,1.27,Smallholder (<2 acre),Wheat,2025-09-30,Field Dealer Network,DT018,D05
+C00412,Dhaka,Dhaka,2.04,Medium (2-5 acre),Rice (Aman),2025-05-10,Organic Search,DT016,D05
+C00413,Rajshahi,Natore,3.96,Medium (2-5 acre),Wheat,2025-04-30,Organic Search,DT004,D01
+C00414,Chattogram,Chattogram,2.08,Medium (2-5 acre),Vegetables,2025-12-01,Field Dealer Network,DT023,D07
+C00415,Rajshahi,Natore,1.93,Smallholder (<2 acre),Mustard,2025-08-29,Field Dealer Network,DT004,D01
+C00416,Rangpur,Dinajpur,1.78,Smallholder (<2 acre),Maize,2025-05-02,Organic Search,DT006,D02
+C00417,Rajshahi,Pabna,1.5,Smallholder (<2 acre),Vegetables,2025-09-19,Facebook Ads,DT003,D01
+C00418,Barishal,Patuakhali,1.38,Smallholder (<2 acre),Rice (Boro),2025-10-28,SMS Campaign,DT021,D06
+C00419,Rangpur,Gaibandha,1.52,Smallholder (<2 acre),Jute,2025-08-30,Organic Search,DT008,D02
+C00420,Chattogram,Cox's Bazar,0.82,Smallholder (<2 acre),Wheat,2025-09-13,SMS Campaign,DT024,D07
+C00421,Dhaka,Tangail,1.39,Smallholder (<2 acre),Vegetables,2025-12-18,Facebook Ads,DT019,D05
+C00422,Rajshahi,Pabna,1.18,Smallholder (<2 acre),Potato,2025-02-06,Organic Search,DT003,D01
+C00423,Rajshahi,Bogura,2.16,Medium (2-5 acre),Vegetables,2025-10-15,Organic Search,DT002,D01
+C00424,Rajshahi,Natore,1.88,Smallholder (<2 acre),Rice (Boro),2025-06-26,Referral/NGO Partner,DT004,D01
+C00425,Dhaka,Narayanganj,0.4,Smallholder (<2 acre),Jute,2025-05-08,Field Dealer Network,DT018,D05
+C00426,Barishal,Patuakhali,1.1,Smallholder (<2 acre),Wheat,2025-01-01,YouTube,DT021,D06
+C00427,Rangpur,Gaibandha,2.17,Medium (2-5 acre),Mustard,2025-04-07,Field Dealer Network,DT008,D02
+C00428,Chattogram,Cox's Bazar,1.73,Smallholder (<2 acre),Wheat,2026-01-18,SMS Campaign,DT024,D07
+C00429,Rajshahi,Natore,1.2,Smallholder (<2 acre),Vegetables,2025-02-04,Direct,DT004,D01
+C00430,Barishal,Bhola,0.71,Smallholder (<2 acre),Potato,2025-08-01,Field Dealer Network,DT022,D06
+C00431,Chattogram,Cox's Bazar,2.46,Medium (2-5 acre),Potato,2025-11-30,Field Dealer Network,DT024,D07
+C00432,Barishal,Patuakhali,0.41,Smallholder (<2 acre),Vegetables,2025-12-08,Referral/NGO Partner,DT021,D06
+C00433,Dhaka,Narayanganj,5.38,Large (>5 acre),Wheat,2025-04-16,Field Dealer Network,DT018,D05
+C00434,Chattogram,Cox's Bazar,1.78,Smallholder (<2 acre),Vegetables,2025-10-12,Organic Search,DT024,D07
+C00435,Rajshahi,Pabna,0.67,Smallholder (<2 acre),Maize,2025-10-04,Facebook Ads,DT003,D01
+C00436,Rangpur,Dinajpur,2.03,Medium (2-5 acre),Potato,2026-02-18,Referral/NGO Partner,DT006,D02
+C00437,Rajshahi,Rajshahi,0.77,Smallholder (<2 acre),Wheat,2026-04-14,SMS Campaign,DT001,D01
+C00438,Mymensingh,Jamalpur,2.68,Medium (2-5 acre),Vegetables,2025-11-26,Direct,DT014,D04
+C00439,Barishal,Bhola,1.39,Smallholder (<2 acre),Mustard,2025-04-29,Referral/NGO Partner,DT022,D06
+C00440,Dhaka,Tangail,1.06,Smallholder (<2 acre),Vegetables,2025-03-25,SMS Campaign,DT019,D05
+C00441,Chattogram,Comilla,1.9,Smallholder (<2 acre),Rice (Boro),2026-02-12,Field Dealer Network,DT025,D07
+C00442,Rajshahi,Pabna,1.4,Smallholder (<2 acre),Mustard,2025-02-22,Organic Search,DT003,D01
+C00443,Barishal,Patuakhali,0.38,Smallholder (<2 acre),Rice (Boro),2026-04-19,Referral/NGO Partner,DT021,D06
+C00444,Rangpur,Dinajpur,4.79,Medium (2-5 acre),Maize,2026-01-20,Facebook Ads,DT006,D02
+C00445,Rangpur,Rangpur,3.16,Medium (2-5 acre),Mustard,2025-06-15,Facebook Ads,DT005,D02
+C00446,Dhaka,Dhaka,0.49,Smallholder (<2 acre),Mustard,2025-06-09,Organic Search,DT016,D05
+C00447,Sylhet,Habiganj,4.68,Medium (2-5 acre),Tea,2025-04-29,Field Dealer Network,DT029,D08
+C00448,Dhaka,Tangail,2.73,Medium (2-5 acre),Jute,2025-05-16,YouTube,DT019,D05
+C00449,Rajshahi,Pabna,1.53,Smallholder (<2 acre),Vegetables,2025-10-29,YouTube,DT003,D01
+C00450,Dhaka,Narayanganj,3.6,Medium (2-5 acre),Rice (Aman),2026-03-06,SMS Campaign,DT018,D05
+C00451,Rajshahi,Rajshahi,3.08,Medium (2-5 acre),Rice (Aman),2025-08-22,Organic Search,DT001,D01
+C00452,Chattogram,Feni,0.78,Smallholder (<2 acre),Jute,2025-04-23,Facebook Ads,DT026,D07
+C00453,Dhaka,Dhaka,1.77,Smallholder (<2 acre),Rice (Aman),2026-02-01,SMS Campaign,DT016,D05
+C00454,Rangpur,Rangpur,1.51,Smallholder (<2 acre),Maize,2025-10-30,YouTube,DT005,D02
+C00455,Rajshahi,Natore,2.07,Medium (2-5 acre),Wheat,2026-01-23,Facebook Ads,DT004,D01
+C00456,Rangpur,Gaibandha,0.72,Smallholder (<2 acre),Maize,2025-08-04,Organic Search,DT008,D02
+C00457,Sylhet,Sylhet,3.82,Medium (2-5 acre),Jute,2025-01-22,Field Dealer Network,DT027,D08
+C00458,Mymensingh,Netrokona,1.75,Smallholder (<2 acre),Jute,2025-11-26,Facebook Ads,DT015,D04
+C00459,Barishal,Patuakhali,1.89,Smallholder (<2 acre),Rice (Aman),2026-03-29,Organic Search,DT021,D06
+C00460,Dhaka,Dhaka,2.44,Medium (2-5 acre),Rice (Aman),2025-05-02,Referral/NGO Partner,DT016,D05
+C00461,Dhaka,Dhaka,5.06,Large (>5 acre),Potato,2026-03-07,Organic Search,DT016,D05
+C00462,Rajshahi,Bogura,0.52,Smallholder (<2 acre),Jute,2026-02-12,Facebook Ads,DT002,D01
+C00463,Sylhet,Habiganj,0.9,Smallholder (<2 acre),Maize,2025-08-07,Referral/NGO Partner,DT029,D08
+C00464,Rangpur,Gaibandha,1.06,Smallholder (<2 acre),Wheat,2026-03-19,Direct,DT008,D02
+C00465,Dhaka,Narayanganj,2.76,Medium (2-5 acre),Jute,2025-10-17,SMS Campaign,DT018,D05
+C00466,Dhaka,Dhaka,3.49,Medium (2-5 acre),Rice (Aman),2025-02-05,Facebook Ads,DT016,D05
+C00467,Dhaka,Narayanganj,2.79,Medium (2-5 acre),Potato,2025-01-15,Referral/NGO Partner,DT018,D05
+C00468,Sylhet,Sylhet,1.6,Smallholder (<2 acre),Jute,2025-05-15,Facebook Ads,DT027,D08
+C00469,Rajshahi,Natore,2.62,Medium (2-5 acre),Maize,2025-04-12,Organic Search,DT004,D01
+C00470,Mymensingh,Mymensingh,1.73,Smallholder (<2 acre),Rice (Aman),2025-08-31,Organic Search,DT013,D04
+C00471,Khulna,Bagerhat,2.11,Medium (2-5 acre),Potato,2026-03-16,Field Dealer Network,DT012,D03
+C00472,Mymensingh,Mymensingh,1.95,Smallholder (<2 acre),Rice (Aman),2025-06-14,Field Dealer Network,DT013,D04
+C00473,Rajshahi,Natore,0.73,Smallholder (<2 acre),Rice (Boro),2025-06-24,SMS Campaign,DT004,D01
+C00474,Rajshahi,Bogura,4.49,Medium (2-5 acre),Mustard,2026-01-15,Facebook Ads,DT002,D01
+C00475,Rangpur,Gaibandha,8.14,Large (>5 acre),Mustard,2025-01-26,Field Dealer Network,DT008,D02
+C00476,Rangpur,Dinajpur,3.58,Medium (2-5 acre),Rice (Aman),2025-02-13,Direct,DT006,D02
+C00477,Khulna,Satkhira,1.93,Smallholder (<2 acre),Rice (Aman),2025-10-25,Organic Search,DT011,D03
+C00478,Dhaka,Narayanganj,1.78,Smallholder (<2 acre),Vegetables,2026-01-17,Facebook Ads,DT018,D05
+C00479,Dhaka,Narayanganj,1.25,Smallholder (<2 acre),Wheat,2025-01-23,Facebook Ads,DT018,D05
+C00480,Khulna,Bagerhat,4.1,Medium (2-5 acre),Vegetables,2025-07-24,Organic Search,DT012,D03
+C00481,Khulna,Satkhira,2.34,Medium (2-5 acre),Mustard,2025-06-10,SMS Campaign,DT011,D03
+C00482,Rangpur,Kurigram,6.47,Large (>5 acre),Maize,2025-03-30,SMS Campaign,DT007,D02
+C00483,Dhaka,Tangail,2.88,Medium (2-5 acre),Maize,2026-02-07,Field Dealer Network,DT019,D05
+C00484,Khulna,Bagerhat,1.6,Smallholder (<2 acre),Wheat,2025-03-22,Field Dealer Network,DT012,D03
+C00485,Rajshahi,Pabna,2.19,Medium (2-5 acre),Vegetables,2026-02-01,Referral/NGO Partner,DT003,D01
+C00486,Khulna,Khulna,1.06,Smallholder (<2 acre),Maize,2025-02-18,Field Dealer Network,DT009,D03
+C00487,Mymensingh,Jamalpur,1.33,Smallholder (<2 acre),Rice (Aman),2025-10-08,Referral/NGO Partner,DT014,D04
+C00488,Rangpur,Dinajpur,3.33,Medium (2-5 acre),Maize,2026-04-10,Organic Search,DT006,D02
+C00489,Dhaka,Dhaka,1.52,Smallholder (<2 acre),Rice (Boro),2026-02-19,Facebook Ads,DT016,D05
+C00490,Dhaka,Narayanganj,2.47,Medium (2-5 acre),Mustard,2026-02-21,Organic Search,DT018,D05
+C00491,Dhaka,Narayanganj,0.38,Smallholder (<2 acre),Wheat,2025-09-05,Facebook Ads,DT018,D05
+C00492,Dhaka,Gazipur,2.62,Medium (2-5 acre),Jute,2025-08-21,Organic Search,DT017,D05
+C00493,Dhaka,Dhaka,0.5,Smallholder (<2 acre),Jute,2026-04-24,Organic Search,DT016,D05
+C00494,Khulna,Khulna,1.95,Smallholder (<2 acre),Maize,2025-07-25,Referral/NGO Partner,DT009,D03
+C00495,Barishal,Barishal,1.27,Smallholder (<2 acre),Potato,2025-11-02,SMS Campaign,DT020,D06
+C00496,Mymensingh,Netrokona,8.66,Large (>5 acre),Maize,2025-08-16,Organic Search,DT015,D04
+C00497,Khulna,Bagerhat,0.23,Smallholder (<2 acre),Potato,2026-01-02,YouTube,DT012,D03
+C00498,Dhaka,Tangail,1.61,Smallholder (<2 acre),Rice (Aman),2025-07-22,Direct,DT019,D05
+C00499,Khulna,Satkhira,0.84,Smallholder (<2 acre),Rice (Boro),2025-03-03,Facebook Ads,DT011,D03
+C00500,Mymensingh,Mymensingh,1.59,Smallholder (<2 acre),Rice (Boro),2025-01-05,Referral/NGO Partner,DT013,D04
+C00501,Barishal,Patuakhali,2.59,Medium (2-5 acre),Rice (Boro),2025-11-11,Organic Search,DT021,D06
+C00502,Chattogram,Cox's Bazar,0.86,Smallholder (<2 acre),Rice (Aman),2025-05-13,Organic Search,DT024,D07
+C00503,Chattogram,Chattogram,2.26,Medium (2-5 acre),Vegetables,2025-03-18,SMS Campaign,DT023,D07
+C00504,Mymensingh,Netrokona,1.69,Smallholder (<2 acre),Vegetables,2026-03-30,Organic Search,DT015,D04
+C00505,Mymensingh,Netrokona,2.26,Medium (2-5 acre),Rice (Boro),2025-07-28,Referral/NGO Partner,DT015,D04
+C00506,Barishal,Barishal,1.35,Smallholder (<2 acre),Maize,2026-01-23,Field Dealer Network,DT020,D06
+C00507,Khulna,Satkhira,5.02,Large (>5 acre),Jute,2025-01-16,Facebook Ads,DT011,D03
+C00508,Chattogram,Cox's Bazar,0.32,Smallholder (<2 acre),Mustard,2026-01-24,Referral/NGO Partner,DT024,D07
+C00509,Mymensingh,Netrokona,0.34,Smallholder (<2 acre),Rice (Boro),2025-07-20,Referral/NGO Partner,DT015,D04
+C00510,Rajshahi,Bogura,1.07,Smallholder (<2 acre),Rice (Boro),2026-04-23,Referral/NGO Partner,DT002,D01
+C00511,Rajshahi,Natore,1.21,Smallholder (<2 acre),Rice (Boro),2025-11-08,Field Dealer Network,DT004,D01
+C00512,Chattogram,Feni,2.46,Medium (2-5 acre),Wheat,2025-07-01,Facebook Ads,DT026,D07
+C00513,Rajshahi,Pabna,2.3,Medium (2-5 acre),Maize,2025-07-25,Referral/NGO Partner,DT003,D01
+C00514,Rangpur,Dinajpur,2.54,Medium (2-5 acre),Rice (Aman),2025-05-08,Referral/NGO Partner,DT006,D02
+C00515,Khulna,Jashore,0.51,Smallholder (<2 acre),Mustard,2025-02-09,Facebook Ads,DT010,D03
+C00516,Rangpur,Kurigram,0.82,Smallholder (<2 acre),Mustard,2025-04-17,Facebook Ads,DT007,D02
+C00517,Khulna,Khulna,2.42,Medium (2-5 acre),Maize,2025-10-28,Organic Search,DT009,D03
+C00518,Barishal,Barishal,0.59,Smallholder (<2 acre),Rice (Boro),2026-01-31,Organic Search,DT020,D06
+C00519,Rajshahi,Rajshahi,1.22,Smallholder (<2 acre),Jute,2026-04-07,YouTube,DT001,D01
+C00520,Chattogram,Comilla,2.86,Medium (2-5 acre),Wheat,2025-08-15,SMS Campaign,DT025,D07
+C00521,Chattogram,Feni,1.76,Smallholder (<2 acre),Maize,2026-03-26,Field Dealer Network,DT026,D07
+C00522,Khulna,Satkhira,3.61,Medium (2-5 acre),Vegetables,2025-12-11,Facebook Ads,DT011,D03
+C00523,Rajshahi,Rajshahi,1.7,Smallholder (<2 acre),Potato,2025-07-13,SMS Campaign,DT001,D01
+C00524,Dhaka,Dhaka,1.51,Smallholder (<2 acre),Wheat,2026-01-03,Referral/NGO Partner,DT016,D05
+C00525,Rajshahi,Rajshahi,1.75,Smallholder (<2 acre),Wheat,2026-01-29,Field Dealer Network,DT001,D01
+C00526,Khulna,Bagerhat,4.2,Medium (2-5 acre),Potato,2025-01-15,Facebook Ads,DT012,D03
+C00527,Sylhet,Sylhet,1.49,Smallholder (<2 acre),Maize,2025-05-28,Organic Search,DT027,D08
+C00528,Sylhet,Moulvibazar,0.94,Smallholder (<2 acre),Maize,2026-02-23,SMS Campaign,DT028,D08
+C00529,Barishal,Barishal,1.42,Smallholder (<2 acre),Maize,2025-03-09,Field Dealer Network,DT020,D06
+C00530,Khulna,Satkhira,5.92,Large (>5 acre),Rice (Boro),2025-12-07,Facebook Ads,DT011,D03
+C00531,Dhaka,Gazipur,9.12,Large (>5 acre),Jute,2025-11-11,Organic Search,DT017,D05
+C00532,Dhaka,Dhaka,0.5,Smallholder (<2 acre),Rice (Aman),2026-02-01,YouTube,DT016,D05
+C00533,Khulna,Jashore,0.64,Smallholder (<2 acre),Maize,2025-04-12,Field Dealer Network,DT010,D03
+C00534,Dhaka,Gazipur,3.05,Medium (2-5 acre),Mustard,2025-06-11,Organic Search,DT017,D05
+C00535,Rajshahi,Rajshahi,0.68,Smallholder (<2 acre),Wheat,2025-10-15,Facebook Ads,DT001,D01
+C00536,Rangpur,Rangpur,1.86,Smallholder (<2 acre),Jute,2025-06-14,Facebook Ads,DT005,D02
+C00537,Mymensingh,Netrokona,0.55,Smallholder (<2 acre),Wheat,2025-06-16,Field Dealer Network,DT015,D04
+C00538,Rangpur,Rangpur,0.54,Smallholder (<2 acre),Rice (Aman),2025-02-03,Field Dealer Network,DT005,D02
+C00539,Rangpur,Kurigram,2.33,Medium (2-5 acre),Mustard,2025-04-06,Organic Search,DT007,D02
+C00540,Chattogram,Chattogram,1.31,Smallholder (<2 acre),Potato,2025-11-29,Field Dealer Network,DT023,D07
+C00541,Sylhet,Sylhet,0.47,Smallholder (<2 acre),Tea,2025-10-09,Facebook Ads,DT027,D08
+C00542,Mymensingh,Mymensingh,1.07,Smallholder (<2 acre),Wheat,2025-08-14,Facebook Ads,DT013,D04
+C00543,Chattogram,Chattogram,1.52,Smallholder (<2 acre),Rice (Aman),2025-01-04,Field Dealer Network,DT023,D07
+C00544,Sylhet,Habiganj,0.71,Smallholder (<2 acre),Mustard,2025-06-14,Facebook Ads,DT029,D08
+C00545,Rajshahi,Natore,0.52,Smallholder (<2 acre),Vegetables,2025-05-26,Organic Search,DT004,D01
+C00546,Mymensingh,Jamalpur,1.06,Smallholder (<2 acre),Mustard,2025-03-20,YouTube,DT014,D04
+C00547,Khulna,Khulna,0.67,Smallholder (<2 acre),Rice (Boro),2025-09-24,Facebook Ads,DT009,D03
+C00548,Rajshahi,Natore,3.2,Medium (2-5 acre),Mustard,2025-08-08,Organic Search,DT004,D01
+C00549,Barishal,Barishal,3.13,Medium (2-5 acre),Jute,2025-07-21,YouTube,DT020,D06
+C00550,Khulna,Jashore,2.15,Medium (2-5 acre),Wheat,2025-11-12,Field Dealer Network,DT010,D03
+C00551,Mymensingh,Netrokona,2.0,Medium (2-5 acre),Jute,2025-03-29,Organic Search,DT015,D04
+C00552,Rajshahi,Rajshahi,3.02,Medium (2-5 acre),Vegetables,2025-07-10,SMS Campaign,DT001,D01
+C00553,Rangpur,Dinajpur,1.76,Smallholder (<2 acre),Potato,2026-03-10,YouTube,DT006,D02
+C00554,Chattogram,Feni,1.74,Smallholder (<2 acre),Jute,2025-08-21,Facebook Ads,DT026,D07
+C00555,Rajshahi,Bogura,0.95,Smallholder (<2 acre),Wheat,2025-02-10,Field Dealer Network,DT002,D01
+C00556,Rangpur,Dinajpur,4.39,Medium (2-5 acre),Rice (Aman),2025-08-06,Direct,DT006,D02
+C00557,Rangpur,Dinajpur,0.91,Smallholder (<2 acre),Potato,2025-02-27,Referral/NGO Partner,DT006,D02
+C00558,Mymensingh,Netrokona,0.72,Smallholder (<2 acre),Rice (Aman),2025-03-20,Facebook Ads,DT015,D04
+C00559,Dhaka,Tangail,1.04,Smallholder (<2 acre),Wheat,2025-12-23,Facebook Ads,DT019,D05
+C00560,Mymensingh,Jamalpur,3.11,Medium (2-5 acre),Rice (Boro),2025-11-10,Field Dealer Network,DT014,D04
+C00561,Rajshahi,Rajshahi,0.5,Smallholder (<2 acre),Wheat,2025-07-31,Field Dealer Network,DT001,D01
+C00562,Rangpur,Rangpur,2.53,Medium (2-5 acre),Rice (Boro),2025-06-28,Field Dealer Network,DT005,D02
+C00563,Chattogram,Cox's Bazar,1.43,Smallholder (<2 acre),Mustard,2026-03-03,Organic Search,DT024,D07
+C00564,Dhaka,Narayanganj,3.68,Medium (2-5 acre),Vegetables,2025-03-28,Organic Search,DT018,D05
+C00565,Dhaka,Tangail,3.42,Medium (2-5 acre),Rice (Aman),2025-03-15,Referral/NGO Partner,DT019,D05
+C00566,Dhaka,Gazipur,1.43,Smallholder (<2 acre),Vegetables,2025-11-29,Field Dealer Network,DT017,D05
+C00567,Barishal,Patuakhali,2.4,Medium (2-5 acre),Jute,2025-08-16,Referral/NGO Partner,DT021,D06
+C00568,Rajshahi,Rajshahi,2.09,Medium (2-5 acre),Jute,2025-12-19,SMS Campaign,DT001,D01
+C00569,Khulna,Jashore,1.84,Smallholder (<2 acre),Maize,2026-03-08,Facebook Ads,DT010,D03
+C00570,Mymensingh,Netrokona,0.4,Smallholder (<2 acre),Vegetables,2025-10-13,Direct,DT015,D04
+C00571,Khulna,Jashore,1.6,Smallholder (<2 acre),Maize,2025-09-23,Direct,DT010,D03
+C00572,Chattogram,Comilla,2.8,Medium (2-5 acre),Vegetables,2025-03-15,YouTube,DT025,D07
+C00573,Mymensingh,Netrokona,1.81,Smallholder (<2 acre),Wheat,2025-11-05,Field Dealer Network,DT015,D04
+C00574,Barishal,Barishal,1.63,Smallholder (<2 acre),Rice (Boro),2025-09-04,Referral/NGO Partner,DT020,D06
+C00575,Chattogram,Feni,1.61,Smallholder (<2 acre),Maize,2025-03-25,Organic Search,DT026,D07
+C00576,Mymensingh,Mymensingh,3.41,Medium (2-5 acre),Rice (Boro),2025-07-05,Referral/NGO Partner,DT013,D04
+C00577,Chattogram,Chattogram,2.42,Medium (2-5 acre),Potato,2026-01-16,Field Dealer Network,DT023,D07
+C00578,Dhaka,Gazipur,3.04,Medium (2-5 acre),Rice (Boro),2025-08-01,YouTube,DT017,D05
+C00579,Chattogram,Chattogram,1.05,Smallholder (<2 acre),Rice (Boro),2025-01-18,Field Dealer Network,DT023,D07
+C00580,Khulna,Satkhira,0.89,Smallholder (<2 acre),Rice (Aman),2025-05-16,Facebook Ads,DT011,D03
+C00581,Mymensingh,Jamalpur,1.62,Smallholder (<2 acre),Rice (Boro),2025-12-12,Field Dealer Network,DT014,D04
+C00582,Mymensingh,Netrokona,0.89,Smallholder (<2 acre),Jute,2026-04-11,SMS Campaign,DT015,D04
+C00583,Rajshahi,Bogura,3.9,Medium (2-5 acre),Vegetables,2025-03-04,Referral/NGO Partner,DT002,D01
+C00584,Khulna,Satkhira,3.71,Medium (2-5 acre),Mustard,2026-03-12,Field Dealer Network,DT011,D03
+C00585,Chattogram,Comilla,3.13,Medium (2-5 acre),Mustard,2025-08-25,Organic Search,DT025,D07
+C00586,Dhaka,Dhaka,0.61,Smallholder (<2 acre),Potato,2025-02-03,Field Dealer Network,DT016,D05
+C00587,Rangpur,Kurigram,2.53,Medium (2-5 acre),Maize,2025-10-21,Organic Search,DT007,D02
+C00588,Khulna,Khulna,0.94,Smallholder (<2 acre),Wheat,2026-03-05,SMS Campaign,DT009,D03
+C00589,Rangpur,Rangpur,4.31,Medium (2-5 acre),Rice (Boro),2026-02-15,Referral/NGO Partner,DT005,D02
+C00590,Rajshahi,Rajshahi,2.75,Medium (2-5 acre),Wheat,2025-04-02,Referral/NGO Partner,DT001,D01
+C00591,Chattogram,Chattogram,3.94,Medium (2-5 acre),Jute,2025-04-26,Field Dealer Network,DT023,D07
+C00592,Mymensingh,Mymensingh,1.06,Smallholder (<2 acre),Rice (Aman),2025-03-31,Referral/NGO Partner,DT013,D04
+C00593,Rangpur,Gaibandha,1.71,Smallholder (<2 acre),Rice (Aman),2025-08-15,Organic Search,DT008,D02
+C00594,Dhaka,Tangail,0.77,Smallholder (<2 acre),Mustard,2025-04-16,Field Dealer Network,DT019,D05
+C00595,Rajshahi,Rajshahi,0.71,Smallholder (<2 acre),Jute,2025-07-18,Referral/NGO Partner,DT001,D01
+C00596,Rangpur,Dinajpur,0.74,Smallholder (<2 acre),Potato,2026-01-10,SMS Campaign,DT006,D02
+C00597,Dhaka,Gazipur,2.27,Medium (2-5 acre),Vegetables,2025-08-12,SMS Campaign,DT017,D05
+C00598,Dhaka,Dhaka,1.97,Smallholder (<2 acre),Potato,2025-08-19,SMS Campaign,DT016,D05
+C00599,Sylhet,Sylhet,4.77,Medium (2-5 acre),Tea,2025-05-31,Organic Search,DT027,D08
+C00600,Dhaka,Dhaka,2.4,Medium (2-5 acre),Rice (Aman),2025-03-16,Organic Search,DT016,D05
+C00601,Mymensingh,Netrokona,0.52,Smallholder (<2 acre),Mustard,2025-01-15,Direct,DT015,D04
+C00602,Barishal,Barishal,2.3,Medium (2-5 acre),Mustard,2025-12-19,Referral/NGO Partner,DT020,D06
+C00603,Chattogram,Comilla,2.65,Medium (2-5 acre),Vegetables,2025-09-05,Referral/NGO Partner,DT025,D07
+C00604,Barishal,Bhola,0.84,Smallholder (<2 acre),Mustard,2025-09-03,SMS Campaign,DT022,D06
+C00605,Sylhet,Sylhet,2.48,Medium (2-5 acre),Mustard,2025-04-13,Referral/NGO Partner,DT027,D08
+C00606,Barishal,Barishal,0.47,Smallholder (<2 acre),Rice (Boro),2026-04-14,Organic Search,DT020,D06
+C00607,Chattogram,Chattogram,2.46,Medium (2-5 acre),Mustard,2026-03-10,Direct,DT023,D07
+C00608,Rajshahi,Rajshahi,3.27,Medium (2-5 acre),Vegetables,2026-03-13,Organic Search,DT001,D01
+C00609,Barishal,Bhola,0.88,Smallholder (<2 acre),Rice (Aman),2025-10-13,Field Dealer Network,DT022,D06
+C00610,Mymensingh,Jamalpur,0.91,Smallholder (<2 acre),Vegetables,2026-04-28,Referral/NGO Partner,DT014,D04
+C00611,Mymensingh,Mymensingh,4.6,Medium (2-5 acre),Rice (Aman),2026-04-28,Field Dealer Network,DT013,D04
+C00612,Dhaka,Dhaka,1.39,Smallholder (<2 acre),Jute,2025-03-28,Field Dealer Network,DT016,D05
+C00613,Sylhet,Habiganj,1.65,Smallholder (<2 acre),Tea,2026-01-22,Referral/NGO Partner,DT029,D08
+C00614,Sylhet,Moulvibazar,2.6,Medium (2-5 acre),Vegetables,2026-03-29,Field Dealer Network,DT028,D08
+C00615,Rangpur,Gaibandha,0.61,Smallholder (<2 acre),Vegetables,2025-01-21,Field Dealer Network,DT008,D02
+C00616,Barishal,Barishal,6.23,Large (>5 acre),Rice (Aman),2025-01-29,Organic Search,DT020,D06
+C00617,Barishal,Bhola,0.78,Smallholder (<2 acre),Mustard,2025-11-10,SMS Campaign,DT022,D06
+C00618,Khulna,Satkhira,2.14,Medium (2-5 acre),Maize,2025-02-04,SMS Campaign,DT011,D03
+C00619,Rajshahi,Pabna,0.87,Smallholder (<2 acre),Rice (Aman),2026-03-10,YouTube,DT003,D01
+C00620,Rajshahi,Natore,1.8,Smallholder (<2 acre),Potato,2026-01-06,Organic Search,DT004,D01
+C00621,Barishal,Bhola,1.48,Smallholder (<2 acre),Rice (Boro),2026-04-29,YouTube,DT022,D06
+C00622,Mymensingh,Mymensingh,0.92,Smallholder (<2 acre),Wheat,2025-12-01,Referral/NGO Partner,DT013,D04
+C00623,Sylhet,Moulvibazar,1.36,Smallholder (<2 acre),Rice (Aman),2025-12-10,Referral/NGO Partner,DT028,D08
+C00624,Mymensingh,Jamalpur,3.36,Medium (2-5 acre),Potato,2025-02-27,Field Dealer Network,DT014,D04
+C00625,Sylhet,Sylhet,4.02,Medium (2-5 acre),Tea,2025-01-18,Field Dealer Network,DT027,D08
+C00626,Khulna,Jashore,5.9,Large (>5 acre),Rice (Aman),2025-04-12,YouTube,DT010,D03
+C00627,Barishal,Barishal,1.51,Smallholder (<2 acre),Jute,2025-01-13,Field Dealer Network,DT020,D06
+C00628,Rajshahi,Rajshahi,3.22,Medium (2-5 acre),Maize,2025-02-21,Organic Search,DT001,D01
+C00629,Mymensingh,Netrokona,0.99,Smallholder (<2 acre),Rice (Boro),2025-12-15,Field Dealer Network,DT015,D04
+C00630,Barishal,Bhola,0.38,Smallholder (<2 acre),Wheat,2025-04-30,Organic Search,DT022,D06
+C00631,Chattogram,Cox's Bazar,2.55,Medium (2-5 acre),Wheat,2026-01-02,Referral/NGO Partner,DT024,D07
+C00632,Chattogram,Feni,1.27,Smallholder (<2 acre),Rice (Boro),2025-09-04,Field Dealer Network,DT026,D07
+C00633,Rajshahi,Pabna,1.85,Smallholder (<2 acre),Maize,2026-03-21,Facebook Ads,DT003,D01
+C00634,Khulna,Khulna,0.2,Smallholder (<2 acre),Rice (Boro),2025-11-10,Facebook Ads,DT009,D03
+C00635,Rajshahi,Natore,2.41,Medium (2-5 acre),Jute,2026-01-11,Field Dealer Network,DT004,D01
+C00636,Rajshahi,Rajshahi,1.17,Smallholder (<2 acre),Jute,2025-05-20,Facebook Ads,DT001,D01
+C00637,Dhaka,Gazipur,1.98,Smallholder (<2 acre),Vegetables,2025-10-14,Facebook Ads,DT017,D05
+C00638,Dhaka,Dhaka,3.75,Medium (2-5 acre),Rice (Boro),2025-05-19,SMS Campaign,DT016,D05
+C00639,Barishal,Barishal,5.87,Large (>5 acre),Maize,2025-06-30,Facebook Ads,DT020,D06
+C00640,Chattogram,Feni,0.87,Smallholder (<2 acre),Jute,2025-05-30,Facebook Ads,DT026,D07
+C00641,Barishal,Barishal,1.5,Smallholder (<2 acre),Mustard,2026-03-01,Facebook Ads,DT020,D06
+C00642,Barishal,Patuakhali,1.15,Smallholder (<2 acre),Potato,2025-08-28,SMS Campaign,DT021,D06
+C00643,Rajshahi,Pabna,2.47,Medium (2-5 acre),Jute,2026-04-17,Facebook Ads,DT003,D01
+C00644,Rangpur,Kurigram,0.44,Smallholder (<2 acre),Rice (Aman),2025-11-26,SMS Campaign,DT007,D02
+C00645,Dhaka,Narayanganj,1.37,Smallholder (<2 acre),Rice (Aman),2025-07-23,Organic Search,DT018,D05
+C00646,Chattogram,Feni,1.36,Smallholder (<2 acre),Rice (Aman),2026-02-23,Direct,DT026,D07
+C00647,Rajshahi,Natore,2.55,Medium (2-5 acre),Rice (Boro),2025-04-24,Organic Search,DT004,D01
+C00648,Mymensingh,Jamalpur,1.12,Smallholder (<2 acre),Potato,2026-03-30,Facebook Ads,DT014,D04
+C00649,Dhaka,Narayanganj,0.2,Smallholder (<2 acre),Mustard,2026-02-05,SMS Campaign,DT018,D05
+C00650,Rajshahi,Pabna,6.21,Large (>5 acre),Rice (Aman),2025-12-11,SMS Campaign,DT003,D01
+C00651,Khulna,Khulna,3.06,Medium (2-5 acre),Mustard,2025-02-24,SMS Campaign,DT009,D03
+C00652,Chattogram,Comilla,5.16,Large (>5 acre),Mustard,2025-04-13,Facebook Ads,DT025,D07
+C00653,Dhaka,Tangail,0.81,Smallholder (<2 acre),Rice (Boro),2025-08-20,Organic Search,DT019,D05
+C00654,Rangpur,Gaibandha,0.74,Smallholder (<2 acre),Potato,2025-11-22,Organic Search,DT008,D02
+C00655,Chattogram,Cox's Bazar,1.02,Smallholder (<2 acre),Potato,2025-07-12,Facebook Ads,DT024,D07
+C00656,Khulna,Bagerhat,2.2,Medium (2-5 acre),Vegetables,2025-12-30,Organic Search,DT012,D03
+C00657,Chattogram,Comilla,1.65,Smallholder (<2 acre),Maize,2025-02-25,SMS Campaign,DT025,D07
+C00658,Rangpur,Dinajpur,4.21,Medium (2-5 acre),Rice (Aman),2026-04-20,SMS Campaign,DT006,D02
+C00659,Dhaka,Tangail,4.01,Medium (2-5 acre),Rice (Boro),2026-02-16,Referral/NGO Partner,DT019,D05
+C00660,Khulna,Satkhira,3.07,Medium (2-5 acre),Rice (Aman),2026-02-11,Facebook Ads,DT011,D03
+C00661,Rangpur,Kurigram,0.42,Smallholder (<2 acre),Rice (Boro),2025-11-13,Referral/NGO Partner,DT007,D02
+C00662,Chattogram,Chattogram,2.1,Medium (2-5 acre),Maize,2025-07-22,Organic Search,DT023,D07
+C00663,Rangpur,Rangpur,3.26,Medium (2-5 acre),Rice (Aman),2025-01-15,Facebook Ads,DT005,D02
+C00664,Rajshahi,Bogura,1.78,Smallholder (<2 acre),Mustard,2025-12-08,Facebook Ads,DT002,D01
+C00665,Khulna,Khulna,2.5,Medium (2-5 acre),Potato,2025-02-04,Facebook Ads,DT009,D03
+C00666,Dhaka,Narayanganj,1.5,Smallholder (<2 acre),Wheat,2025-03-16,Organic Search,DT018,D05
+C00667,Barishal,Patuakhali,8.05,Large (>5 acre),Rice (Boro),2025-12-07,SMS Campaign,DT021,D06
+C00668,Sylhet,Sylhet,2.43,Medium (2-5 acre),Tea,2025-02-17,Field Dealer Network,DT027,D08
+C00669,Rangpur,Rangpur,2.71,Medium (2-5 acre),Vegetables,2026-03-23,Organic Search,DT005,D02
+C00670,Khulna,Satkhira,0.9,Smallholder (<2 acre),Jute,2025-06-26,Organic Search,DT011,D03
+C00671,Rajshahi,Natore,1.03,Smallholder (<2 acre),Potato,2026-02-08,SMS Campaign,DT004,D01
+C00672,Dhaka,Tangail,3.13,Medium (2-5 acre),Vegetables,2026-02-16,Field Dealer Network,DT019,D05
+C00673,Sylhet,Habiganj,2.18,Medium (2-5 acre),Tea,2025-07-25,Field Dealer Network,DT029,D08
+C00674,Dhaka,Tangail,2.51,Medium (2-5 acre),Wheat,2026-04-15,Direct,DT019,D05
+C00675,Dhaka,Tangail,0.97,Smallholder (<2 acre),Rice (Boro),2025-07-30,Referral/NGO Partner,DT019,D05
+C00676,Khulna,Jashore,0.2,Smallholder (<2 acre),Mustard,2025-06-13,Referral/NGO Partner,DT010,D03
+C00677,Chattogram,Comilla,3.85,Medium (2-5 acre),Wheat,2025-06-05,Direct,DT025,D07
+C00678,Mymensingh,Mymensingh,3.12,Medium (2-5 acre),Maize,2025-03-16,Field Dealer Network,DT013,D04
+C00679,Rajshahi,Natore,1.49,Smallholder (<2 acre),Potato,2025-06-06,Field Dealer Network,DT004,D01
+C00680,Khulna,Satkhira,3.55,Medium (2-5 acre),Vegetables,2025-11-08,Referral/NGO Partner,DT011,D03
+C00681,Rajshahi,Natore,0.31,Smallholder (<2 acre),Jute,2026-03-12,Facebook Ads,DT004,D01
+C00682,Rangpur,Gaibandha,1.64,Smallholder (<2 acre),Rice (Aman),2025-08-19,Field Dealer Network,DT008,D02
+C00683,Rajshahi,Pabna,1.52,Smallholder (<2 acre),Mustard,2025-06-07,Facebook Ads,DT003,D01
+C00684,Mymensingh,Mymensingh,2.28,Medium (2-5 acre),Wheat,2025-02-01,Organic Search,DT013,D04
+C00685,Dhaka,Dhaka,2.4,Medium (2-5 acre),Jute,2025-01-01,Direct,DT016,D05
+C00686,Khulna,Jashore,3.78,Medium (2-5 acre),Mustard,2025-12-01,Field Dealer Network,DT010,D03
+C00687,Khulna,Khulna,2.76,Medium (2-5 acre),Wheat,2026-02-13,Field Dealer Network,DT009,D03
+C00688,Sylhet,Sylhet,2.03,Medium (2-5 acre),Maize,2026-01-19,Organic Search,DT027,D08
+C00689,Barishal,Barishal,2.39,Medium (2-5 acre),Rice (Aman),2025-11-29,Field Dealer Network,DT020,D06
+C00690,Mymensingh,Mymensingh,3.2,Medium (2-5 acre),Potato,2025-02-20,SMS Campaign,DT013,D04
+C00691,Rangpur,Kurigram,2.91,Medium (2-5 acre),Mustard,2025-05-13,Facebook Ads,DT007,D02
+C00692,Chattogram,Chattogram,2.01,Medium (2-5 acre),Wheat,2025-01-18,Organic Search,DT023,D07
+C00693,Rangpur,Kurigram,2.54,Medium (2-5 acre),Jute,2025-02-07,Direct,DT007,D02
+C00694,Khulna,Satkhira,2.31,Medium (2-5 acre),Jute,2025-06-09,SMS Campaign,DT011,D03
+C00695,Chattogram,Feni,0.83,Smallholder (<2 acre),Potato,2025-12-19,SMS Campaign,DT026,D07
+C00696,Mymensingh,Netrokona,3.22,Medium (2-5 acre),Potato,2025-07-28,Field Dealer Network,DT015,D04
+C00697,Barishal,Barishal,2.58,Medium (2-5 acre),Mustard,2025-09-12,Facebook Ads,DT020,D06
+C00698,Dhaka,Gazipur,1.59,Smallholder (<2 acre),Jute,2026-03-02,Organic Search,DT017,D05
+C00699,Dhaka,Narayanganj,1.45,Smallholder (<2 acre),Potato,2025-07-27,Facebook Ads,DT018,D05
+C00700,Rangpur,Gaibandha,1.37,Smallholder (<2 acre),Vegetables,2025-05-08,Organic Search,DT008,D02
+C00701,Rangpur,Gaibandha,3.1,Medium (2-5 acre),Jute,2025-06-16,Field Dealer Network,DT008,D02
+C00702,Khulna,Khulna,2.12,Medium (2-5 acre),Vegetables,2025-04-01,Organic Search,DT009,D03
+C00703,Rajshahi,Natore,1.29,Smallholder (<2 acre),Rice (Boro),2025-06-12,Field Dealer Network,DT004,D01
+C00704,Chattogram,Comilla,1.16,Smallholder (<2 acre),Jute,2025-03-19,Facebook Ads,DT025,D07
+C00705,Rangpur,Gaibandha,9.09,Large (>5 acre),Rice (Aman),2026-03-17,Organic Search,DT008,D02
+C00706,Dhaka,Dhaka,3.32,Medium (2-5 acre),Wheat,2025-05-22,SMS Campaign,DT016,D05
+C00707,Barishal,Patuakhali,3.19,Medium (2-5 acre),Vegetables,2025-05-19,Referral/NGO Partner,DT021,D06
+C00708,Barishal,Patuakhali,0.83,Smallholder (<2 acre),Maize,2025-07-11,Field Dealer Network,DT021,D06
+C00709,Khulna,Khulna,1.24,Smallholder (<2 acre),Wheat,2025-06-26,Organic Search,DT009,D03
+C00710,Mymensingh,Netrokona,1.81,Smallholder (<2 acre),Mustard,2026-03-20,YouTube,DT015,D04
+C00711,Sylhet,Habiganj,0.95,Smallholder (<2 acre),Rice (Boro),2025-09-03,Organic Search,DT029,D08
+C00712,Dhaka,Narayanganj,1.27,Smallholder (<2 acre),Wheat,2025-09-23,Organic Search,DT018,D05
+C00713,Barishal,Barishal,1.94,Smallholder (<2 acre),Potato,2025-08-05,Organic Search,DT020,D06
+C00714,Chattogram,Cox's Bazar,2.76,Medium (2-5 acre),Jute,2025-12-31,Direct,DT024,D07
+C00715,Barishal,Bhola,4.38,Medium (2-5 acre),Mustard,2026-03-20,Facebook Ads,DT022,D06
+C00716,Rangpur,Gaibandha,1.69,Smallholder (<2 acre),Wheat,2025-12-11,Field Dealer Network,DT008,D02
+C00717,Dhaka,Tangail,2.25,Medium (2-5 acre),Vegetables,2025-01-09,Organic Search,DT019,D05
+C00718,Rajshahi,Bogura,0.68,Smallholder (<2 acre),Rice (Aman),2026-04-29,Referral/NGO Partner,DT002,D01
+C00719,Dhaka,Narayanganj,1.08,Smallholder (<2 acre),Jute,2025-07-31,SMS Campaign,DT018,D05
+C00720,Sylhet,Moulvibazar,1.57,Smallholder (<2 acre),Wheat,2026-04-14,Field Dealer Network,DT028,D08
+C00721,Mymensingh,Mymensingh,0.97,Smallholder (<2 acre),Potato,2025-09-08,Field Dealer Network,DT013,D04
+C00722,Khulna,Bagerhat,3.83,Medium (2-5 acre),Rice (Boro),2025-01-14,Field Dealer Network,DT012,D03
+C00723,Rajshahi,Natore,0.28,Smallholder (<2 acre),Potato,2025-09-25,Referral/NGO Partner,DT004,D01
+C00724,Sylhet,Moulvibazar,1.38,Smallholder (<2 acre),Potato,2026-04-20,SMS Campaign,DT028,D08
+C00725,Rajshahi,Natore,3.9,Medium (2-5 acre),Rice (Boro),2026-03-16,Referral/NGO Partner,DT004,D01
+C00726,Rajshahi,Pabna,1.37,Smallholder (<2 acre),Jute,2025-03-27,Organic Search,DT003,D01
+C00727,Rangpur,Gaibandha,0.82,Smallholder (<2 acre),Potato,2025-03-01,Facebook Ads,DT008,D02
+C00728,Rajshahi,Bogura,1.41,Smallholder (<2 acre),Potato,2025-12-01,Organic Search,DT002,D01
+C00729,Mymensingh,Mymensingh,1.62,Smallholder (<2 acre),Rice (Boro),2025-11-14,Referral/NGO Partner,DT013,D04
+C00730,Mymensingh,Mymensingh,1.83,Smallholder (<2 acre),Maize,2025-02-05,YouTube,DT013,D04
+C00731,Khulna,Satkhira,1.77,Smallholder (<2 acre),Vegetables,2025-08-13,Field Dealer Network,DT011,D03
+C00732,Rajshahi,Bogura,1.58,Smallholder (<2 acre),Mustard,2025-03-01,Referral/NGO Partner,DT002,D01
+C00733,Rajshahi,Natore,0.71,Smallholder (<2 acre),Rice (Aman),2025-02-25,Referral/NGO Partner,DT004,D01
+C00734,Khulna,Jashore,0.46,Smallholder (<2 acre),Potato,2025-06-19,Field Dealer Network,DT010,D03
+C00735,Rajshahi,Pabna,3.33,Medium (2-5 acre),Vegetables,2025-09-09,Facebook Ads,DT003,D01
+C00736,Dhaka,Narayanganj,2.3,Medium (2-5 acre),Jute,2026-03-07,Referral/NGO Partner,DT018,D05
+C00737,Rangpur,Dinajpur,0.76,Smallholder (<2 acre),Maize,2025-06-14,Referral/NGO Partner,DT006,D02
+C00738,Rangpur,Rangpur,0.2,Smallholder (<2 acre),Potato,2026-02-12,Field Dealer Network,DT005,D02
+C00739,Khulna,Satkhira,3.05,Medium (2-5 acre),Rice (Boro),2025-05-11,Field Dealer Network,DT011,D03
+C00740,Khulna,Khulna,1.38,Smallholder (<2 acre),Mustard,2025-10-29,Facebook Ads,DT009,D03
+C00741,Rajshahi,Natore,1.93,Smallholder (<2 acre),Mustard,2025-03-29,SMS Campaign,DT004,D01
+C00742,Rajshahi,Pabna,2.79,Medium (2-5 acre),Rice (Boro),2025-09-06,Organic Search,DT003,D01
+C00743,Chattogram,Chattogram,1.7,Smallholder (<2 acre),Maize,2025-08-14,SMS Campaign,DT023,D07
+C00744,Rajshahi,Bogura,2.55,Medium (2-5 acre),Wheat,2025-06-30,Field Dealer Network,DT002,D01
+C00745,Mymensingh,Netrokona,2.48,Medium (2-5 acre),Vegetables,2025-07-08,Field Dealer Network,DT015,D04
+C00746,Mymensingh,Netrokona,0.52,Smallholder (<2 acre),Jute,2025-04-02,Referral/NGO Partner,DT015,D04
+C00747,Khulna,Jashore,1.74,Smallholder (<2 acre),Wheat,2025-05-19,Facebook Ads,DT010,D03
+C00748,Khulna,Bagerhat,2.09,Medium (2-5 acre),Wheat,2025-08-23,Referral/NGO Partner,DT012,D03
+C00749,Barishal,Bhola,2.79,Medium (2-5 acre),Potato,2025-11-02,Field Dealer Network,DT022,D06
+C00750,Chattogram,Chattogram,1.12,Smallholder (<2 acre),Mustard,2025-11-01,Field Dealer Network,DT023,D07
+C00751,Rangpur,Dinajpur,1.51,Smallholder (<2 acre),Vegetables,2026-01-15,Referral/NGO Partner,DT006,D02
+C00752,Khulna,Khulna,0.68,Smallholder (<2 acre),Rice (Aman),2025-10-27,Facebook Ads,DT009,D03
+C00753,Rangpur,Dinajpur,0.2,Smallholder (<2 acre),Wheat,2026-02-20,Organic Search,DT006,D02
+C00754,Mymensingh,Netrokona,0.75,Smallholder (<2 acre),Rice (Aman),2025-12-06,Facebook Ads,DT015,D04
+C00755,Dhaka,Gazipur,3.36,Medium (2-5 acre),Vegetables,2025-01-05,Referral/NGO Partner,DT017,D05
+C00756,Rangpur,Rangpur,1.41,Smallholder (<2 acre),Wheat,2025-10-05,SMS Campaign,DT005,D02
+C00757,Khulna,Bagerhat,1.52,Smallholder (<2 acre),Vegetables,2025-10-09,SMS Campaign,DT012,D03
+C00758,Chattogram,Chattogram,1.53,Smallholder (<2 acre),Mustard,2025-05-27,Facebook Ads,DT023,D07
+C00759,Rajshahi,Natore,2.65,Medium (2-5 acre),Vegetables,2025-03-19,Organic Search,DT004,D01
+C00760,Mymensingh,Jamalpur,6.91,Large (>5 acre),Mustard,2025-04-08,SMS Campaign,DT014,D04
+C00761,Dhaka,Gazipur,0.51,Smallholder (<2 acre),Jute,2025-12-07,Organic Search,DT017,D05
+C00762,Rajshahi,Rajshahi,2.78,Medium (2-5 acre),Potato,2026-04-10,Organic Search,DT001,D01
+C00763,Rajshahi,Pabna,2.25,Medium (2-5 acre),Mustard,2025-11-17,Field Dealer Network,DT003,D01
+C00764,Rajshahi,Rajshahi,2.17,Medium (2-5 acre),Maize,2025-11-13,Field Dealer Network,DT001,D01
+C00765,Chattogram,Chattogram,2.75,Medium (2-5 acre),Mustard,2025-04-24,Organic Search,DT023,D07
+C00766,Rajshahi,Pabna,1.71,Smallholder (<2 acre),Jute,2025-02-01,Referral/NGO Partner,DT003,D01
+C00767,Rangpur,Gaibandha,1.27,Smallholder (<2 acre),Vegetables,2025-07-31,Referral/NGO Partner,DT008,D02
+C00768,Rajshahi,Natore,6.75,Large (>5 acre),Wheat,2025-06-06,Facebook Ads,DT004,D01
+C00769,Rajshahi,Pabna,1.2,Smallholder (<2 acre),Maize,2025-10-14,Organic Search,DT003,D01
+C00770,Dhaka,Tangail,0.68,Smallholder (<2 acre),Vegetables,2026-01-14,YouTube,DT019,D05
+C00771,Rangpur,Gaibandha,1.76,Smallholder (<2 acre),Rice (Aman),2025-04-03,Organic Search,DT008,D02
+C00772,Dhaka,Dhaka,2.11,Medium (2-5 acre),Jute,2025-03-26,Direct,DT016,D05
+C00773,Dhaka,Narayanganj,4.11,Medium (2-5 acre),Wheat,2025-04-22,Facebook Ads,DT018,D05
+C00774,Chattogram,Feni,0.82,Smallholder (<2 acre),Potato,2026-03-09,SMS Campaign,DT026,D07
+C00775,Rajshahi,Pabna,1.04,Smallholder (<2 acre),Mustard,2025-05-13,Organic Search,DT003,D01
+C00776,Chattogram,Comilla,2.41,Medium (2-5 acre),Rice (Aman),2025-09-28,Organic Search,DT025,D07
+C00777,Dhaka,Dhaka,1.61,Smallholder (<2 acre),Rice (Boro),2026-03-23,Facebook Ads,DT016,D05
+C00778,Rangpur,Dinajpur,3.31,Medium (2-5 acre),Vegetables,2025-04-27,Field Dealer Network,DT006,D02
+C00779,Barishal,Bhola,0.27,Smallholder (<2 acre),Potato,2025-09-02,Organic Search,DT022,D06
+C00780,Chattogram,Cox's Bazar,2.84,Medium (2-5 acre),Jute,2025-02-21,Field Dealer Network,DT024,D07
+C00781,Rangpur,Dinajpur,2.22,Medium (2-5 acre),Rice (Boro),2025-07-21,SMS Campaign,DT006,D02
+C00782,Chattogram,Cox's Bazar,0.67,Smallholder (<2 acre),Potato,2026-04-23,Field Dealer Network,DT024,D07
+C00783,Mymensingh,Mymensingh,0.47,Smallholder (<2 acre),Rice (Boro),2026-01-03,Field Dealer Network,DT013,D04
+C00784,Dhaka,Tangail,2.05,Medium (2-5 acre),Wheat,2025-01-08,SMS Campaign,DT019,D05
+C00785,Sylhet,Sylhet,2.8,Medium (2-5 acre),Wheat,2025-09-30,Field Dealer Network,DT027,D08
+C00786,Khulna,Bagerhat,2.44,Medium (2-5 acre),Rice (Aman),2026-02-20,SMS Campaign,DT012,D03
+C00787,Barishal,Patuakhali,0.39,Smallholder (<2 acre),Jute,2025-03-25,Organic Search,DT021,D06
+C00788,Khulna,Bagerhat,3.83,Medium (2-5 acre),Mustard,2025-01-12,Organic Search,DT012,D03
+C00789,Barishal,Patuakhali,0.84,Smallholder (<2 acre),Rice (Boro),2025-09-02,Field Dealer Network,DT021,D06
+C00790,Dhaka,Gazipur,2.19,Medium (2-5 acre),Vegetables,2026-01-21,Organic Search,DT017,D05
+C00791,Rangpur,Gaibandha,0.9,Smallholder (<2 acre),Mustard,2026-03-20,Organic Search,DT008,D02
+C00792,Khulna,Khulna,5.39,Large (>5 acre),Potato,2025-06-10,Organic Search,DT009,D03
+C00793,Khulna,Bagerhat,1.2,Smallholder (<2 acre),Rice (Boro),2025-04-21,Facebook Ads,DT012,D03
+C00794,Rajshahi,Pabna,1.32,Smallholder (<2 acre),Mustard,2025-12-27,YouTube,DT003,D01
+C00795,Rajshahi,Natore,1.67,Smallholder (<2 acre),Rice (Boro),2025-08-22,Organic Search,DT004,D01
+C00796,Khulna,Satkhira,3.26,Medium (2-5 acre),Potato,2026-04-21,Organic Search,DT011,D03
+C00797,Rajshahi,Bogura,0.44,Smallholder (<2 acre),Rice (Boro),2025-06-07,Direct,DT002,D01
+C00798,Rangpur,Dinajpur,1.84,Smallholder (<2 acre),Mustard,2025-08-24,Referral/NGO Partner,DT006,D02
+C00799,Barishal,Barishal,0.2,Smallholder (<2 acre),Rice (Aman),2025-12-22,Facebook Ads,DT020,D06
+C00800,Dhaka,Dhaka,1.83,Smallholder (<2 acre),Wheat,2025-11-07,Organic Search,DT016,D05
+C00801,Barishal,Bhola,3.87,Medium (2-5 acre),Vegetables,2025-03-26,Field Dealer Network,DT022,D06
+C00802,Khulna,Khulna,1.33,Smallholder (<2 acre),Vegetables,2026-04-16,Organic Search,DT009,D03
+C00803,Chattogram,Chattogram,3.22,Medium (2-5 acre),Jute,2025-11-23,Field Dealer Network,DT023,D07
+C00804,Dhaka,Dhaka,0.2,Smallholder (<2 acre),Mustard,2025-08-07,Referral/NGO Partner,DT016,D05
+C00805,Rajshahi,Pabna,1.23,Smallholder (<2 acre),Rice (Boro),2025-03-01,Field Dealer Network,DT003,D01
+C00806,Rajshahi,Natore,1.89,Smallholder (<2 acre),Jute,2025-05-10,Facebook Ads,DT004,D01
+C00807,Dhaka,Narayanganj,1.02,Smallholder (<2 acre),Jute,2025-03-25,Organic Search,DT018,D05
+C00808,Rangpur,Rangpur,3.04,Medium (2-5 acre),Rice (Boro),2026-04-22,Organic Search,DT005,D02
+C00809,Mymensingh,Netrokona,0.46,Smallholder (<2 acre),Maize,2025-08-07,Field Dealer Network,DT015,D04
+C00810,Sylhet,Habiganj,1.83,Smallholder (<2 acre),Tea,2025-10-07,Organic Search,DT029,D08
+C00811,Rajshahi,Bogura,0.79,Smallholder (<2 acre),Rice (Boro),2025-08-28,Organic Search,DT002,D01
+C00812,Rajshahi,Bogura,3.75,Medium (2-5 acre),Rice (Boro),2025-08-21,Organic Search,DT002,D01
+C00813,Sylhet,Sylhet,1.35,Smallholder (<2 acre),Rice (Aman),2025-02-14,Field Dealer Network,DT027,D08
+C00814,Dhaka,Tangail,1.85,Smallholder (<2 acre),Potato,2025-12-11,Field Dealer Network,DT019,D05
+C00815,Rajshahi,Rajshahi,1.56,Smallholder (<2 acre),Vegetables,2025-11-05,Facebook Ads,DT001,D01
+C00816,Chattogram,Feni,0.46,Smallholder (<2 acre),Rice (Boro),2025-05-07,Organic Search,DT026,D07
+C00817,Chattogram,Comilla,2.6,Medium (2-5 acre),Rice (Boro),2025-09-24,Organic Search,DT025,D07
+C00818,Mymensingh,Jamalpur,0.8,Smallholder (<2 acre),Vegetables,2025-05-05,Referral/NGO Partner,DT014,D04
+C00819,Dhaka,Tangail,1.41,Smallholder (<2 acre),Potato,2025-06-20,Referral/NGO Partner,DT019,D05
+C00820,Rangpur,Dinajpur,2.58,Medium (2-5 acre),Maize,2025-10-11,Organic Search,DT006,D02
+C00821,Rajshahi,Bogura,0.33,Smallholder (<2 acre),Jute,2025-12-21,Field Dealer Network,DT002,D01
+C00822,Dhaka,Gazipur,1.84,Smallholder (<2 acre),Maize,2026-04-08,Facebook Ads,DT017,D05
+C00823,Rangpur,Gaibandha,4.51,Medium (2-5 acre),Maize,2026-04-22,Organic Search,DT008,D02
+C00824,Dhaka,Narayanganj,2.63,Medium (2-5 acre),Mustard,2025-12-20,Facebook Ads,DT018,D05
+C00825,Chattogram,Feni,5.22,Large (>5 acre),Rice (Aman),2026-04-04,Field Dealer Network,DT026,D07
+C00826,Rajshahi,Natore,0.25,Smallholder (<2 acre),Wheat,2025-05-29,SMS Campaign,DT004,D01
+C00827,Dhaka,Gazipur,1.71,Smallholder (<2 acre),Wheat,2025-07-10,Direct,DT017,D05
+C00828,Rangpur,Kurigram,1.58,Smallholder (<2 acre),Wheat,2025-04-27,Referral/NGO Partner,DT007,D02
+C00829,Chattogram,Comilla,1.04,Smallholder (<2 acre),Wheat,2025-12-31,Referral/NGO Partner,DT025,D07
+C00830,Rangpur,Rangpur,2.44,Medium (2-5 acre),Mustard,2026-04-29,Field Dealer Network,DT005,D02
+C00831,Dhaka,Gazipur,3.12,Medium (2-5 acre),Jute,2026-04-27,Facebook Ads,DT017,D05
+C00832,Mymensingh,Mymensingh,2.66,Medium (2-5 acre),Rice (Boro),2025-07-11,Facebook Ads,DT013,D04
+C00833,Khulna,Jashore,1.94,Smallholder (<2 acre),Rice (Boro),2025-08-28,Organic Search,DT010,D03
+C00834,Dhaka,Gazipur,2.22,Medium (2-5 acre),Jute,2025-03-12,Field Dealer Network,DT017,D05
+C00835,Barishal,Bhola,1.52,Smallholder (<2 acre),Jute,2025-03-12,Facebook Ads,DT022,D06
+C00836,Dhaka,Gazipur,0.52,Smallholder (<2 acre),Jute,2025-03-19,Referral/NGO Partner,DT017,D05
+C00837,Barishal,Bhola,2.71,Medium (2-5 acre),Maize,2025-05-11,Organic Search,DT022,D06
+C00838,Sylhet,Moulvibazar,3.4,Medium (2-5 acre),Tea,2026-02-25,Referral/NGO Partner,DT028,D08
+C00839,Khulna,Bagerhat,2.45,Medium (2-5 acre),Potato,2025-12-29,Referral/NGO Partner,DT012,D03
+C00840,Mymensingh,Netrokona,2.41,Medium (2-5 acre),Wheat,2025-09-14,YouTube,DT015,D04
+C00841,Rajshahi,Pabna,1.17,Smallholder (<2 acre),Jute,2025-10-16,Referral/NGO Partner,DT003,D01
+C00842,Barishal,Bhola,2.35,Medium (2-5 acre),Rice (Boro),2025-01-16,YouTube,DT022,D06
+C00843,Mymensingh,Jamalpur,1.01,Smallholder (<2 acre),Rice (Boro),2026-04-06,Facebook Ads,DT014,D04
+C00844,Khulna,Bagerhat,11.36,Large (>5 acre),Rice (Aman),2025-10-16,Referral/NGO Partner,DT012,D03
+C00845,Rajshahi,Pabna,1.7,Smallholder (<2 acre),Rice (Aman),2025-11-26,SMS Campaign,DT003,D01
+C00846,Chattogram,Chattogram,0.57,Smallholder (<2 acre),Rice (Aman),2025-04-08,Organic Search,DT023,D07
+C00847,Khulna,Jashore,2.19,Medium (2-5 acre),Rice (Aman),2025-04-26,Field Dealer Network,DT010,D03
+C00848,Dhaka,Dhaka,0.76,Smallholder (<2 acre),Mustard,2025-05-20,Direct,DT016,D05
+C00849,Rajshahi,Rajshahi,3.1,Medium (2-5 acre),Jute,2025-08-13,Facebook Ads,DT001,D01
+C00850,Sylhet,Sylhet,2.81,Medium (2-5 acre),Tea,2025-07-01,Facebook Ads,DT027,D08
+C00851,Rangpur,Kurigram,1.28,Smallholder (<2 acre),Rice (Aman),2025-12-23,Facebook Ads,DT007,D02
+C00852,Rangpur,Rangpur,0.75,Smallholder (<2 acre),Mustard,2025-03-21,SMS Campaign,DT005,D02
+C00853,Chattogram,Cox's Bazar,0.95,Smallholder (<2 acre),Jute,2025-11-29,Field Dealer Network,DT024,D07
+C00854,Chattogram,Cox's Bazar,0.83,Smallholder (<2 acre),Rice (Boro),2025-01-16,Facebook Ads,DT024,D07
+C00855,Rangpur,Dinajpur,0.97,Smallholder (<2 acre),Potato,2026-04-29,YouTube,DT006,D02
+C00856,Mymensingh,Mymensingh,0.95,Smallholder (<2 acre),Wheat,2025-11-09,Referral/NGO Partner,DT013,D04
+C00857,Barishal,Bhola,5.77,Large (>5 acre),Jute,2025-01-12,Field Dealer Network,DT022,D06
+C00858,Chattogram,Cox's Bazar,3.04,Medium (2-5 acre),Potato,2025-12-21,YouTube,DT024,D07
+C00859,Khulna,Khulna,1.8,Smallholder (<2 acre),Rice (Aman),2026-01-04,SMS Campaign,DT009,D03
+C00860,Mymensingh,Mymensingh,0.23,Smallholder (<2 acre),Rice (Aman),2025-12-24,Facebook Ads,DT013,D04
+C00861,Barishal,Bhola,0.88,Smallholder (<2 acre),Vegetables,2025-12-23,Field Dealer Network,DT022,D06
+C00862,Barishal,Patuakhali,0.9,Smallholder (<2 acre),Vegetables,2025-12-28,Organic Search,DT021,D06
+C00863,Barishal,Patuakhali,2.3,Medium (2-5 acre),Wheat,2025-01-10,Referral/NGO Partner,DT021,D06
+C00864,Dhaka,Narayanganj,3.21,Medium (2-5 acre),Jute,2025-02-23,SMS Campaign,DT018,D05
+C00865,Rajshahi,Rajshahi,2.13,Medium (2-5 acre),Maize,2025-03-11,Organic Search,DT001,D01
+C00866,Chattogram,Cox's Bazar,1.04,Smallholder (<2 acre),Maize,2025-11-03,Referral/NGO Partner,DT024,D07
+C00867,Chattogram,Chattogram,1.14,Smallholder (<2 acre),Rice (Aman),2025-01-28,Field Dealer Network,DT023,D07
+C00868,Barishal,Patuakhali,1.56,Smallholder (<2 acre),Potato,2026-04-29,Facebook Ads,DT021,D06
+C00869,Rajshahi,Bogura,1.29,Smallholder (<2 acre),Mustard,2025-01-15,Organic Search,DT002,D01
+C00870,Rangpur,Kurigram,6.15,Large (>5 acre),Mustard,2025-07-19,Facebook Ads,DT007,D02
+C00871,Barishal,Patuakhali,5.81,Large (>5 acre),Jute,2026-02-10,Direct,DT021,D06
+C00872,Rajshahi,Bogura,2.3,Medium (2-5 acre),Maize,2025-05-29,Field Dealer Network,DT002,D01
+C00873,Sylhet,Sylhet,1.81,Smallholder (<2 acre),Rice (Boro),2025-10-24,Organic Search,DT027,D08
+C00874,Khulna,Jashore,3.63,Medium (2-5 acre),Potato,2025-07-13,Field Dealer Network,DT010,D03
+C00875,Dhaka,Dhaka,4.97,Medium (2-5 acre),Potato,2025-02-12,Direct,DT016,D05
+C00876,Chattogram,Comilla,0.8,Smallholder (<2 acre),Vegetables,2025-03-27,Field Dealer Network,DT025,D07
+C00877,Khulna,Satkhira,1.07,Smallholder (<2 acre),Rice (Aman),2025-05-19,Facebook Ads,DT011,D03
+C00878,Khulna,Bagerhat,2.53,Medium (2-5 acre),Rice (Aman),2026-03-19,SMS Campaign,DT012,D03
+C00879,Dhaka,Tangail,4.09,Medium (2-5 acre),Jute,2025-12-20,Facebook Ads,DT019,D05
+C00880,Dhaka,Gazipur,1.84,Smallholder (<2 acre),Rice (Aman),2026-02-11,Facebook Ads,DT017,D05
+C00881,Khulna,Satkhira,0.68,Smallholder (<2 acre),Rice (Boro),2025-12-26,Field Dealer Network,DT011,D03
+C00882,Dhaka,Gazipur,1.17,Smallholder (<2 acre),Rice (Boro),2025-10-18,Referral/NGO Partner,DT017,D05
+C00883,Chattogram,Feni,3.56,Medium (2-5 acre),Wheat,2026-01-07,Organic Search,DT026,D07
+C00884,Mymensingh,Mymensingh,0.6,Smallholder (<2 acre),Jute,2025-06-19,Facebook Ads,DT013,D04
+C00885,Rangpur,Gaibandha,1.02,Smallholder (<2 acre),Jute,2025-09-29,YouTube,DT008,D02
+C00886,Khulna,Jashore,0.42,Smallholder (<2 acre),Mustard,2025-06-26,Facebook Ads,DT010,D03
+C00887,Khulna,Bagerhat,1.03,Smallholder (<2 acre),Wheat,2025-10-26,SMS Campaign,DT012,D03
+C00888,Rajshahi,Rajshahi,2.61,Medium (2-5 acre),Jute,2025-03-13,Facebook Ads,DT001,D01
+C00889,Rangpur,Gaibandha,4.03,Medium (2-5 acre),Rice (Aman),2025-01-03,SMS Campaign,DT008,D02
+C00890,Dhaka,Narayanganj,4.36,Medium (2-5 acre),Vegetables,2025-12-31,Referral/NGO Partner,DT018,D05
+C00891,Khulna,Jashore,0.73,Smallholder (<2 acre),Wheat,2025-12-24,Facebook Ads,DT010,D03
+C00892,Sylhet,Moulvibazar,4.3,Medium (2-5 acre),Jute,2025-08-25,Organic Search,DT028,D08
+C00893,Rangpur,Kurigram,1.64,Smallholder (<2 acre),Vegetables,2026-03-18,Field Dealer Network,DT007,D02
+C00894,Rajshahi,Rajshahi,4.83,Medium (2-5 acre),Potato,2025-10-06,YouTube,DT001,D01
+C00895,Barishal,Barishal,2.59,Medium (2-5 acre),Mustard,2025-08-07,Organic Search,DT020,D06
+C00896,Chattogram,Cox's Bazar,0.84,Smallholder (<2 acre),Vegetables,2025-10-17,Referral/NGO Partner,DT024,D07
+C00897,Rangpur,Rangpur,1.18,Smallholder (<2 acre),Jute,2026-01-15,Facebook Ads,DT005,D02
+C00898,Rangpur,Rangpur,3.21,Medium (2-5 acre),Mustard,2025-08-02,Field Dealer Network,DT005,D02
+C00899,Rangpur,Rangpur,1.5,Smallholder (<2 acre),Jute,2025-05-15,Organic Search,DT005,D02
+C00900,Mymensingh,Netrokona,3.19,Medium (2-5 acre),Rice (Boro),2025-10-22,Facebook Ads,DT015,D04
+C00901,Mymensingh,Mymensingh,0.94,Smallholder (<2 acre),Potato,2025-04-26,Organic Search,DT013,D04
+C00902,Rangpur,Gaibandha,0.97,Smallholder (<2 acre),Rice (Boro),2025-02-24,Organic Search,DT008,D02
+C00903,Rajshahi,Pabna,2.09,Medium (2-5 acre),Vegetables,2025-03-29,SMS Campaign,DT003,D01
+C00904,Mymensingh,Mymensingh,0.4,Smallholder (<2 acre),Mustard,2025-07-01,Organic Search,DT013,D04
+C00905,Sylhet,Moulvibazar,4.69,Medium (2-5 acre),Mustard,2026-04-22,Facebook Ads,DT028,D08
+C00906,Dhaka,Tangail,0.91,Smallholder (<2 acre),Rice (Aman),2025-04-09,Referral/NGO Partner,DT019,D05
+C00907,Mymensingh,Mymensingh,2.16,Medium (2-5 acre),Potato,2025-12-26,Organic Search,DT013,D04
+C00908,Rajshahi,Rajshahi,2.84,Medium (2-5 acre),Vegetables,2025-04-12,Referral/NGO Partner,DT001,D01
+C00909,Rangpur,Gaibandha,0.83,Smallholder (<2 acre),Maize,2025-12-02,Facebook Ads,DT008,D02
+C00910,Rangpur,Kurigram,2.03,Medium (2-5 acre),Vegetables,2025-09-23,Field Dealer Network,DT007,D02
+C00911,Barishal,Barishal,5.38,Large (>5 acre),Maize,2025-05-19,Facebook Ads,DT020,D06
+C00912,Chattogram,Feni,0.74,Smallholder (<2 acre),Maize,2025-03-25,Organic Search,DT026,D07
+C00913,Chattogram,Chattogram,1.6,Smallholder (<2 acre),Rice (Aman),2025-11-07,Field Dealer Network,DT023,D07
+C00914,Sylhet,Sylhet,1.13,Smallholder (<2 acre),Rice (Boro),2025-02-21,Organic Search,DT027,D08
+C00915,Sylhet,Sylhet,0.52,Smallholder (<2 acre),Mustard,2025-10-10,Organic Search,DT027,D08
+C00916,Sylhet,Habiganj,1.66,Smallholder (<2 acre),Maize,2025-01-31,SMS Campaign,DT029,D08
+C00917,Rajshahi,Natore,3.94,Medium (2-5 acre),Rice (Boro),2026-01-11,Field Dealer Network,DT004,D01
+C00918,Rajshahi,Bogura,0.88,Smallholder (<2 acre),Potato,2026-04-21,SMS Campaign,DT002,D01
+C00919,Rangpur,Rangpur,0.71,Smallholder (<2 acre),Mustard,2025-04-19,SMS Campaign,DT005,D02
+C00920,Mymensingh,Mymensingh,3.19,Medium (2-5 acre),Mustard,2025-02-01,YouTube,DT013,D04
+C00921,Rajshahi,Natore,3.51,Medium (2-5 acre),Wheat,2026-01-08,Facebook Ads,DT004,D01
+C00922,Chattogram,Chattogram,1.58,Smallholder (<2 acre),Maize,2025-05-14,Organic Search,DT023,D07
+C00923,Dhaka,Tangail,4.48,Medium (2-5 acre),Mustard,2025-08-25,YouTube,DT019,D05
+C00924,Mymensingh,Mymensingh,0.56,Smallholder (<2 acre),Maize,2025-07-04,YouTube,DT013,D04
+C00925,Rangpur,Gaibandha,3.48,Medium (2-5 acre),Wheat,2025-06-25,Direct,DT008,D02
+C00926,Rangpur,Dinajpur,3.16,Medium (2-5 acre),Maize,2026-04-14,Referral/NGO Partner,DT006,D02
+C00927,Rangpur,Dinajpur,2.59,Medium (2-5 acre),Maize,2025-06-11,Organic Search,DT006,D02
+C00928,Chattogram,Comilla,0.33,Smallholder (<2 acre),Wheat,2025-08-27,YouTube,DT025,D07
+C00929,Dhaka,Dhaka,3.6,Medium (2-5 acre),Wheat,2025-06-16,Field Dealer Network,DT016,D05
+C00930,Barishal,Bhola,0.21,Smallholder (<2 acre),Maize,2025-06-23,SMS Campaign,DT022,D06
+C00931,Rangpur,Kurigram,0.2,Smallholder (<2 acre),Mustard,2025-03-18,Facebook Ads,DT007,D02
+C00932,Khulna,Jashore,2.8,Medium (2-5 acre),Jute,2025-01-19,Organic Search,DT010,D03
+C00933,Khulna,Satkhira,3.95,Medium (2-5 acre),Mustard,2025-07-05,SMS Campaign,DT011,D03
+C00934,Barishal,Patuakhali,0.37,Smallholder (<2 acre),Mustard,2025-04-28,SMS Campaign,DT021,D06
+C00935,Barishal,Bhola,2.83,Medium (2-5 acre),Potato,2026-04-29,Organic Search,DT022,D06
+C00936,Rangpur,Rangpur,1.4,Smallholder (<2 acre),Wheat,2025-02-25,YouTube,DT005,D02
+C00937,Sylhet,Moulvibazar,1.48,Smallholder (<2 acre),Wheat,2025-09-09,SMS Campaign,DT028,D08
+C00938,Rajshahi,Pabna,1.58,Smallholder (<2 acre),Mustard,2025-10-01,SMS Campaign,DT003,D01
+C00939,Chattogram,Comilla,1.87,Smallholder (<2 acre),Rice (Boro),2025-06-27,Organic Search,DT025,D07
+C00940,Rajshahi,Pabna,0.35,Smallholder (<2 acre),Vegetables,2025-11-25,Facebook Ads,DT003,D01
+C00941,Rangpur,Gaibandha,6.06,Large (>5 acre),Rice (Aman),2025-07-22,Referral/NGO Partner,DT008,D02
+C00942,Chattogram,Cox's Bazar,0.31,Smallholder (<2 acre),Potato,2026-02-14,Organic Search,DT024,D07
+C00943,Rangpur,Dinajpur,5.8,Large (>5 acre),Wheat,2025-08-18,SMS Campaign,DT006,D02
+C00944,Khulna,Jashore,2.94,Medium (2-5 acre),Jute,2025-11-21,Field Dealer Network,DT010,D03
+C00945,Mymensingh,Jamalpur,0.26,Smallholder (<2 acre),Rice (Boro),2025-04-22,Field Dealer Network,DT014,D04
+C00946,Rangpur,Rangpur,1.86,Smallholder (<2 acre),Vegetables,2025-04-07,Field Dealer Network,DT005,D02
+C00947,Dhaka,Gazipur,2.08,Medium (2-5 acre),Potato,2025-03-14,Organic Search,DT017,D05
+C00948,Chattogram,Comilla,2.43,Medium (2-5 acre),Maize,2025-02-18,Organic Search,DT025,D07
+C00949,Chattogram,Feni,1.25,Smallholder (<2 acre),Jute,2026-04-11,Field Dealer Network,DT026,D07
+C00950,Khulna,Satkhira,3.21,Medium (2-5 acre),Potato,2025-09-06,Organic Search,DT011,D03
+C00951,Mymensingh,Jamalpur,0.32,Smallholder (<2 acre),Wheat,2025-05-20,Facebook Ads,DT014,D04
+C00952,Rangpur,Dinajpur,0.2,Smallholder (<2 acre),Rice (Aman),2026-02-04,Referral/NGO Partner,DT006,D02
+C00953,Rangpur,Rangpur,0.26,Smallholder (<2 acre),Jute,2025-09-28,Organic Search,DT005,D02
+C00954,Rangpur,Rangpur,3.96,Medium (2-5 acre),Rice (Boro),2025-08-20,Facebook Ads,DT005,D02
+C00955,Sylhet,Habiganj,2.68,Medium (2-5 acre),Jute,2025-04-10,Field Dealer Network,DT029,D08
+C00956,Chattogram,Cox's Bazar,1.66,Smallholder (<2 acre),Wheat,2025-01-21,Organic Search,DT024,D07
+C00957,Barishal,Bhola,0.85,Smallholder (<2 acre),Mustard,2025-02-26,SMS Campaign,DT022,D06
+C00958,Mymensingh,Jamalpur,2.33,Medium (2-5 acre),Rice (Aman),2025-01-14,Field Dealer Network,DT014,D04
+C00959,Mymensingh,Netrokona,6.16,Large (>5 acre),Rice (Boro),2026-04-10,Organic Search,DT015,D04
+C00960,Mymensingh,Netrokona,5.32,Large (>5 acre),Vegetables,2026-01-22,Referral/NGO Partner,DT015,D04
+C00961,Mymensingh,Jamalpur,1.76,Smallholder (<2 acre),Jute,2025-10-08,Organic Search,DT014,D04
+C00962,Khulna,Satkhira,2.0,Medium (2-5 acre),Vegetables,2025-09-14,SMS Campaign,DT011,D03
+C00963,Rajshahi,Pabna,0.4,Smallholder (<2 acre),Maize,2026-03-04,Field Dealer Network,DT003,D01
+C00964,Rajshahi,Pabna,5.67,Large (>5 acre),Jute,2025-01-05,Organic Search,DT003,D01
+C00965,Sylhet,Moulvibazar,3.94,Medium (2-5 acre),Tea,2025-08-31,Direct,DT028,D08
+C00966,Mymensingh,Netrokona,2.45,Medium (2-5 acre),Rice (Aman),2025-11-07,Facebook Ads,DT015,D04
+C00967,Sylhet,Sylhet,0.94,Smallholder (<2 acre),Mustard,2025-09-25,Referral/NGO Partner,DT027,D08
+C00968,Rangpur,Gaibandha,1.43,Smallholder (<2 acre),Vegetables,2025-10-31,Organic Search,DT008,D02
+C00969,Mymensingh,Jamalpur,1.15,Smallholder (<2 acre),Vegetables,2025-05-08,Referral/NGO Partner,DT014,D04
+C00970,Rangpur,Dinajpur,3.4,Medium (2-5 acre),Jute,2026-03-16,Organic Search,DT006,D02
+C00971,Rangpur,Kurigram,1.48,Smallholder (<2 acre),Rice (Boro),2025-07-28,Referral/NGO Partner,DT007,D02
+C00972,Rajshahi,Rajshahi,2.05,Medium (2-5 acre),Jute,2025-06-01,Field Dealer Network,DT001,D01
+C00973,Rajshahi,Rajshahi,3.57,Medium (2-5 acre),Rice (Boro),2025-05-31,Facebook Ads,DT001,D01
+C00974,Chattogram,Feni,2.15,Medium (2-5 acre),Vegetables,2025-06-18,Organic Search,DT026,D07
+C00975,Khulna,Satkhira,0.94,Smallholder (<2 acre),Jute,2025-09-17,Organic Search,DT011,D03
+C00976,Dhaka,Gazipur,1.82,Smallholder (<2 acre),Wheat,2025-01-07,SMS Campaign,DT017,D05
+C00977,Mymensingh,Jamalpur,3.57,Medium (2-5 acre),Vegetables,2025-06-12,Facebook Ads,DT014,D04
+C00978,Khulna,Khulna,3.82,Medium (2-5 acre),Mustard,2025-09-16,Referral/NGO Partner,DT009,D03
+C00979,Mymensingh,Netrokona,1.47,Smallholder (<2 acre),Rice (Boro),2026-04-12,Field Dealer Network,DT015,D04
+C00980,Rangpur,Dinajpur,4.12,Medium (2-5 acre),Maize,2026-03-30,Field Dealer Network,DT006,D02
+C00981,Sylhet,Sylhet,1.25,Smallholder (<2 acre),Tea,2025-02-27,Field Dealer Network,DT027,D08
+C00982,Barishal,Patuakhali,4.43,Medium (2-5 acre),Rice (Boro),2025-11-14,SMS Campaign,DT021,D06
+C00983,Barishal,Bhola,2.1,Medium (2-5 acre),Wheat,2026-04-15,Organic Search,DT022,D06
+C00984,Mymensingh,Netrokona,1.21,Smallholder (<2 acre),Vegetables,2025-01-29,YouTube,DT015,D04
+C00985,Rajshahi,Pabna,1.37,Smallholder (<2 acre),Mustard,2025-08-13,SMS Campaign,DT003,D01
+C00986,Chattogram,Chattogram,5.04,Large (>5 acre),Wheat,2026-02-10,YouTube,DT023,D07
+C00987,Khulna,Khulna,3.28,Medium (2-5 acre),Rice (Aman),2025-04-10,Organic Search,DT009,D03
+C00988,Rajshahi,Bogura,4.09,Medium (2-5 acre),Potato,2025-01-10,Facebook Ads,DT002,D01
+C00989,Khulna,Bagerhat,2.52,Medium (2-5 acre),Rice (Aman),2025-12-25,Organic Search,DT012,D03
+C00990,Barishal,Bhola,1.61,Smallholder (<2 acre),Vegetables,2026-01-13,Facebook Ads,DT022,D06
+C00991,Dhaka,Dhaka,0.86,Smallholder (<2 acre),Vegetables,2025-07-30,SMS Campaign,DT016,D05
+C00992,Barishal,Bhola,2.14,Medium (2-5 acre),Mustard,2025-04-20,Field Dealer Network,DT022,D06
+C00993,Barishal,Barishal,1.92,Smallholder (<2 acre),Maize,2025-04-25,Field Dealer Network,DT020,D06
+C00994,Rangpur,Dinajpur,1.51,Smallholder (<2 acre),Mustard,2025-03-16,Field Dealer Network,DT006,D02
+C00995,Chattogram,Feni,0.78,Smallholder (<2 acre),Rice (Aman),2026-01-20,YouTube,DT026,D07
+C00996,Khulna,Khulna,2.09,Medium (2-5 acre),Rice (Boro),2025-01-25,Field Dealer Network,DT009,D03
+C00997,Dhaka,Tangail,0.38,Smallholder (<2 acre),Wheat,2025-12-08,SMS Campaign,DT019,D05
+C00998,Rajshahi,Rajshahi,2.2,Medium (2-5 acre),Wheat,2025-04-03,Organic Search,DT001,D01
+C00999,Sylhet,Sylhet,0.2,Smallholder (<2 acre),Tea,2025-11-29,Referral/NGO Partner,DT027,D08
+C01000,Rangpur,Gaibandha,3.76,Medium (2-5 acre),Rice (Boro),2025-11-27,Referral/NGO Partner,DT008,D02
+C01001,Rajshahi,Rajshahi,0.28,Smallholder (<2 acre),Rice (Boro),2026-04-16,Organic Search,DT001,D01
+C01002,Mymensingh,Jamalpur,3.18,Medium (2-5 acre),Vegetables,2025-09-17,SMS Campaign,DT014,D04
+C01003,Rajshahi,Pabna,1.74,Smallholder (<2 acre),Mustard,2025-07-27,Organic Search,DT003,D01
+C01004,Rajshahi,Pabna,2.01,Medium (2-5 acre),Potato,2025-09-07,Field Dealer Network,DT003,D01
+C01005,Dhaka,Dhaka,1.56,Smallholder (<2 acre),Vegetables,2026-01-05,Organic Search,DT016,D05
+C01006,Khulna,Bagerhat,1.14,Smallholder (<2 acre),Rice (Boro),2025-04-22,Facebook Ads,DT012,D03
+C01007,Chattogram,Feni,4.89,Medium (2-5 acre),Mustard,2025-02-02,Field Dealer Network,DT026,D07
+C01008,Khulna,Khulna,2.76,Medium (2-5 acre),Rice (Boro),2025-01-19,Referral/NGO Partner,DT009,D03
+C01009,Barishal,Barishal,1.22,Smallholder (<2 acre),Jute,2025-05-08,Organic Search,DT020,D06
+C01010,Mymensingh,Netrokona,0.78,Smallholder (<2 acre),Rice (Aman),2026-02-25,Organic Search,DT015,D04
+C01011,Dhaka,Tangail,2.14,Medium (2-5 acre),Wheat,2025-02-16,SMS Campaign,DT019,D05
+C01012,Dhaka,Narayanganj,2.84,Medium (2-5 acre),Jute,2025-12-21,SMS Campaign,DT018,D05
+C01013,Mymensingh,Mymensingh,0.46,Smallholder (<2 acre),Maize,2025-12-15,Organic Search,DT013,D04
+C01014,Sylhet,Moulvibazar,3.15,Medium (2-5 acre),Potato,2025-09-23,Referral/NGO Partner,DT028,D08
+C01015,Khulna,Khulna,0.42,Smallholder (<2 acre),Jute,2025-09-29,Referral/NGO Partner,DT009,D03
+C01016,Rangpur,Gaibandha,1.63,Smallholder (<2 acre),Vegetables,2025-11-06,Direct,DT008,D02
+C01017,Dhaka,Gazipur,1.96,Smallholder (<2 acre),Maize,2025-07-25,Direct,DT017,D05
+C01018,Chattogram,Cox's Bazar,5.23,Large (>5 acre),Wheat,2025-09-12,Field Dealer Network,DT024,D07
+C01019,Rajshahi,Rajshahi,1.07,Smallholder (<2 acre),Vegetables,2025-01-18,Organic Search,DT001,D01
+C01020,Mymensingh,Jamalpur,6.84,Large (>5 acre),Wheat,2025-02-12,Referral/NGO Partner,DT014,D04
+C01021,Chattogram,Feni,3.17,Medium (2-5 acre),Mustard,2025-10-23,Field Dealer Network,DT026,D07
+C01022,Barishal,Barishal,1.62,Smallholder (<2 acre),Rice (Boro),2026-01-08,Organic Search,DT020,D06
+C01023,Sylhet,Habiganj,6.36,Large (>5 acre),Jute,2025-08-11,Organic Search,DT029,D08
+C01024,Mymensingh,Jamalpur,0.71,Smallholder (<2 acre),Rice (Aman),2025-05-20,Facebook Ads,DT014,D04
+C01025,Dhaka,Tangail,0.85,Smallholder (<2 acre),Potato,2025-01-16,Facebook Ads,DT019,D05
+C01026,Rangpur,Kurigram,5.3,Large (>5 acre),Vegetables,2025-11-02,Field Dealer Network,DT007,D02
+C01027,Sylhet,Moulvibazar,0.64,Smallholder (<2 acre),Mustard,2025-12-03,Field Dealer Network,DT028,D08
+C01028,Khulna,Khulna,1.95,Smallholder (<2 acre),Rice (Aman),2025-01-23,Field Dealer Network,DT009,D03
+C01029,Barishal,Barishal,6.56,Large (>5 acre),Potato,2025-05-31,Field Dealer Network,DT020,D06
+C01030,Khulna,Bagerhat,0.67,Smallholder (<2 acre),Maize,2026-04-12,Organic Search,DT012,D03
+C01031,Dhaka,Narayanganj,3.04,Medium (2-5 acre),Potato,2025-07-23,Referral/NGO Partner,DT018,D05
+C01032,Dhaka,Narayanganj,1.4,Smallholder (<2 acre),Rice (Aman),2025-01-11,Organic Search,DT018,D05
+C01033,Mymensingh,Jamalpur,3.63,Medium (2-5 acre),Jute,2025-02-14,Facebook Ads,DT014,D04
+C01034,Chattogram,Comilla,1.0,Smallholder (<2 acre),Maize,2025-03-26,Facebook Ads,DT025,D07
+C01035,Khulna,Jashore,2.09,Medium (2-5 acre),Maize,2026-03-18,Field Dealer Network,DT010,D03
+C01036,Dhaka,Dhaka,1.47,Smallholder (<2 acre),Rice (Aman),2025-12-12,Organic Search,DT016,D05
+C01037,Khulna,Jashore,2.53,Medium (2-5 acre),Rice (Aman),2025-12-07,SMS Campaign,DT010,D03
+C01038,Khulna,Khulna,1.28,Smallholder (<2 acre),Rice (Boro),2025-08-16,Facebook Ads,DT009,D03
+C01039,Mymensingh,Jamalpur,1.48,Smallholder (<2 acre),Potato,2025-10-15,Organic Search,DT014,D04
+C01040,Rajshahi,Pabna,4.33,Medium (2-5 acre),Wheat,2025-11-15,Facebook Ads,DT003,D01
+C01041,Rajshahi,Natore,3.41,Medium (2-5 acre),Rice (Aman),2025-07-08,Field Dealer Network,DT004,D01
+C01042,Dhaka,Narayanganj,4.75,Medium (2-5 acre),Mustard,2025-04-13,YouTube,DT018,D05
+C01043,Dhaka,Tangail,1.77,Smallholder (<2 acre),Jute,2026-04-25,Referral/NGO Partner,DT019,D05
+C01044,Dhaka,Tangail,0.2,Smallholder (<2 acre),Jute,2026-01-05,Field Dealer Network,DT019,D05
+C01045,Rajshahi,Natore,1.06,Smallholder (<2 acre),Maize,2025-09-10,Referral/NGO Partner,DT004,D01
+C01046,Khulna,Khulna,6.7,Large (>5 acre),Maize,2025-08-05,Organic Search,DT009,D03
+C01047,Rangpur,Dinajpur,3.63,Medium (2-5 acre),Rice (Aman),2026-02-14,Field Dealer Network,DT006,D02
+C01048,Barishal,Bhola,5.21,Large (>5 acre),Vegetables,2025-02-01,Referral/NGO Partner,DT022,D06
+C01049,Chattogram,Feni,1.74,Smallholder (<2 acre),Jute,2025-04-22,Field Dealer Network,DT026,D07
+C01050,Rangpur,Rangpur,0.6,Smallholder (<2 acre),Rice (Aman),2025-07-01,Field Dealer Network,DT005,D02
+C01051,Dhaka,Dhaka,2.36,Medium (2-5 acre),Jute,2025-05-01,Field Dealer Network,DT016,D05
+C01052,Rajshahi,Pabna,1.89,Smallholder (<2 acre),Wheat,2026-02-13,Facebook Ads,DT003,D01
+C01053,Rangpur,Dinajpur,3.67,Medium (2-5 acre),Mustard,2025-03-15,YouTube,DT006,D02
+C01054,Rajshahi,Natore,1.53,Smallholder (<2 acre),Potato,2025-06-11,Direct,DT004,D01
+C01055,Rangpur,Dinajpur,1.54,Smallholder (<2 acre),Rice (Boro),2025-12-18,Field Dealer Network,DT006,D02
+C01056,Dhaka,Tangail,0.96,Smallholder (<2 acre),Jute,2026-01-14,Field Dealer Network,DT019,D05
+C01057,Chattogram,Comilla,2.05,Medium (2-5 acre),Potato,2025-06-18,SMS Campaign,DT025,D07
+C01058,Rangpur,Rangpur,0.94,Smallholder (<2 acre),Jute,2026-03-13,Field Dealer Network,DT005,D02
+C01059,Mymensingh,Mymensingh,1.67,Smallholder (<2 acre),Jute,2025-12-06,Referral/NGO Partner,DT013,D04
+C01060,Dhaka,Tangail,3.14,Medium (2-5 acre),Jute,2026-02-13,SMS Campaign,DT019,D05
+C01061,Sylhet,Sylhet,3.44,Medium (2-5 acre),Jute,2025-05-22,Referral/NGO Partner,DT027,D08
+C01062,Dhaka,Narayanganj,1.87,Smallholder (<2 acre),Rice (Aman),2025-10-24,Organic Search,DT018,D05
+C01063,Rangpur,Gaibandha,1.04,Smallholder (<2 acre),Vegetables,2026-04-18,Facebook Ads,DT008,D02
+C01064,Dhaka,Narayanganj,5.79,Large (>5 acre),Rice (Aman),2025-04-06,SMS Campaign,DT018,D05
+C01065,Khulna,Jashore,0.53,Smallholder (<2 acre),Mustard,2025-03-17,Organic Search,DT010,D03
+C01066,Sylhet,Sylhet,1.23,Smallholder (<2 acre),Rice (Boro),2025-02-21,Direct,DT027,D08
+C01067,Khulna,Khulna,1.22,Smallholder (<2 acre),Potato,2025-04-12,Referral/NGO Partner,DT009,D03
+C01068,Dhaka,Dhaka,3.67,Medium (2-5 acre),Potato,2025-09-12,Organic Search,DT016,D05
+C01069,Rajshahi,Rajshahi,0.63,Smallholder (<2 acre),Vegetables,2025-08-06,Facebook Ads,DT001,D01
+C01070,Khulna,Satkhira,2.6,Medium (2-5 acre),Vegetables,2025-10-28,Organic Search,DT011,D03
+C01071,Chattogram,Feni,0.64,Smallholder (<2 acre),Rice (Aman),2025-01-11,Organic Search,DT026,D07
+C01072,Dhaka,Gazipur,2.42,Medium (2-5 acre),Potato,2026-03-25,YouTube,DT017,D05
+C01073,Mymensingh,Jamalpur,1.66,Smallholder (<2 acre),Maize,2025-10-17,SMS Campaign,DT014,D04
+C01074,Chattogram,Cox's Bazar,8.45,Large (>5 acre),Vegetables,2025-04-29,Facebook Ads,DT024,D07
+C01075,Chattogram,Chattogram,0.55,Smallholder (<2 acre),Rice (Boro),2025-03-16,SMS Campaign,DT023,D07
+C01076,Khulna,Satkhira,1.16,Smallholder (<2 acre),Jute,2025-02-24,Facebook Ads,DT011,D03
+C01077,Mymensingh,Mymensingh,0.64,Smallholder (<2 acre),Rice (Boro),2025-11-19,Field Dealer Network,DT013,D04
+C01078,Mymensingh,Netrokona,1.15,Smallholder (<2 acre),Wheat,2025-02-14,Referral/NGO Partner,DT015,D04
+C01079,Dhaka,Narayanganj,0.69,Smallholder (<2 acre),Jute,2025-05-10,Referral/NGO Partner,DT018,D05
+C01080,Khulna,Khulna,0.3,Smallholder (<2 acre),Mustard,2025-10-27,Referral/NGO Partner,DT009,D03
+C01081,Rangpur,Gaibandha,2.76,Medium (2-5 acre),Rice (Boro),2026-04-26,SMS Campaign,DT008,D02
+C01082,Chattogram,Chattogram,5.64,Large (>5 acre),Potato,2025-05-06,Referral/NGO Partner,DT023,D07
+C01083,Chattogram,Chattogram,0.81,Smallholder (<2 acre),Rice (Boro),2025-08-14,YouTube,DT023,D07
+C01084,Chattogram,Feni,1.21,Smallholder (<2 acre),Jute,2026-03-16,Direct,DT026,D07
+C01085,Sylhet,Moulvibazar,1.28,Smallholder (<2 acre),Tea,2025-05-07,SMS Campaign,DT028,D08
+C01086,Barishal,Barishal,1.5,Smallholder (<2 acre),Rice (Aman),2025-01-06,Field Dealer Network,DT020,D06
+C01087,Barishal,Patuakhali,0.5,Smallholder (<2 acre),Mustard,2025-11-23,SMS Campaign,DT021,D06
+C01088,Barishal,Bhola,0.88,Smallholder (<2 acre),Jute,2026-01-10,Field Dealer Network,DT022,D06
+C01089,Mymensingh,Mymensingh,2.38,Medium (2-5 acre),Vegetables,2026-03-07,Organic Search,DT013,D04
+C01090,Mymensingh,Mymensingh,2.43,Medium (2-5 acre),Wheat,2025-12-31,Referral/NGO Partner,DT013,D04
+C01091,Rangpur,Kurigram,1.58,Smallholder (<2 acre),Rice (Aman),2026-01-02,Field Dealer Network,DT007,D02
+C01092,Dhaka,Gazipur,0.88,Smallholder (<2 acre),Rice (Aman),2025-01-22,Facebook Ads,DT017,D05
+C01093,Rangpur,Gaibandha,1.88,Smallholder (<2 acre),Rice (Boro),2025-05-12,Facebook Ads,DT008,D02
+C01094,Rangpur,Dinajpur,0.75,Smallholder (<2 acre),Vegetables,2026-04-26,Organic Search,DT006,D02
+C01095,Dhaka,Gazipur,1.27,Smallholder (<2 acre),Rice (Boro),2025-08-14,Referral/NGO Partner,DT017,D05
+C01096,Khulna,Jashore,2.33,Medium (2-5 acre),Rice (Boro),2026-03-08,Organic Search,DT010,D03
+C01097,Rangpur,Gaibandha,0.62,Smallholder (<2 acre),Vegetables,2025-01-26,SMS Campaign,DT008,D02
+C01098,Barishal,Patuakhali,0.42,Smallholder (<2 acre),Maize,2025-04-27,Facebook Ads,DT021,D06
+C01099,Chattogram,Chattogram,2.44,Medium (2-5 acre),Maize,2025-07-31,Facebook Ads,DT023,D07
+C01100,Rangpur,Rangpur,4.04,Medium (2-5 acre),Vegetables,2025-08-08,Field Dealer Network,DT005,D02
+C01101,Rajshahi,Natore,0.78,Smallholder (<2 acre),Wheat,2026-03-27,Referral/NGO Partner,DT004,D01
+C01102,Khulna,Bagerhat,3.3,Medium (2-5 acre),Mustard,2026-03-11,Referral/NGO Partner,DT012,D03
+C01103,Barishal,Patuakhali,5.63,Large (>5 acre),Potato,2025-06-23,Direct,DT021,D06
+C01104,Chattogram,Chattogram,0.37,Smallholder (<2 acre),Vegetables,2026-04-10,Organic Search,DT023,D07
+C01105,Rajshahi,Pabna,1.7,Smallholder (<2 acre),Potato,2025-06-16,Direct,DT003,D01
+C01106,Barishal,Bhola,2.14,Medium (2-5 acre),Wheat,2026-02-23,Field Dealer Network,DT022,D06
+C01107,Rajshahi,Pabna,4.22,Medium (2-5 acre),Maize,2025-05-29,Organic Search,DT003,D01
+C01108,Khulna,Khulna,1.56,Smallholder (<2 acre),Mustard,2025-07-10,Organic Search,DT009,D03
+C01109,Sylhet,Sylhet,3.86,Medium (2-5 acre),Tea,2026-02-04,Organic Search,DT027,D08
+C01110,Rangpur,Kurigram,4.22,Medium (2-5 acre),Rice (Boro),2025-05-28,Field Dealer Network,DT007,D02
+C01111,Rajshahi,Rajshahi,5.24,Large (>5 acre),Jute,2025-02-24,SMS Campaign,DT001,D01
+C01112,Khulna,Jashore,2.32,Medium (2-5 acre),Rice (Aman),2026-04-01,Facebook Ads,DT010,D03
+C01113,Dhaka,Dhaka,1.04,Smallholder (<2 acre),Rice (Aman),2025-01-02,Referral/NGO Partner,DT016,D05
+C01114,Chattogram,Feni,4.34,Medium (2-5 acre),Vegetables,2025-09-10,Referral/NGO Partner,DT026,D07
+C01115,Sylhet,Moulvibazar,1.95,Smallholder (<2 acre),Potato,2025-01-30,Organic Search,DT028,D08
+C01116,Rajshahi,Bogura,3.04,Medium (2-5 acre),Wheat,2026-03-25,Organic Search,DT002,D01
+C01117,Rajshahi,Pabna,0.31,Smallholder (<2 acre),Wheat,2026-02-01,Organic Search,DT003,D01
+C01118,Barishal,Patuakhali,1.5,Smallholder (<2 acre),Rice (Boro),2025-01-08,Facebook Ads,DT021,D06
+C01119,Rangpur,Kurigram,5.53,Large (>5 acre),Vegetables,2025-11-16,Field Dealer Network,DT007,D02
+C01120,Chattogram,Comilla,0.94,Smallholder (<2 acre),Potato,2026-03-21,SMS Campaign,DT025,D07
+C01121,Dhaka,Gazipur,0.68,Smallholder (<2 acre),Jute,2025-07-25,SMS Campaign,DT017,D05
+C01122,Rajshahi,Rajshahi,3.36,Medium (2-5 acre),Jute,2026-03-29,Field Dealer Network,DT001,D01
+C01123,Chattogram,Chattogram,4.76,Medium (2-5 acre),Rice (Aman),2025-04-04,Field Dealer Network,DT023,D07
+C01124,Rangpur,Dinajpur,1.15,Smallholder (<2 acre),Potato,2025-08-21,Field Dealer Network,DT006,D02
+C01125,Khulna,Bagerhat,1.05,Smallholder (<2 acre),Vegetables,2026-03-08,YouTube,DT012,D03
+C01126,Mymensingh,Jamalpur,0.45,Smallholder (<2 acre),Vegetables,2025-08-27,Facebook Ads,DT014,D04
+C01127,Mymensingh,Mymensingh,2.16,Medium (2-5 acre),Potato,2026-04-01,Field Dealer Network,DT013,D04
+C01128,Dhaka,Gazipur,2.15,Medium (2-5 acre),Rice (Boro),2026-01-10,Field Dealer Network,DT017,D05
+C01129,Dhaka,Dhaka,4.3,Medium (2-5 acre),Potato,2025-05-16,Field Dealer Network,DT016,D05
+C01130,Sylhet,Habiganj,4.66,Medium (2-5 acre),Rice (Aman),2026-03-19,Organic Search,DT029,D08
+C01131,Sylhet,Moulvibazar,0.39,Smallholder (<2 acre),Tea,2025-09-15,SMS Campaign,DT028,D08
+C01132,Mymensingh,Netrokona,1.78,Smallholder (<2 acre),Potato,2025-05-31,Referral/NGO Partner,DT015,D04
+C01133,Rajshahi,Natore,1.84,Smallholder (<2 acre),Maize,2025-07-16,Facebook Ads,DT004,D01
+C01134,Barishal,Barishal,1.05,Smallholder (<2 acre),Jute,2025-07-03,Facebook Ads,DT020,D06
+C01135,Sylhet,Moulvibazar,1.61,Smallholder (<2 acre),Rice (Boro),2025-06-04,SMS Campaign,DT028,D08
+C01136,Khulna,Satkhira,4.27,Medium (2-5 acre),Potato,2025-09-20,Direct,DT011,D03
+C01137,Mymensingh,Mymensingh,0.57,Smallholder (<2 acre),Rice (Boro),2025-03-10,Facebook Ads,DT013,D04
+C01138,Khulna,Jashore,0.64,Smallholder (<2 acre),Maize,2025-10-17,Organic Search,DT010,D03
+C01139,Rajshahi,Rajshahi,0.37,Smallholder (<2 acre),Rice (Boro),2025-06-23,Field Dealer Network,DT001,D01
+C01140,Dhaka,Dhaka,2.07,Medium (2-5 acre),Rice (Boro),2025-12-01,YouTube,DT016,D05
+C01141,Khulna,Bagerhat,2.27,Medium (2-5 acre),Potato,2025-08-21,YouTube,DT012,D03
+C01142,Barishal,Barishal,5.52,Large (>5 acre),Jute,2025-07-20,YouTube,DT020,D06
+C01143,Chattogram,Comilla,1.52,Smallholder (<2 acre),Wheat,2026-04-10,SMS Campaign,DT025,D07
+C01144,Chattogram,Cox's Bazar,3.4,Medium (2-5 acre),Rice (Boro),2025-08-19,Field Dealer Network,DT024,D07
+C01145,Khulna,Jashore,0.51,Smallholder (<2 acre),Potato,2026-03-09,Facebook Ads,DT010,D03
+C01146,Khulna,Bagerhat,1.08,Smallholder (<2 acre),Vegetables,2025-07-11,Facebook Ads,DT012,D03
+C01147,Barishal,Bhola,5.41,Large (>5 acre),Potato,2025-02-02,Referral/NGO Partner,DT022,D06
+C01148,Barishal,Barishal,3.89,Medium (2-5 acre),Wheat,2025-09-02,SMS Campaign,DT020,D06
+C01149,Mymensingh,Netrokona,7.83,Large (>5 acre),Jute,2025-06-19,Field Dealer Network,DT015,D04
+C01150,Chattogram,Chattogram,2.66,Medium (2-5 acre),Mustard,2025-11-02,Field Dealer Network,DT023,D07
+C01151,Rajshahi,Rajshahi,1.37,Smallholder (<2 acre),Rice (Aman),2026-04-06,Field Dealer Network,DT001,D01
+C01152,Chattogram,Feni,1.59,Smallholder (<2 acre),Maize,2025-07-03,Direct,DT026,D07
+C01153,Rajshahi,Pabna,2.74,Medium (2-5 acre),Potato,2025-11-26,Facebook Ads,DT003,D01
+C01154,Rajshahi,Rajshahi,1.11,Smallholder (<2 acre),Potato,2025-06-13,Referral/NGO Partner,DT001,D01
+C01155,Mymensingh,Mymensingh,1.24,Smallholder (<2 acre),Rice (Aman),2025-10-11,Field Dealer Network,DT013,D04
+C01156,Rajshahi,Bogura,4.56,Medium (2-5 acre),Wheat,2025-01-17,SMS Campaign,DT002,D01
+C01157,Rajshahi,Rajshahi,6.29,Large (>5 acre),Vegetables,2025-12-18,Referral/NGO Partner,DT001,D01
+C01158,Rajshahi,Rajshahi,0.99,Smallholder (<2 acre),Mustard,2025-05-05,Organic Search,DT001,D01
+C01159,Khulna,Khulna,0.82,Smallholder (<2 acre),Wheat,2025-04-24,Referral/NGO Partner,DT009,D03
+C01160,Barishal,Patuakhali,0.35,Smallholder (<2 acre),Jute,2026-04-25,Organic Search,DT021,D06
+C01161,Rajshahi,Pabna,1.32,Smallholder (<2 acre),Rice (Aman),2025-10-19,Direct,DT003,D01
+C01162,Dhaka,Gazipur,0.41,Smallholder (<2 acre),Potato,2026-04-27,Organic Search,DT017,D05
+C01163,Chattogram,Cox's Bazar,3.26,Medium (2-5 acre),Jute,2025-01-13,Organic Search,DT024,D07
+C01164,Rangpur,Rangpur,1.5,Smallholder (<2 acre),Jute,2025-02-24,Facebook Ads,DT005,D02
+C01165,Rajshahi,Rajshahi,0.68,Smallholder (<2 acre),Vegetables,2025-08-13,Organic Search,DT001,D01
+C01166,Chattogram,Cox's Bazar,3.54,Medium (2-5 acre),Potato,2025-11-10,Field Dealer Network,DT024,D07
+C01167,Chattogram,Comilla,0.74,Smallholder (<2 acre),Jute,2025-03-02,Organic Search,DT025,D07
+C01168,Mymensingh,Netrokona,3.22,Medium (2-5 acre),Mustard,2025-06-08,Referral/NGO Partner,DT015,D04
+C01169,Barishal,Barishal,0.93,Smallholder (<2 acre),Potato,2025-08-22,Direct,DT020,D06
+C01170,Rajshahi,Natore,2.21,Medium (2-5 acre),Potato,2025-07-25,Referral/NGO Partner,DT004,D01
+C01171,Khulna,Satkhira,1.12,Smallholder (<2 acre),Jute,2025-08-18,Organic Search,DT011,D03
+C01172,Barishal,Barishal,3.9,Medium (2-5 acre),Maize,2025-03-01,YouTube,DT020,D06
+C01173,Rangpur,Kurigram,1.69,Smallholder (<2 acre),Jute,2025-07-18,Facebook Ads,DT007,D02
+C01174,Barishal,Barishal,2.97,Medium (2-5 acre),Maize,2025-08-20,Direct,DT020,D06
+C01175,Mymensingh,Netrokona,0.5,Smallholder (<2 acre),Jute,2025-11-16,Referral/NGO Partner,DT015,D04
+C01176,Barishal,Patuakhali,2.68,Medium (2-5 acre),Rice (Boro),2025-12-25,Field Dealer Network,DT021,D06
+C01177,Mymensingh,Mymensingh,1.36,Smallholder (<2 acre),Maize,2025-10-21,Field Dealer Network,DT013,D04
+C01178,Khulna,Satkhira,2.82,Medium (2-5 acre),Vegetables,2025-06-11,Facebook Ads,DT011,D03
+C01179,Rangpur,Gaibandha,5.57,Large (>5 acre),Mustard,2025-01-24,Field Dealer Network,DT008,D02
+C01180,Rangpur,Dinajpur,1.44,Smallholder (<2 acre),Rice (Boro),2025-12-04,Field Dealer Network,DT006,D02
+C01181,Barishal,Bhola,1.77,Smallholder (<2 acre),Rice (Boro),2025-11-09,Field Dealer Network,DT022,D06
+C01182,Rajshahi,Pabna,6.63,Large (>5 acre),Maize,2025-09-23,Referral/NGO Partner,DT003,D01
+C01183,Rajshahi,Natore,0.94,Smallholder (<2 acre),Wheat,2026-03-22,Field Dealer Network,DT004,D01
+C01184,Rangpur,Kurigram,4.01,Medium (2-5 acre),Potato,2026-04-14,Field Dealer Network,DT007,D02
+C01185,Rangpur,Kurigram,0.67,Smallholder (<2 acre),Jute,2025-05-09,YouTube,DT007,D02
+C01186,Chattogram,Cox's Bazar,1.08,Smallholder (<2 acre),Potato,2025-06-22,Organic Search,DT024,D07
+C01187,Khulna,Jashore,1.93,Smallholder (<2 acre),Vegetables,2026-03-27,Field Dealer Network,DT010,D03
+C01188,Sylhet,Habiganj,0.39,Smallholder (<2 acre),Jute,2026-01-10,Organic Search,DT029,D08
+C01189,Rajshahi,Pabna,2.96,Medium (2-5 acre),Maize,2025-12-08,Referral/NGO Partner,DT003,D01
+C01190,Dhaka,Narayanganj,3.17,Medium (2-5 acre),Potato,2026-04-14,Facebook Ads,DT018,D05
+C01191,Mymensingh,Netrokona,0.69,Smallholder (<2 acre),Wheat,2026-04-22,Organic Search,DT015,D04
+C01192,Khulna,Satkhira,1.76,Smallholder (<2 acre),Maize,2025-01-28,Field Dealer Network,DT011,D03
+C01193,Chattogram,Feni,7.59,Large (>5 acre),Maize,2026-01-10,Facebook Ads,DT026,D07
+C01194,Sylhet,Habiganj,0.21,Smallholder (<2 acre),Vegetables,2026-02-23,Field Dealer Network,DT029,D08
+C01195,Chattogram,Comilla,3.48,Medium (2-5 acre),Mustard,2025-01-02,Organic Search,DT025,D07
+C01196,Rangpur,Dinajpur,2.37,Medium (2-5 acre),Mustard,2025-01-01,Organic Search,DT006,D02
+C01197,Rangpur,Gaibandha,0.92,Smallholder (<2 acre),Wheat,2025-07-11,Facebook Ads,DT008,D02
+C01198,Dhaka,Narayanganj,2.89,Medium (2-5 acre),Vegetables,2025-01-14,Direct,DT018,D05
+C01199,Rangpur,Gaibandha,4.19,Medium (2-5 acre),Jute,2026-01-26,Field Dealer Network,DT008,D02
+C01200,Barishal,Barishal,1.81,Smallholder (<2 acre),Mustard,2025-10-18,Organic Search,DT020,D06
+C01201,Dhaka,Tangail,5.31,Large (>5 acre),Rice (Aman),2025-10-19,Organic Search,DT019,D05
+C01202,Mymensingh,Jamalpur,0.54,Smallholder (<2 acre),Jute,2025-10-30,YouTube,DT014,D04
+C01203,Chattogram,Feni,1.12,Smallholder (<2 acre),Wheat,2025-02-24,Facebook Ads,DT026,D07
+C01204,Dhaka,Dhaka,3.85,Medium (2-5 acre),Jute,2026-04-11,Field Dealer Network,DT016,D05
+C01205,Rajshahi,Bogura,0.59,Smallholder (<2 acre),Jute,2025-08-23,Facebook Ads,DT002,D01
+C01206,Rajshahi,Natore,1.83,Smallholder (<2 acre),Jute,2025-07-27,Organic Search,DT004,D01
+C01207,Dhaka,Tangail,1.35,Smallholder (<2 acre),Vegetables,2026-04-03,Organic Search,DT019,D05
+C01208,Mymensingh,Mymensingh,0.72,Smallholder (<2 acre),Rice (Aman),2025-05-13,Referral/NGO Partner,DT013,D04
+C01209,Rangpur,Gaibandha,0.49,Smallholder (<2 acre),Mustard,2025-09-10,Referral/NGO Partner,DT008,D02
+C01210,Khulna,Bagerhat,1.97,Smallholder (<2 acre),Potato,2025-04-16,Facebook Ads,DT012,D03
+C01211,Barishal,Patuakhali,4.52,Medium (2-5 acre),Mustard,2025-08-07,SMS Campaign,DT021,D06
+C01212,Chattogram,Cox's Bazar,3.14,Medium (2-5 acre),Mustard,2026-02-11,Referral/NGO Partner,DT024,D07
+C01213,Dhaka,Narayanganj,2.88,Medium (2-5 acre),Wheat,2025-03-23,Facebook Ads,DT018,D05
+C01214,Khulna,Jashore,0.36,Smallholder (<2 acre),Potato,2025-08-21,Referral/NGO Partner,DT010,D03
+C01215,Rangpur,Gaibandha,0.53,Smallholder (<2 acre),Jute,2025-01-18,Facebook Ads,DT008,D02
+C01216,Mymensingh,Netrokona,3.76,Medium (2-5 acre),Maize,2025-01-05,Organic Search,DT015,D04
+C01217,Khulna,Satkhira,0.95,Smallholder (<2 acre),Jute,2026-01-21,Field Dealer Network,DT011,D03
+C01218,Dhaka,Dhaka,2.0,Medium (2-5 acre),Vegetables,2025-06-13,Referral/NGO Partner,DT016,D05
+C01219,Dhaka,Narayanganj,1.16,Smallholder (<2 acre),Vegetables,2025-01-31,Facebook Ads,DT018,D05
+C01220,Rajshahi,Bogura,0.2,Smallholder (<2 acre),Maize,2025-11-30,Organic Search,DT002,D01
+C01221,Rajshahi,Bogura,6.25,Large (>5 acre),Mustard,2025-05-22,Direct,DT002,D01
+C01222,Rangpur,Gaibandha,5.49,Large (>5 acre),Potato,2025-06-03,Field Dealer Network,DT008,D02
+C01223,Chattogram,Cox's Bazar,1.78,Smallholder (<2 acre),Wheat,2025-07-28,Facebook Ads,DT024,D07
+C01224,Dhaka,Gazipur,1.58,Smallholder (<2 acre),Jute,2025-11-24,Organic Search,DT017,D05
+C01225,Rangpur,Kurigram,4.78,Medium (2-5 acre),Potato,2025-10-19,Organic Search,DT007,D02
+C01226,Chattogram,Feni,7.78,Large (>5 acre),Jute,2026-02-17,Referral/NGO Partner,DT026,D07
+C01227,Mymensingh,Netrokona,1.45,Smallholder (<2 acre),Vegetables,2025-05-29,Direct,DT015,D04
+C01228,Mymensingh,Netrokona,2.7,Medium (2-5 acre),Potato,2025-10-08,Direct,DT015,D04
+C01229,Chattogram,Feni,1.27,Smallholder (<2 acre),Rice (Aman),2025-08-07,Field Dealer Network,DT026,D07
+C01230,Rajshahi,Rajshahi,0.66,Smallholder (<2 acre),Rice (Boro),2025-10-04,Referral/NGO Partner,DT001,D01
+C01231,Rangpur,Dinajpur,2.35,Medium (2-5 acre),Rice (Aman),2025-11-15,Field Dealer Network,DT006,D02
+C01232,Dhaka,Gazipur,3.84,Medium (2-5 acre),Maize,2025-09-21,Organic Search,DT017,D05
+C01233,Rangpur,Dinajpur,0.44,Smallholder (<2 acre),Rice (Boro),2025-06-24,Facebook Ads,DT006,D02
+C01234,Dhaka,Gazipur,0.95,Smallholder (<2 acre),Jute,2025-05-06,Organic Search,DT017,D05
+C01235,Rangpur,Dinajpur,1.6,Smallholder (<2 acre),Potato,2025-01-19,Organic Search,DT006,D02
+C01236,Rajshahi,Pabna,1.33,Smallholder (<2 acre),Wheat,2025-11-15,Field Dealer Network,DT003,D01
+C01237,Rangpur,Kurigram,0.91,Smallholder (<2 acre),Maize,2025-07-08,YouTube,DT007,D02
+C01238,Khulna,Jashore,1.11,Smallholder (<2 acre),Jute,2025-12-08,Organic Search,DT010,D03
+C01239,Rangpur,Dinajpur,4.35,Medium (2-5 acre),Mustard,2025-09-18,Field Dealer Network,DT006,D02
+C01240,Rajshahi,Rajshahi,1.59,Smallholder (<2 acre),Vegetables,2025-01-20,SMS Campaign,DT001,D01
+C01241,Chattogram,Comilla,0.59,Smallholder (<2 acre),Wheat,2026-04-01,Organic Search,DT025,D07
+C01242,Khulna,Bagerhat,0.54,Smallholder (<2 acre),Rice (Aman),2025-12-01,Organic Search,DT012,D03
+C01243,Khulna,Khulna,1.29,Smallholder (<2 acre),Rice (Aman),2025-08-02,Referral/NGO Partner,DT009,D03
+C01244,Rajshahi,Pabna,2.25,Medium (2-5 acre),Maize,2025-02-20,Direct,DT003,D01
+C01245,Khulna,Khulna,6.28,Large (>5 acre),Jute,2026-04-10,Facebook Ads,DT009,D03
+C01246,Rangpur,Gaibandha,1.13,Smallholder (<2 acre),Vegetables,2025-10-21,Field Dealer Network,DT008,D02
+C01247,Dhaka,Narayanganj,2.87,Medium (2-5 acre),Maize,2025-07-01,Referral/NGO Partner,DT018,D05
+C01248,Rangpur,Kurigram,3.51,Medium (2-5 acre),Rice (Aman),2026-02-01,Organic Search,DT007,D02
+C01249,Chattogram,Feni,3.57,Medium (2-5 acre),Maize,2026-02-14,Field Dealer Network,DT026,D07
+C01250,Chattogram,Cox's Bazar,0.2,Smallholder (<2 acre),Vegetables,2026-02-18,Field Dealer Network,DT024,D07
+C01251,Rajshahi,Rajshahi,4.19,Medium (2-5 acre),Mustard,2025-07-10,YouTube,DT001,D01
+C01252,Rajshahi,Bogura,3.36,Medium (2-5 acre),Maize,2026-02-05,Organic Search,DT002,D01
+C01253,Rajshahi,Pabna,1.77,Smallholder (<2 acre),Jute,2026-04-15,Facebook Ads,DT003,D01
+C01254,Dhaka,Gazipur,1.16,Smallholder (<2 acre),Mustard,2026-02-21,Referral/NGO Partner,DT017,D05
+C01255,Rajshahi,Rajshahi,1.6,Smallholder (<2 acre),Maize,2025-04-23,Referral/NGO Partner,DT001,D01
+C01256,Chattogram,Cox's Bazar,2.77,Medium (2-5 acre),Wheat,2025-12-25,Organic Search,DT024,D07
+C01257,Barishal,Barishal,2.37,Medium (2-5 acre),Mustard,2025-03-13,Organic Search,DT020,D06
+C01258,Barishal,Barishal,3.63,Medium (2-5 acre),Rice (Aman),2025-10-05,SMS Campaign,DT020,D06
+C01259,Mymensingh,Mymensingh,2.12,Medium (2-5 acre),Rice (Aman),2026-01-21,Referral/NGO Partner,DT013,D04
+C01260,Sylhet,Sylhet,2.84,Medium (2-5 acre),Maize,2025-02-08,SMS Campaign,DT027,D08
+C01261,Rajshahi,Pabna,1.33,Smallholder (<2 acre),Potato,2026-03-25,Organic Search,DT003,D01
+C01262,Khulna,Bagerhat,1.86,Smallholder (<2 acre),Rice (Aman),2026-01-16,Facebook Ads,DT012,D03
+C01263,Khulna,Jashore,8.2,Large (>5 acre),Potato,2025-03-01,Organic Search,DT010,D03
+C01264,Sylhet,Habiganj,2.5,Medium (2-5 acre),Tea,2026-02-25,Organic Search,DT029,D08
+C01265,Dhaka,Narayanganj,1.55,Smallholder (<2 acre),Maize,2025-01-18,Facebook Ads,DT018,D05
+C01266,Barishal,Bhola,2.52,Medium (2-5 acre),Mustard,2025-03-22,Field Dealer Network,DT022,D06
+C01267,Rangpur,Kurigram,2.03,Medium (2-5 acre),Jute,2025-04-13,Facebook Ads,DT007,D02
+C01268,Sylhet,Moulvibazar,2.04,Medium (2-5 acre),Tea,2026-03-27,YouTube,DT028,D08
+C01269,Mymensingh,Netrokona,2.36,Medium (2-5 acre),Vegetables,2025-03-04,Organic Search,DT015,D04
+C01270,Mymensingh,Jamalpur,2.08,Medium (2-5 acre),Wheat,2025-06-02,Facebook Ads,DT014,D04
+C01271,Sylhet,Moulvibazar,1.39,Smallholder (<2 acre),Rice (Aman),2025-06-04,Field Dealer Network,DT028,D08
+C01272,Khulna,Khulna,1.68,Smallholder (<2 acre),Jute,2025-08-25,Facebook Ads,DT009,D03
+C01273,Khulna,Khulna,1.28,Smallholder (<2 acre),Wheat,2025-06-11,YouTube,DT009,D03
+C01274,Dhaka,Gazipur,1.09,Smallholder (<2 acre),Mustard,2026-02-03,SMS Campaign,DT017,D05
+C01275,Rajshahi,Rajshahi,0.69,Smallholder (<2 acre),Mustard,2025-08-01,SMS Campaign,DT001,D01
+C01276,Khulna,Bagerhat,4.26,Medium (2-5 acre),Wheat,2025-09-17,Organic Search,DT012,D03
+C01277,Rangpur,Rangpur,3.32,Medium (2-5 acre),Mustard,2026-04-10,Facebook Ads,DT005,D02
+C01278,Rajshahi,Pabna,1.18,Smallholder (<2 acre),Vegetables,2025-07-03,SMS Campaign,DT003,D01
+C01279,Chattogram,Chattogram,1.89,Smallholder (<2 acre),Vegetables,2025-07-22,Facebook Ads,DT023,D07
+C01280,Dhaka,Tangail,1.3,Smallholder (<2 acre),Rice (Aman),2025-05-07,SMS Campaign,DT019,D05
+C01281,Khulna,Satkhira,1.72,Smallholder (<2 acre),Mustard,2026-04-08,Direct,DT011,D03
+C01282,Khulna,Khulna,2.92,Medium (2-5 acre),Rice (Aman),2026-01-08,Field Dealer Network,DT009,D03
+C01283,Khulna,Jashore,2.0,Medium (2-5 acre),Vegetables,2025-04-18,Field Dealer Network,DT010,D03
+C01284,Dhaka,Tangail,3.47,Medium (2-5 acre),Jute,2025-10-13,Organic Search,DT019,D05
+C01285,Chattogram,Comilla,2.43,Medium (2-5 acre),Vegetables,2025-03-19,Organic Search,DT025,D07
+C01286,Chattogram,Chattogram,5.88,Large (>5 acre),Rice (Aman),2026-03-01,Organic Search,DT023,D07
+C01287,Khulna,Khulna,2.58,Medium (2-5 acre),Jute,2025-03-03,Organic Search,DT009,D03
+C01288,Khulna,Jashore,1.21,Smallholder (<2 acre),Vegetables,2025-10-18,Referral/NGO Partner,DT010,D03
+C01289,Mymensingh,Jamalpur,1.98,Smallholder (<2 acre),Rice (Aman),2025-11-06,Organic Search,DT014,D04
+C01290,Dhaka,Gazipur,4.6,Medium (2-5 acre),Potato,2025-06-23,SMS Campaign,DT017,D05
+C01291,Mymensingh,Netrokona,1.3,Smallholder (<2 acre),Wheat,2026-02-18,Referral/NGO Partner,DT015,D04
+C01292,Dhaka,Tangail,2.85,Medium (2-5 acre),Wheat,2025-11-07,Field Dealer Network,DT019,D05
+C01293,Mymensingh,Mymensingh,0.44,Smallholder (<2 acre),Vegetables,2025-02-19,Referral/NGO Partner,DT013,D04
+C01294,Khulna,Satkhira,6.94,Large (>5 acre),Vegetables,2026-01-26,Field Dealer Network,DT011,D03
+C01295,Khulna,Jashore,1.27,Smallholder (<2 acre),Rice (Boro),2025-12-25,Organic Search,DT010,D03
+C01296,Khulna,Satkhira,2.72,Medium (2-5 acre),Jute,2025-04-13,Organic Search,DT011,D03
+C01297,Rajshahi,Pabna,5.69,Large (>5 acre),Maize,2026-04-24,Facebook Ads,DT003,D01
+C01298,Rangpur,Dinajpur,0.87,Smallholder (<2 acre),Jute,2025-09-10,YouTube,DT006,D02
+C01299,Barishal,Patuakhali,1.94,Smallholder (<2 acre),Vegetables,2025-09-13,Facebook Ads,DT021,D06
+C01300,Khulna,Khulna,1.67,Smallholder (<2 acre),Potato,2026-01-18,Organic Search,DT009,D03
+C01301,Rangpur,Rangpur,0.98,Smallholder (<2 acre),Mustard,2025-04-01,Referral/NGO Partner,DT005,D02
+C01302,Dhaka,Tangail,1.86,Smallholder (<2 acre),Potato,2025-06-10,Field Dealer Network,DT019,D05
+C01303,Barishal,Barishal,1.6,Smallholder (<2 acre),Wheat,2025-10-03,Field Dealer Network,DT020,D06
+C01304,Rangpur,Kurigram,0.65,Smallholder (<2 acre),Wheat,2025-12-23,Field Dealer Network,DT007,D02
+C01305,Chattogram,Comilla,2.96,Medium (2-5 acre),Vegetables,2025-03-04,Referral/NGO Partner,DT025,D07
+C01306,Chattogram,Cox's Bazar,1.93,Smallholder (<2 acre),Potato,2025-12-13,Facebook Ads,DT024,D07
+C01307,Dhaka,Narayanganj,4.46,Medium (2-5 acre),Rice (Boro),2025-10-29,Field Dealer Network,DT018,D05
+C01308,Dhaka,Tangail,0.72,Smallholder (<2 acre),Vegetables,2025-03-22,SMS Campaign,DT019,D05
+C01309,Rajshahi,Natore,2.74,Medium (2-5 acre),Potato,2025-12-13,Organic Search,DT004,D01
+C01310,Sylhet,Sylhet,2.7,Medium (2-5 acre),Vegetables,2025-07-09,SMS Campaign,DT027,D08
+C01311,Khulna,Satkhira,2.13,Medium (2-5 acre),Rice (Aman),2025-02-21,Facebook Ads,DT011,D03
+C01312,Chattogram,Chattogram,0.51,Smallholder (<2 acre),Mustard,2025-11-10,Field Dealer Network,DT023,D07
+C01313,Dhaka,Gazipur,4.21,Medium (2-5 acre),Rice (Boro),2025-05-12,YouTube,DT017,D05
+C01314,Rajshahi,Pabna,2.57,Medium (2-5 acre),Wheat,2025-11-21,YouTube,DT003,D01
+C01315,Rajshahi,Pabna,0.49,Smallholder (<2 acre),Jute,2025-01-12,YouTube,DT003,D01
+C01316,Dhaka,Tangail,0.7,Smallholder (<2 acre),Rice (Boro),2026-03-19,Facebook Ads,DT019,D05
+C01317,Dhaka,Gazipur,0.92,Smallholder (<2 acre),Mustard,2026-04-20,YouTube,DT017,D05
+C01318,Rajshahi,Bogura,1.61,Smallholder (<2 acre),Vegetables,2026-04-18,Facebook Ads,DT002,D01
+C01319,Barishal,Barishal,0.58,Smallholder (<2 acre),Rice (Boro),2025-01-07,Organic Search,DT020,D06
+C01320,Chattogram,Comilla,0.51,Smallholder (<2 acre),Wheat,2025-01-09,Organic Search,DT025,D07
+C01321,Mymensingh,Netrokona,0.95,Smallholder (<2 acre),Maize,2026-03-12,Organic Search,DT015,D04
+C01322,Mymensingh,Jamalpur,0.43,Smallholder (<2 acre),Rice (Boro),2026-04-28,YouTube,DT014,D04
+C01323,Rajshahi,Bogura,1.12,Smallholder (<2 acre),Maize,2026-03-23,YouTube,DT002,D01
+C01324,Barishal,Patuakhali,0.82,Smallholder (<2 acre),Potato,2025-05-25,Direct,DT021,D06
+C01325,Khulna,Satkhira,1.53,Smallholder (<2 acre),Mustard,2025-02-19,YouTube,DT011,D03
+C01326,Chattogram,Chattogram,2.15,Medium (2-5 acre),Potato,2026-04-23,YouTube,DT023,D07
+C01327,Khulna,Jashore,0.45,Smallholder (<2 acre),Maize,2025-07-26,Field Dealer Network,DT010,D03
+C01328,Dhaka,Gazipur,3.76,Medium (2-5 acre),Vegetables,2025-07-15,Referral/NGO Partner,DT017,D05
+C01329,Rangpur,Kurigram,0.76,Smallholder (<2 acre),Maize,2026-04-05,Organic Search,DT007,D02
+C01330,Rangpur,Kurigram,0.97,Smallholder (<2 acre),Rice (Aman),2025-03-08,YouTube,DT007,D02
+C01331,Barishal,Bhola,0.66,Smallholder (<2 acre),Rice (Boro),2026-04-08,Referral/NGO Partner,DT022,D06
+C01332,Mymensingh,Netrokona,4.24,Medium (2-5 acre),Wheat,2026-03-06,Field Dealer Network,DT015,D04
+C01333,Mymensingh,Mymensingh,3.15,Medium (2-5 acre),Mustard,2026-01-16,Organic Search,DT013,D04
+C01334,Sylhet,Habiganj,4.81,Medium (2-5 acre),Rice (Boro),2026-03-19,Organic Search,DT029,D08
+C01335,Sylhet,Sylhet,3.76,Medium (2-5 acre),Potato,2025-06-16,Facebook Ads,DT027,D08
+C01336,Chattogram,Cox's Bazar,1.32,Smallholder (<2 acre),Rice (Aman),2025-09-13,SMS Campaign,DT024,D07
+C01337,Rangpur,Gaibandha,2.42,Medium (2-5 acre),Maize,2026-04-27,Field Dealer Network,DT008,D02
+C01338,Dhaka,Dhaka,2.89,Medium (2-5 acre),Potato,2026-04-25,Field Dealer Network,DT016,D05
+C01339,Chattogram,Chattogram,3.56,Medium (2-5 acre),Maize,2026-01-23,Field Dealer Network,DT023,D07
+C01340,Khulna,Satkhira,1.33,Smallholder (<2 acre),Vegetables,2026-04-26,Field Dealer Network,DT011,D03
+C01341,Rajshahi,Bogura,1.61,Smallholder (<2 acre),Vegetables,2025-01-26,YouTube,DT002,D01
+C01342,Barishal,Patuakhali,0.26,Smallholder (<2 acre),Vegetables,2026-04-16,SMS Campaign,DT021,D06
+C01343,Mymensingh,Jamalpur,1.2,Smallholder (<2 acre),Rice (Boro),2026-01-19,Referral/NGO Partner,DT014,D04
+C01344,Dhaka,Narayanganj,1.15,Smallholder (<2 acre),Rice (Boro),2025-07-01,Field Dealer Network,DT018,D05
+C01345,Sylhet,Moulvibazar,0.27,Smallholder (<2 acre),Tea,2026-04-08,SMS Campaign,DT028,D08
+C01346,Dhaka,Dhaka,0.59,Smallholder (<2 acre),Rice (Boro),2025-04-13,Field Dealer Network,DT016,D05
+C01347,Khulna,Bagerhat,1.65,Smallholder (<2 acre),Maize,2025-09-25,Organic Search,DT012,D03
+C01348,Khulna,Satkhira,2.52,Medium (2-5 acre),Potato,2025-11-18,Field Dealer Network,DT011,D03
+C01349,Khulna,Jashore,1.25,Smallholder (<2 acre),Rice (Boro),2025-04-25,SMS Campaign,DT010,D03
+C01350,Rajshahi,Pabna,1.05,Smallholder (<2 acre),Maize,2025-12-31,SMS Campaign,DT003,D01
+C01351,Barishal,Barishal,2.55,Medium (2-5 acre),Mustard,2025-01-28,Organic Search,DT020,D06
+C01352,Chattogram,Cox's Bazar,0.77,Smallholder (<2 acre),Jute,2025-06-30,Referral/NGO Partner,DT024,D07
+C01353,Rangpur,Gaibandha,0.48,Smallholder (<2 acre),Rice (Boro),2025-08-01,Facebook Ads,DT008,D02
+C01354,Rangpur,Gaibandha,2.59,Medium (2-5 acre),Wheat,2025-09-25,Field Dealer Network,DT008,D02
+C01355,Chattogram,Comilla,2.96,Medium (2-5 acre),Wheat,2025-09-03,SMS Campaign,DT025,D07
+C01356,Rajshahi,Natore,1.23,Smallholder (<2 acre),Vegetables,2025-12-04,Facebook Ads,DT004,D01
+C01357,Mymensingh,Jamalpur,0.91,Smallholder (<2 acre),Rice (Aman),2026-01-28,SMS Campaign,DT014,D04
+C01358,Mymensingh,Netrokona,2.24,Medium (2-5 acre),Potato,2026-03-23,Organic Search,DT015,D04
+C01359,Dhaka,Gazipur,2.9,Medium (2-5 acre),Wheat,2025-06-18,Facebook Ads,DT017,D05
+C01360,Rangpur,Gaibandha,1.69,Smallholder (<2 acre),Jute,2025-11-25,Referral/NGO Partner,DT008,D02
+C01361,Dhaka,Dhaka,3.85,Medium (2-5 acre),Potato,2025-07-02,Organic Search,DT016,D05
+C01362,Khulna,Khulna,1.26,Smallholder (<2 acre),Rice (Boro),2026-01-18,Field Dealer Network,DT009,D03
+C01363,Dhaka,Gazipur,6.32,Large (>5 acre),Vegetables,2025-04-08,SMS Campaign,DT017,D05
+C01364,Rajshahi,Pabna,1.77,Smallholder (<2 acre),Jute,2025-04-08,Facebook Ads,DT003,D01
+C01365,Mymensingh,Netrokona,1.33,Smallholder (<2 acre),Wheat,2026-04-13,Facebook Ads,DT015,D04
+C01366,Mymensingh,Jamalpur,1.82,Smallholder (<2 acre),Wheat,2025-06-25,Field Dealer Network,DT014,D04
+C01367,Rangpur,Gaibandha,0.63,Smallholder (<2 acre),Mustard,2025-11-04,Facebook Ads,DT008,D02
+C01368,Rajshahi,Natore,4.07,Medium (2-5 acre),Jute,2025-02-15,Facebook Ads,DT004,D01
+C01369,Rangpur,Kurigram,4.44,Medium (2-5 acre),Vegetables,2025-08-22,Facebook Ads,DT007,D02
+C01370,Khulna,Bagerhat,1.48,Smallholder (<2 acre),Mustard,2025-05-23,Field Dealer Network,DT012,D03
+C01371,Rajshahi,Pabna,1.84,Smallholder (<2 acre),Vegetables,2025-12-06,Field Dealer Network,DT003,D01
+C01372,Sylhet,Sylhet,3.72,Medium (2-5 acre),Wheat,2025-06-17,Field Dealer Network,DT027,D08
+C01373,Khulna,Bagerhat,1.77,Smallholder (<2 acre),Vegetables,2025-06-03,SMS Campaign,DT012,D03
+C01374,Barishal,Barishal,1.38,Smallholder (<2 acre),Rice (Aman),2025-08-02,Direct,DT020,D06
+C01375,Sylhet,Moulvibazar,2.56,Medium (2-5 acre),Potato,2025-11-29,Facebook Ads,DT028,D08
+C01376,Rajshahi,Bogura,1.81,Smallholder (<2 acre),Wheat,2025-05-04,Organic Search,DT002,D01
+C01377,Dhaka,Gazipur,0.67,Smallholder (<2 acre),Rice (Boro),2025-10-18,Facebook Ads,DT017,D05
+C01378,Chattogram,Comilla,3.43,Medium (2-5 acre),Rice (Aman),2025-08-08,SMS Campaign,DT025,D07
+C01379,Dhaka,Dhaka,3.82,Medium (2-5 acre),Maize,2025-10-09,Organic Search,DT016,D05
+C01380,Khulna,Bagerhat,2.15,Medium (2-5 acre),Rice (Aman),2025-05-22,Referral/NGO Partner,DT012,D03
+C01381,Khulna,Bagerhat,1.87,Smallholder (<2 acre),Rice (Boro),2025-01-19,Field Dealer Network,DT012,D03
+C01382,Rajshahi,Pabna,1.08,Smallholder (<2 acre),Rice (Boro),2025-05-31,Referral/NGO Partner,DT003,D01
+C01383,Mymensingh,Netrokona,2.7,Medium (2-5 acre),Maize,2025-01-17,Field Dealer Network,DT015,D04
+C01384,Sylhet,Sylhet,2.2,Medium (2-5 acre),Rice (Boro),2026-04-07,YouTube,DT027,D08
+C01385,Sylhet,Sylhet,1.24,Smallholder (<2 acre),Rice (Boro),2025-05-13,Facebook Ads,DT027,D08
+C01386,Rajshahi,Rajshahi,4.07,Medium (2-5 acre),Jute,2026-01-19,Referral/NGO Partner,DT001,D01
+C01387,Dhaka,Dhaka,1.53,Smallholder (<2 acre),Wheat,2025-09-17,Facebook Ads,DT016,D05
+C01388,Rangpur,Rangpur,5.63,Large (>5 acre),Wheat,2026-01-15,Direct,DT005,D02
+C01389,Chattogram,Feni,1.14,Smallholder (<2 acre),Maize,2025-05-28,Referral/NGO Partner,DT026,D07
+C01390,Rajshahi,Natore,0.63,Smallholder (<2 acre),Mustard,2025-08-31,SMS Campaign,DT004,D01
+C01391,Chattogram,Chattogram,2.09,Medium (2-5 acre),Potato,2025-09-04,YouTube,DT023,D07
+C01392,Chattogram,Feni,1.54,Smallholder (<2 acre),Mustard,2026-01-14,YouTube,DT026,D07
+C01393,Rajshahi,Bogura,1.45,Smallholder (<2 acre),Maize,2025-07-27,Field Dealer Network,DT002,D01
+C01394,Rajshahi,Natore,0.77,Smallholder (<2 acre),Maize,2025-02-07,Field Dealer Network,DT004,D01
+C01395,Chattogram,Chattogram,2.75,Medium (2-5 acre),Rice (Boro),2025-01-03,Organic Search,DT023,D07
+C01396,Rajshahi,Pabna,0.2,Smallholder (<2 acre),Rice (Aman),2026-01-21,Organic Search,DT003,D01
+C01397,Mymensingh,Netrokona,0.54,Smallholder (<2 acre),Mustard,2025-04-21,Facebook Ads,DT015,D04
+C01398,Chattogram,Chattogram,2.11,Medium (2-5 acre),Wheat,2025-02-04,Facebook Ads,DT023,D07
+C01399,Dhaka,Narayanganj,1.46,Smallholder (<2 acre),Potato,2026-03-28,Referral/NGO Partner,DT018,D05
+C01400,Khulna,Bagerhat,2.03,Medium (2-5 acre),Vegetables,2025-12-02,SMS Campaign,DT012,D03
+C01401,Mymensingh,Netrokona,4.67,Medium (2-5 acre),Potato,2025-11-25,YouTube,DT015,D04
+C01402,Rajshahi,Rajshahi,1.75,Smallholder (<2 acre),Rice (Aman),2025-12-09,Referral/NGO Partner,DT001,D01
+C01403,Sylhet,Moulvibazar,3.79,Medium (2-5 acre),Maize,2025-03-19,Organic Search,DT028,D08
+C01404,Khulna,Khulna,2.37,Medium (2-5 acre),Wheat,2025-07-06,Organic Search,DT009,D03
+C01405,Rangpur,Rangpur,1.52,Smallholder (<2 acre),Vegetables,2026-01-13,YouTube,DT005,D02
+C01406,Rangpur,Gaibandha,1.4,Smallholder (<2 acre),Potato,2025-07-09,YouTube,DT008,D02
+C01407,Sylhet,Moulvibazar,1.61,Smallholder (<2 acre),Wheat,2026-04-16,Referral/NGO Partner,DT028,D08
+C01408,Rajshahi,Natore,2.87,Medium (2-5 acre),Maize,2025-08-19,Organic Search,DT004,D01
+C01409,Chattogram,Cox's Bazar,2.75,Medium (2-5 acre),Jute,2026-02-23,Field Dealer Network,DT024,D07
+C01410,Dhaka,Dhaka,3.35,Medium (2-5 acre),Rice (Aman),2025-04-07,YouTube,DT016,D05
+C01411,Chattogram,Feni,2.42,Medium (2-5 acre),Rice (Boro),2025-05-15,Field Dealer Network,DT026,D07
+C01412,Sylhet,Habiganj,1.08,Smallholder (<2 acre),Maize,2025-04-16,Referral/NGO Partner,DT029,D08
+C01413,Chattogram,Chattogram,4.61,Medium (2-5 acre),Vegetables,2025-11-24,SMS Campaign,DT023,D07
+C01414,Sylhet,Sylhet,0.7,Smallholder (<2 acre),Tea,2025-03-28,Facebook Ads,DT027,D08
+C01415,Rajshahi,Pabna,1.29,Smallholder (<2 acre),Mustard,2025-05-15,Field Dealer Network,DT003,D01
+C01416,Barishal,Bhola,2.74,Medium (2-5 acre),Maize,2025-07-07,Field Dealer Network,DT022,D06
+C01417,Mymensingh,Jamalpur,2.25,Medium (2-5 acre),Jute,2025-12-01,Organic Search,DT014,D04
+C01418,Mymensingh,Netrokona,1.58,Smallholder (<2 acre),Mustard,2026-02-24,SMS Campaign,DT015,D04
+C01419,Chattogram,Chattogram,2.45,Medium (2-5 acre),Rice (Aman),2025-10-03,Field Dealer Network,DT023,D07
+C01420,Sylhet,Moulvibazar,4.23,Medium (2-5 acre),Jute,2026-03-27,Referral/NGO Partner,DT028,D08
+C01421,Dhaka,Narayanganj,1.85,Smallholder (<2 acre),Potato,2026-03-13,Referral/NGO Partner,DT018,D05
+C01422,Mymensingh,Netrokona,0.72,Smallholder (<2 acre),Potato,2026-03-29,Referral/NGO Partner,DT015,D04
+C01423,Mymensingh,Mymensingh,1.61,Smallholder (<2 acre),Mustard,2025-10-02,Field Dealer Network,DT013,D04
+C01424,Khulna,Satkhira,3.79,Medium (2-5 acre),Rice (Boro),2026-01-01,Field Dealer Network,DT011,D03
+C01425,Khulna,Khulna,3.04,Medium (2-5 acre),Rice (Aman),2026-02-18,Field Dealer Network,DT009,D03
+C01426,Khulna,Bagerhat,3.14,Medium (2-5 acre),Rice (Boro),2025-04-20,Organic Search,DT012,D03
+C01427,Rajshahi,Bogura,1.09,Smallholder (<2 acre),Rice (Aman),2026-01-26,Organic Search,DT002,D01
+C01428,Rajshahi,Pabna,1.83,Smallholder (<2 acre),Mustard,2025-10-07,Organic Search,DT003,D01
+C01429,Barishal,Bhola,0.97,Smallholder (<2 acre),Potato,2025-10-06,Organic Search,DT022,D06
+C01430,Mymensingh,Mymensingh,6.52,Large (>5 acre),Rice (Boro),2025-05-09,Organic Search,DT013,D04
+C01431,Chattogram,Feni,0.97,Smallholder (<2 acre),Vegetables,2026-02-08,Organic Search,DT026,D07
+C01432,Dhaka,Narayanganj,0.65,Smallholder (<2 acre),Rice (Aman),2025-03-28,Organic Search,DT018,D05
+C01433,Rajshahi,Pabna,0.33,Smallholder (<2 acre),Jute,2026-01-04,Referral/NGO Partner,DT003,D01
+C01434,Rajshahi,Pabna,2.01,Medium (2-5 acre),Rice (Aman),2025-05-24,Organic Search,DT003,D01
+C01435,Rangpur,Kurigram,0.89,Smallholder (<2 acre),Mustard,2025-12-24,Facebook Ads,DT007,D02
+C01436,Sylhet,Moulvibazar,1.85,Smallholder (<2 acre),Mustard,2025-12-18,YouTube,DT028,D08
+C01437,Rangpur,Rangpur,3.43,Medium (2-5 acre),Jute,2025-01-20,Referral/NGO Partner,DT005,D02
+C01438,Mymensingh,Netrokona,1.17,Smallholder (<2 acre),Rice (Boro),2025-08-02,SMS Campaign,DT015,D04
+C01439,Chattogram,Feni,2.69,Medium (2-5 acre),Jute,2026-01-27,Organic Search,DT026,D07
+C01440,Sylhet,Moulvibazar,0.45,Smallholder (<2 acre),Tea,2026-01-08,Facebook Ads,DT028,D08
+C01441,Rangpur,Kurigram,0.46,Smallholder (<2 acre),Mustard,2025-06-13,Organic Search,DT007,D02
+C01442,Rajshahi,Bogura,0.34,Smallholder (<2 acre),Maize,2025-03-08,Field Dealer Network,DT002,D01
+C01443,Rajshahi,Pabna,1.57,Smallholder (<2 acre),Jute,2025-10-05,SMS Campaign,DT003,D01
+C01444,Rajshahi,Natore,4.7,Medium (2-5 acre),Rice (Aman),2025-11-02,Facebook Ads,DT004,D01
+C01445,Rangpur,Kurigram,0.9,Smallholder (<2 acre),Mustard,2025-09-25,Referral/NGO Partner,DT007,D02
+C01446,Dhaka,Gazipur,2.94,Medium (2-5 acre),Wheat,2026-01-17,Facebook Ads,DT017,D05
+C01447,Chattogram,Feni,1.09,Smallholder (<2 acre),Rice (Aman),2026-04-12,Organic Search,DT026,D07
+C01448,Mymensingh,Jamalpur,1.84,Smallholder (<2 acre),Mustard,2026-04-14,Field Dealer Network,DT014,D04
+C01449,Dhaka,Gazipur,1.73,Smallholder (<2 acre),Mustard,2025-07-09,Organic Search,DT017,D05
+C01450,Rangpur,Kurigram,1.06,Smallholder (<2 acre),Potato,2025-09-16,Field Dealer Network,DT007,D02
+C01451,Barishal,Patuakhali,1.12,Smallholder (<2 acre),Mustard,2025-10-29,Organic Search,DT021,D06
+C01452,Dhaka,Tangail,2.21,Medium (2-5 acre),Mustard,2025-11-01,Referral/NGO Partner,DT019,D05
+C01453,Chattogram,Feni,4.16,Medium (2-5 acre),Jute,2025-04-14,Direct,DT026,D07
+C01454,Sylhet,Sylhet,0.92,Smallholder (<2 acre),Jute,2026-02-15,Facebook Ads,DT027,D08
+C01455,Khulna,Satkhira,2.05,Medium (2-5 acre),Wheat,2025-06-12,Direct,DT011,D03
+C01456,Rajshahi,Bogura,4.0,Medium (2-5 acre),Wheat,2026-01-01,Organic Search,DT002,D01
+C01457,Rangpur,Kurigram,0.44,Smallholder (<2 acre),Maize,2026-02-17,Facebook Ads,DT007,D02
+C01458,Khulna,Bagerhat,3.53,Medium (2-5 acre),Maize,2026-04-05,Facebook Ads,DT012,D03
+C01459,Sylhet,Moulvibazar,2.69,Medium (2-5 acre),Potato,2025-03-08,Facebook Ads,DT028,D08
+C01460,Khulna,Satkhira,1.65,Smallholder (<2 acre),Rice (Aman),2025-09-20,YouTube,DT011,D03
+C01461,Barishal,Barishal,1.24,Smallholder (<2 acre),Vegetables,2025-02-23,Facebook Ads,DT020,D06
+C01462,Mymensingh,Netrokona,2.4,Medium (2-5 acre),Rice (Boro),2026-03-07,Facebook Ads,DT015,D04
+C01463,Rangpur,Rangpur,3.66,Medium (2-5 acre),Maize,2026-04-02,Facebook Ads,DT005,D02
+C01464,Khulna,Khulna,1.42,Smallholder (<2 acre),Rice (Boro),2025-01-18,Referral/NGO Partner,DT009,D03
+C01465,Dhaka,Narayanganj,4.95,Medium (2-5 acre),Vegetables,2026-02-08,Facebook Ads,DT018,D05
+C01466,Dhaka,Tangail,0.79,Smallholder (<2 acre),Maize,2025-11-18,Organic Search,DT019,D05
+C01467,Khulna,Bagerhat,1.07,Smallholder (<2 acre),Vegetables,2026-02-05,YouTube,DT012,D03
+C01468,Rangpur,Gaibandha,5.26,Large (>5 acre),Rice (Aman),2026-04-19,Field Dealer Network,DT008,D02
+C01469,Barishal,Patuakhali,6.86,Large (>5 acre),Mustard,2025-03-17,Facebook Ads,DT021,D06
+C01470,Rangpur,Dinajpur,0.76,Smallholder (<2 acre),Potato,2026-02-15,Field Dealer Network,DT006,D02
+C01471,Chattogram,Cox's Bazar,1.74,Smallholder (<2 acre),Wheat,2025-07-10,Field Dealer Network,DT024,D07
+C01472,Rangpur,Rangpur,4.16,Medium (2-5 acre),Mustard,2025-07-08,Referral/NGO Partner,DT005,D02
+C01473,Rajshahi,Natore,3.0,Medium (2-5 acre),Potato,2026-04-05,Field Dealer Network,DT004,D01
+C01474,Mymensingh,Netrokona,1.17,Smallholder (<2 acre),Wheat,2026-02-22,Facebook Ads,DT015,D04
+C01475,Mymensingh,Netrokona,1.62,Smallholder (<2 acre),Vegetables,2025-12-08,Referral/NGO Partner,DT015,D04
+C01476,Mymensingh,Jamalpur,3.04,Medium (2-5 acre),Rice (Boro),2026-02-08,Facebook Ads,DT014,D04
+C01477,Khulna,Khulna,1.68,Smallholder (<2 acre),Jute,2026-04-15,Facebook Ads,DT009,D03
+C01478,Sylhet,Sylhet,1.25,Smallholder (<2 acre),Rice (Aman),2026-04-23,Facebook Ads,DT027,D08
+C01479,Mymensingh,Netrokona,2.22,Medium (2-5 acre),Mustard,2025-07-27,YouTube,DT015,D04
+C01480,Mymensingh,Mymensingh,0.41,Smallholder (<2 acre),Maize,2025-08-24,Field Dealer Network,DT013,D04
+C01481,Khulna,Satkhira,1.02,Smallholder (<2 acre),Rice (Boro),2026-01-23,Organic Search,DT011,D03
+C01482,Rajshahi,Pabna,2.91,Medium (2-5 acre),Vegetables,2025-12-07,SMS Campaign,DT003,D01
+C01483,Dhaka,Gazipur,2.56,Medium (2-5 acre),Potato,2025-02-23,Field Dealer Network,DT017,D05
+C01484,Rangpur,Rangpur,3.61,Medium (2-5 acre),Wheat,2025-06-11,Field Dealer Network,DT005,D02
+C01485,Dhaka,Gazipur,1.51,Smallholder (<2 acre),Rice (Boro),2025-10-31,YouTube,DT017,D05
+C01486,Rajshahi,Rajshahi,0.97,Smallholder (<2 acre),Mustard,2025-07-18,Field Dealer Network,DT001,D01
+C01487,Sylhet,Moulvibazar,1.57,Smallholder (<2 acre),Rice (Boro),2026-01-21,Organic Search,DT028,D08
+C01488,Mymensingh,Mymensingh,5.13,Large (>5 acre),Mustard,2025-12-06,Field Dealer Network,DT013,D04
+C01489,Chattogram,Feni,3.83,Medium (2-5 acre),Vegetables,2026-04-20,Organic Search,DT026,D07
+C01490,Mymensingh,Jamalpur,1.02,Smallholder (<2 acre),Potato,2025-06-10,Field Dealer Network,DT014,D04
+C01491,Rajshahi,Bogura,2.61,Medium (2-5 acre),Rice (Aman),2025-11-04,Field Dealer Network,DT002,D01
+C01492,Chattogram,Feni,5.87,Large (>5 acre),Potato,2025-07-08,Organic Search,DT026,D07
+C01493,Dhaka,Tangail,2.72,Medium (2-5 acre),Rice (Aman),2025-06-01,Field Dealer Network,DT019,D05
+C01494,Barishal,Bhola,2.94,Medium (2-5 acre),Potato,2025-10-01,Field Dealer Network,DT022,D06
+C01495,Khulna,Jashore,2.75,Medium (2-5 acre),Rice (Boro),2025-08-05,Field Dealer Network,DT010,D03
+C01496,Dhaka,Narayanganj,0.54,Smallholder (<2 acre),Maize,2025-12-15,Field Dealer Network,DT018,D05
+C01497,Chattogram,Comilla,0.32,Smallholder (<2 acre),Wheat,2025-03-24,SMS Campaign,DT025,D07
+C01498,Dhaka,Tangail,0.66,Smallholder (<2 acre),Rice (Aman),2025-05-25,Referral/NGO Partner,DT019,D05
+C01499,Khulna,Bagerhat,1.83,Smallholder (<2 acre),Wheat,2025-11-28,Organic Search,DT012,D03
+C01500,Dhaka,Gazipur,2.48,Medium (2-5 acre),Maize,2025-05-22,Facebook Ads,DT017,D05

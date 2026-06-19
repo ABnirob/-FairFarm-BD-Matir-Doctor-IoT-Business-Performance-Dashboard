@@ -1,0 +1,61 @@
+{
+  "name": "FairFarm BD - Matir Doctor",
+  "dataColors": [
+    "#2E7D4F",
+    "#D99B2B",
+    "#C1532A",
+    "#3E6B8C",
+    "#7AAE6B",
+    "#8C5B3E",
+    "#1F3D2C",
+    "#A8895A"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1F3D2C",
+  "tableAccent": "#2E7D4F",
+  "good": "#2E7D4F",
+  "neutral": "#D99B2B",
+  "bad": "#C1532A",
+  "maximum": "#1F3D2C",
+  "center": "#D99B2B",
+  "minimum": "#FBF8F1",
+  "null": "#CFCFCF",
+  "textClasses": {
+    "callout": { "fontSize": 32, "color": "#1F3D2C", "fontFamily": "Segoe UI Semibold" },
+    "title": { "fontSize": 13, "color": "#1F3D2C", "fontFamily": "Segoe UI Semibold" },
+    "header": { "fontSize": 11, "color": "#1F3D2C", "fontFamily": "Segoe UI Semibold" },
+    "label": { "fontSize": 10, "color": "#3A4A40", "fontFamily": "Segoe UI" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": false }],
+        "outspacePane": [{ "backgroundColor": { "solid": { "color": "#FBF8F1" } } }]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [{ "color": { "solid": { "color": "#1F3D2C" } }, "fontSize": 28 }],
+        "categoryLabels": [{ "color": { "solid": { "color": "#7C8C81" } }, "fontSize": 11 }]
+      }
+    },
+    "multiRowCard": {
+      "*": {
+        "card": [{ "outlineColor": { "solid": { "color": "#E4DFD0" } }, "outlineWeight": 1 }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "items": [{ "fontColor": { "solid": { "color": "#1F3D2C" } } }],
+        "header": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#FFFFFF" } },
+            "background": { "solid": { "color": "#2E7D4F" } }
+          }
+        ]
+      }
+    }
+  }
+}

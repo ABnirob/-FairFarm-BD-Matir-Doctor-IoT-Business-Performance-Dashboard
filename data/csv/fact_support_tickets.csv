@@ -1,0 +1,1251 @@
+ticket_id,date,customer_id,division_id,division_name,category,channel,resolution_time_hrs,status,csat_score
+TKT00411,2025-01-21,C00956,D07,Chattogram,Sensor Calibration,In-App Chat,23.1,Resolved,2
+TKT00627,2025-01-25,C00722,D03,Khulna,Connectivity Issue,Facebook Page,0.5,Resolved,3
+TKT01200,2025-02-08,C00842,D06,Barishal,Sensor Calibration,Facebook Page,2.1,Resolved,5
+TKT00677,2025-02-09,C00359,D04,Mymensingh,General Inquiry,Field Agent Visit,4.5,Resolved,5
+TKT00784,2025-02-15,C00988,D01,Rajshahi,Device Setup,Hotline Call,0.7,Resolved,4
+TKT00731,2025-02-19,C01078,D04,Mymensingh,Connectivity Issue,In-App Chat,13.3,Resolved,4
+TKT00652,2025-03-04,C00663,D02,Rangpur,Sensor Calibration,Field Agent Visit,2.3,Resolved,3
+TKT00913,2025-03-05,C00274,D05,Dhaka,Device Setup,In-App Chat,2.4,Resolved,3
+TKT00422,2025-03-05,C01086,D06,Barishal,Device Setup,Facebook Page,21.2,Resolved,4
+TKT01107,2025-03-05,C00957,D06,Barishal,Billing & Payment,Facebook Page,2.4,Resolved,4
+TKT00624,2025-03-06,C01020,D04,Mymensingh,Device Setup,Facebook Page,9.0,Resolved,4
+TKT00045,2025-03-07,C00162,D07,Chattogram,Connectivity Issue,In-App Chat,8.7,Resolved,5
+TKT00195,2025-03-10,C01172,D06,Barishal,Billing & Payment,Hotline Call,1.6,Resolved,4
+TKT01006,2025-03-12,C01437,D02,Rangpur,Connectivity Issue,Hotline Call,6.2,Resolved,4
+TKT00791,2025-03-15,C00407,D02,Rangpur,Device Setup,Field Agent Visit,1.3,Pending,4
+TKT01067,2025-03-17,C00409,D01,Rajshahi,Device Setup,Hotline Call,5.7,Resolved,4
+TKT00110,2025-03-17,C00889,D02,Rangpur,Connectivity Issue,In-App Chat,25.4,Resolved,3
+TKT01169,2025-03-21,C01118,D06,Barishal,Sensor Calibration,Facebook Page,6.6,Resolved,5
+TKT00641,2025-04-02,C00294,D01,Rajshahi,App/Website Issue,Hotline Call,2.9,Resolved,4
+TKT00900,2025-04-03,C00385,D03,Khulna,Connectivity Issue,Field Agent Visit,13.6,Resolved,1
+TKT00760,2025-04-03,C00038,D04,Mymensingh,Sensor Calibration,Field Agent Visit,3.6,Resolved,2
+TKT01176,2025-04-05,C00164,D01,Rajshahi,Device Setup,Hotline Call,8.6,Resolved,4
+TKT00052,2025-04-09,C00144,D05,Dhaka,Device Setup,Hotline Call,12.2,Resolved,4
+TKT00070,2025-04-11,C00154,D04,Mymensingh,Sensor Calibration,In-App Chat,3.1,Resolved,3
+TKT00647,2025-04-12,C00091,D01,Rajshahi,General Inquiry,In-App Chat,1.8,Resolved,4
+TKT00766,2025-04-12,C00685,D05,Dhaka,App/Website Issue,Hotline Call,4.9,Resolved,4
+TKT00573,2025-04-12,C00442,D01,Rajshahi,Sensor Calibration,Field Agent Visit,19.6,Resolved,3
+TKT00796,2025-04-17,C01267,D02,Rangpur,Device Setup,Hotline Call,9.1,Resolved,2
+TKT00207,2025-04-17,C01034,D07,Chattogram,Connectivity Issue,Hotline Call,15.3,Resolved,3
+TKT01080,2025-04-19,C01260,D08,Sylhet,App/Website Issue,In-App Chat,8.7,Resolved,3
+TKT00403,2025-04-19,C00294,D01,Rajshahi,App/Website Issue,Hotline Call,6.8,Resolved,2
+TKT00608,2025-04-19,C00605,D08,Sylhet,Device Setup,In-App Chat,11.3,Resolved,4
+TKT00014,2025-04-21,C00072,D03,Khulna,Connectivity Issue,Hotline Call,18.1,Resolved,4
+TKT00493,2025-04-21,C00652,D07,Chattogram,App/Website Issue,Field Agent Visit,13.7,Resolved,1
+TKT00226,2025-04-23,C00857,D06,Barishal,Billing & Payment,In-App Chat,1.5,Resolved,4
+TKT00640,2025-04-24,C00575,D07,Chattogram,App/Website Issue,Facebook Page,3.4,Resolved,3
+TKT00447,2025-04-26,C00198,D07,Chattogram,Sensor Calibration,Hotline Call,7.7,Resolved,4
+TKT01065,2025-04-27,C00373,D03,Khulna,Billing & Payment,In-App Chat,0.8,Resolved,4
+TKT00372,2025-04-28,C01260,D08,Sylhet,General Inquiry,Hotline Call,0.9,Resolved,4
+TKT00428,2025-04-29,C00663,D02,Rangpur,App/Website Issue,In-App Chat,5.0,Resolved,4
+TKT00304,2025-04-30,C00373,D03,Khulna,General Inquiry,Field Agent Visit,1.8,Resolved,5
+TKT01049,2025-05-01,C00746,D04,Mymensingh,Device Setup,Field Agent Visit,4.9,Resolved,4
+TKT00327,2025-05-01,C01086,D06,Barishal,Device Setup,Field Agent Visit,6.4,Resolved,4
+TKT01053,2025-05-03,C01368,D01,Rajshahi,Sensor Calibration,Facebook Page,9.9,Resolved,5
+TKT00098,2025-05-06,C01287,D03,Khulna,General Inquiry,Hotline Call,1.2,Resolved,4
+TKT00140,2025-05-07,C01244,D01,Rajshahi,Device Setup,Hotline Call,2.7,Resolved,4
+TKT00672,2025-05-09,C01219,D05,Dhaka,Connectivity Issue,Field Agent Visit,3.5,Resolved,2
+TKT00874,2025-05-10,C01210,D03,Khulna,Connectivity Issue,Field Agent Visit,9.5,Escalated,4
+TKT01140,2025-05-13,C00353,D05,Dhaka,App/Website Issue,In-App Chat,4.2,Resolved,3
+TKT00656,2025-05-14,C01158,D01,Rajshahi,Device Setup,Facebook Page,10.3,Resolved,4
+TKT01249,2025-05-16,C00482,D02,Rangpur,App/Website Issue,Field Agent Visit,4.5,Resolved,3
+TKT00080,2025-05-17,C00760,D04,Mymensingh,Device Setup,Field Agent Visit,9.0,Escalated,4
+TKT01161,2025-05-17,C00616,D06,Barishal,Connectivity Issue,Facebook Page,5.7,Resolved,4
+TKT00804,2025-05-18,C00004,D05,Dhaka,Billing & Payment,Field Agent Visit,3.4,Resolved,5
+TKT00662,2025-05-21,C00693,D02,Rangpur,Sensor Calibration,Facebook Page,18.7,Escalated,3
+TKT00332,2025-05-21,C00422,D01,Rajshahi,App/Website Issue,In-App Chat,6.9,Resolved,5
+TKT01017,2025-05-22,C00198,D07,Chattogram,Device Setup,In-App Chat,3.4,Resolved,4
+TKT00552,2025-05-24,C01061,D08,Sylhet,Device Setup,In-App Chat,5.7,Resolved,4
+TKT00528,2025-05-26,C00249,D03,Khulna,Device Setup,Field Agent Visit,5.3,Resolved,3
+TKT01246,2025-05-26,C00846,D07,Chattogram,Billing & Payment,In-App Chat,3.3,Resolved,4
+TKT01083,2025-05-27,C00678,D04,Mymensingh,Device Setup,Facebook Page,8.0,Resolved,5
+TKT00730,2025-05-28,C00229,D05,Dhaka,Connectivity Issue,In-App Chat,25.1,Resolved,4
+TKT00896,2025-05-28,C01349,D03,Khulna,Billing & Payment,In-App Chat,6.5,Resolved,3
+TKT00701,2025-05-28,C01394,D01,Rajshahi,App/Website Issue,In-App Chat,8.9,Resolved,4
+TKT01088,2025-05-29,C01389,D07,Chattogram,Connectivity Issue,In-App Chat,16.9,Resolved,3
+TKT00593,2025-05-29,C00337,D01,Rajshahi,App/Website Issue,Hotline Call,8.7,Resolved,5
+TKT00551,2025-06-01,C01305,D07,Chattogram,General Inquiry,Field Agent Visit,5.8,Resolved,3
+TKT00670,2025-06-02,C00760,D04,Mymensingh,General Inquiry,In-App Chat,1.3,Resolved,3
+TKT00354,2025-06-02,C01159,D03,Khulna,Device Setup,Field Agent Visit,2.4,Resolved,2
+TKT01109,2025-06-05,C00586,D05,Dhaka,Sensor Calibration,Hotline Call,7.5,Resolved,3
+TKT00468,2025-06-06,C00746,D04,Mymensingh,App/Website Issue,In-App Chat,4.5,Resolved,4
+TKT01136,2025-06-07,C00835,D06,Barishal,Device Setup,In-App Chat,7.0,Resolved,4
+TKT00740,2025-06-08,C00636,D01,Rajshahi,Connectivity Issue,Field Agent Visit,6.6,Resolved,3
+TKT00126,2025-06-11,C00565,D05,Dhaka,Device Setup,Facebook Page,7.7,Resolved,5
+TKT00015,2025-06-11,C00514,D02,Rangpur,General Inquiry,Hotline Call,1.3,Resolved,2
+TKT00661,2025-06-11,C01266,D06,Barishal,Sensor Calibration,Hotline Call,1.7,Resolved,4
+TKT00429,2025-06-12,C00400,D04,Mymensingh,App/Website Issue,Hotline Call,2.7,Resolved,3
+TKT00183,2025-06-13,C01025,D05,Dhaka,Connectivity Issue,Hotline Call,11.3,Escalated,5
+TKT01079,2025-06-13,C00534,D05,Dhaka,Billing & Payment,Field Agent Visit,10.3,Resolved,2
+TKT00425,2025-06-14,C00903,D01,Rajshahi,Sensor Calibration,In-App Chat,8.5,Escalated,4
+TKT00381,2025-06-17,C00452,D07,Chattogram,Device Setup,Facebook Page,5.7,Resolved,4
+TKT00490,2025-06-18,C00413,D01,Rajshahi,Connectivity Issue,In-App Chat,2.1,Resolved,2
+TKT01202,2025-06-19,C00922,D07,Chattogram,Sensor Calibration,In-App Chat,12.2,Resolved,5
+TKT01059,2025-06-20,C01222,D02,Rangpur,Connectivity Issue,Hotline Call,11.1,Resolved,2
+TKT01095,2025-06-22,C01461,D06,Barishal,Device Setup,Hotline Call,1.6,Resolved,3
+TKT00047,2025-06-24,C01147,D06,Barishal,Billing & Payment,In-App Chat,4.9,Resolved,4
+TKT01245,2025-06-24,C00412,D05,Dhaka,App/Website Issue,In-App Chat,4.6,Escalated,5
+TKT00746,2025-06-25,C00616,D06,Barishal,App/Website Issue,Facebook Page,1.5,Resolved,3
+TKT00007,2025-06-26,C00020,D05,Dhaka,App/Website Issue,In-App Chat,4.4,Resolved,3
+TKT00453,2025-06-26,C01498,D05,Dhaka,Device Setup,Facebook Page,2.0,Resolved,4
+TKT00339,2025-06-27,C01293,D04,Mymensingh,Billing & Payment,In-App Chat,6.8,Pending,2
+TKT00128,2025-06-27,C00948,D07,Chattogram,Sensor Calibration,Hotline Call,5.7,Resolved,3
+TKT00444,2025-06-27,C00533,D03,Khulna,Device Setup,Facebook Page,1.5,Resolved,3
+TKT00619,2025-06-27,C01302,D05,Dhaka,Device Setup,In-App Chat,11.7,Resolved,3
+TKT00678,2025-06-28,C01434,D01,Rajshahi,Device Setup,In-App Chat,3.3,Resolved,5
+TKT01105,2025-06-29,C00390,D07,Chattogram,Sensor Calibration,Hotline Call,1.3,Resolved,4
+TKT00972,2025-07-01,C01082,D07,Chattogram,Sensor Calibration,Hotline Call,9.6,Resolved,4
+TKT00450,2025-07-02,C00067,D04,Mymensingh,Billing & Payment,In-App Chat,0.5,Resolved,4
+TKT00944,2025-07-03,C00865,D01,Rajshahi,Device Setup,In-App Chat,0.5,Resolved,3
+TKT00418,2025-07-04,C01054,D01,Rajshahi,App/Website Issue,Hotline Call,8.6,Resolved,4
+TKT00919,2025-07-05,C01320,D07,Chattogram,Device Setup,Hotline Call,4.1,Resolved,3
+TKT01168,2025-07-05,C01152,D07,Chattogram,App/Website Issue,Hotline Call,2.0,Resolved,5
+TKT00160,2025-07-05,C00361,D07,Chattogram,Billing & Payment,In-App Chat,2.6,Resolved,4
+TKT00942,2025-07-05,C00312,D03,Khulna,App/Website Issue,Field Agent Visit,7.4,Escalated,3
+TKT00912,2025-07-07,C00058,D05,Dhaka,Sensor Calibration,Field Agent Visit,1.5,Resolved,3
+TKT00739,2025-07-07,C00336,D05,Dhaka,Connectivity Issue,Hotline Call,6.9,Resolved,3
+TKT01011,2025-07-08,C00079,D04,Mymensingh,Device Setup,Field Agent Visit,4.6,Pending,4
+TKT01104,2025-07-09,C01310,D08,Sylhet,Sensor Calibration,Facebook Page,12.7,Resolved,3
+TKT00054,2025-07-09,C00476,D02,Rangpur,Connectivity Issue,Hotline Call,1.6,Resolved,2
+TKT01029,2025-07-11,C00988,D01,Rajshahi,App/Website Issue,Hotline Call,2.9,Resolved,3
+TKT00541,2025-07-12,C00651,D03,Khulna,Device Setup,In-App Chat,7.2,Resolved,3
+TKT00836,2025-07-14,C00865,D01,Rajshahi,App/Website Issue,Hotline Call,5.3,Resolved,3
+TKT00702,2025-07-16,C00534,D05,Dhaka,App/Website Issue,In-App Chat,4.3,Resolved,4
+TKT00366,2025-07-17,C01050,D02,Rangpur,Connectivity Issue,In-App Chat,13.9,Resolved,4
+TKT00966,2025-07-17,C00939,D07,Chattogram,Device Setup,Field Agent Visit,3.9,Resolved,5
+TKT00544,2025-07-17,C01380,D03,Khulna,Billing & Payment,Facebook Page,3.7,Pending,3
+TKT00816,2025-07-18,C01426,D03,Khulna,Sensor Calibration,In-App Chat,6.1,Pending,3
+TKT01101,2025-07-18,C01079,D05,Dhaka,Sensor Calibration,Hotline Call,7.2,Resolved,4
+TKT00027,2025-07-19,C00472,D04,Mymensingh,Sensor Calibration,Facebook Page,4.8,Escalated,4
+TKT00916,2025-07-19,C00197,D05,Dhaka,Device Setup,In-App Chat,2.2,Resolved,4
+TKT00102,2025-07-19,C00652,D07,Chattogram,Sensor Calibration,Facebook Page,23.1,Resolved,4
+TKT00091,2025-07-19,C00818,D04,Mymensingh,Connectivity Issue,Facebook Page,5.3,Resolved,4
+TKT00975,2025-07-19,C01255,D01,Rajshahi,Device Setup,Hotline Call,3.9,Resolved,3
+TKT00392,2025-07-19,C00017,D04,Mymensingh,Sensor Calibration,Facebook Page,5.2,Resolved,2
+TKT00501,2025-07-20,C00012,D07,Chattogram,App/Website Issue,In-App Chat,5.5,Resolved,2
+TKT00841,2025-07-22,C00498,D05,Dhaka,Billing & Payment,In-App Chat,2.1,Resolved,3
+TKT00533,2025-07-22,C00192,D02,Rangpur,Device Setup,Hotline Call,5.4,Resolved,3
+TKT00870,2025-07-23,C00164,D01,Rajshahi,App/Website Issue,Hotline Call,12.6,Resolved,5
+TKT00561,2025-07-24,C00297,D08,Sylhet,App/Website Issue,Hotline Call,12.0,Resolved,5
+TKT00269,2025-07-25,C01093,D02,Rangpur,Billing & Payment,Facebook Page,6.1,Resolved,4
+TKT00991,2025-07-27,C01076,D03,Khulna,General Inquiry,Field Agent Visit,2.6,Resolved,3
+TKT01217,2025-07-27,C00549,D06,Barishal,General Inquiry,In-App Chat,0.5,Resolved,4
+TKT00775,2025-07-28,C00198,D07,Chattogram,App/Website Issue,Facebook Page,7.7,Resolved,2
+TKT00752,2025-07-28,C01370,D03,Khulna,Connectivity Issue,Facebook Page,39.5,Resolved,4
+TKT00976,2025-07-29,C00832,D04,Mymensingh,App/Website Issue,Field Agent Visit,3.3,Resolved,2
+TKT00394,2025-07-30,C01158,D01,Rajshahi,Sensor Calibration,In-App Chat,7.6,Resolved,3
+TKT00451,2025-07-31,C00129,D01,Rajshahi,Sensor Calibration,In-App Chat,5.3,Resolved,4
+TKT00811,2025-07-31,C01373,D03,Khulna,General Inquiry,In-App Chat,3.4,Resolved,4
+TKT01173,2025-08-02,C01097,D02,Rangpur,Connectivity Issue,Hotline Call,22.5,Resolved,4
+TKT01138,2025-08-02,C01244,D01,Rajshahi,Connectivity Issue,Hotline Call,5.0,Resolved,5
+TKT01248,2025-08-03,C00932,D03,Khulna,Device Setup,In-App Chat,1.7,Resolved,4
+TKT00744,2025-08-03,C01110,D02,Rangpur,Billing & Payment,In-App Chat,5.0,Resolved,4
+TKT00835,2025-08-04,C00304,D04,Mymensingh,General Inquiry,Hotline Call,2.7,Resolved,4
+TKT01096,2025-08-04,C00590,D01,Rajshahi,Sensor Calibration,Field Agent Visit,7.6,Resolved,4
+TKT00761,2025-08-04,C00555,D01,Rajshahi,Device Setup,Facebook Page,6.7,Pending,4
+TKT00311,2025-08-06,C00813,D08,Sylhet,Device Setup,Hotline Call,3.7,Resolved,4
+TKT00943,2025-08-06,C00515,D03,Khulna,Connectivity Issue,Hotline Call,2.3,Resolved,4
+TKT00280,2025-08-06,C00932,D03,Khulna,General Inquiry,In-App Chat,1.3,Resolved,4
+TKT00079,2025-08-07,C00034,D03,Khulna,Device Setup,In-App Chat,7.1,Resolved,5
+TKT00225,2025-08-09,C00987,D03,Khulna,Device Setup,Hotline Call,8.7,Resolved,5
+TKT00065,2025-08-09,C00363,D01,Rajshahi,Connectivity Issue,In-App Chat,18.8,Resolved,4
+TKT00658,2025-08-11,C00412,D05,Dhaka,Device Setup,Field Agent Visit,11.2,Resolved,4
+TKT00296,2025-08-12,C00469,D01,Rajshahi,App/Website Issue,Facebook Page,4.9,Resolved,4
+TKT00542,2025-08-12,C00134,D03,Khulna,Sensor Calibration,Hotline Call,2.6,Resolved,4
+TKT00142,2025-08-12,C00337,D01,Rajshahi,Device Setup,Field Agent Visit,3.6,Resolved,5
+TKT01004,2025-08-15,C00199,D02,Rangpur,Device Setup,Hotline Call,4.1,Escalated,5
+TKT00911,2025-08-15,C00394,D05,Dhaka,Connectivity Issue,In-App Chat,10.3,Resolved,3
+TKT00963,2025-08-15,C01100,D02,Rangpur,General Inquiry,Field Agent Visit,4.8,Resolved,3
+TKT00827,2025-08-16,C00032,D08,Sylhet,Connectivity Issue,Facebook Page,4.2,Pending,3
+TKT00676,2025-08-18,C01024,D04,Mymensingh,App/Website Issue,In-App Chat,9.5,Resolved,4
+TKT00965,2025-08-19,C00867,D07,Chattogram,Connectivity Issue,Facebook Page,5.0,Resolved,4
+TKT00383,2025-08-20,C00985,D01,Rajshahi,App/Website Issue,Hotline Call,4.5,Resolved,5
+TKT00525,2025-08-20,C00463,D08,Sylhet,Device Setup,Hotline Call,1.3,Resolved,4
+TKT00713,2025-08-21,C01265,D05,Dhaka,Connectivity Issue,In-App Chat,2.7,Escalated,3
+TKT01118,2025-08-21,C01163,D07,Chattogram,Billing & Payment,Hotline Call,3.2,Resolved,2
+TKT00668,2025-08-22,C01086,D06,Barishal,Connectivity Issue,In-App Chat,17.2,Resolved,4
+TKT00210,2025-08-22,C01222,D02,Rangpur,Sensor Calibration,In-App Chat,10.7,Resolved,3
+TKT00901,2025-08-22,C00017,D04,Mymensingh,Device Setup,Hotline Call,11.6,Resolved,2
+TKT00584,2025-08-23,C00748,D03,Khulna,Device Setup,In-App Chat,11.6,Resolved,4
+TKT00828,2025-08-23,C01203,D07,Chattogram,Billing & Payment,Hotline Call,6.6,Resolved,4
+TKT00763,2025-08-23,C00788,D03,Khulna,Device Setup,In-App Chat,16.2,Resolved,4
+TKT00273,2025-08-23,C01490,D04,Mymensingh,Device Setup,In-App Chat,3.4,Resolved,3
+TKT00193,2025-08-23,C00676,D03,Khulna,Billing & Payment,Facebook Page,2.9,Resolved,3
+TKT00560,2025-08-24,C00066,D04,Mymensingh,Connectivity Issue,Field Agent Visit,9.9,Resolved,3
+TKT00875,2025-08-24,C00854,D07,Chattogram,Device Setup,In-App Chat,4.3,Resolved,3
+TKT00871,2025-08-25,C00207,D01,Rajshahi,Sensor Calibration,Hotline Call,8.3,Resolved,4
+TKT01199,2025-08-25,C01139,D01,Rajshahi,Sensor Calibration,In-App Chat,0.9,Resolved,4
+TKT00716,2025-08-25,C01233,D02,Rangpur,Device Setup,Hotline Call,2.8,Resolved,4
+TKT01098,2025-08-25,C00457,D08,Sylhet,Connectivity Issue,In-App Chat,0.5,Resolved,5
+TKT00795,2025-08-26,C00923,D05,Dhaka,Connectivity Issue,Field Agent Visit,13.3,Resolved,3
+TKT00379,2025-08-26,C00865,D01,Rajshahi,App/Website Issue,Hotline Call,3.3,Resolved,3
+TKT00227,2025-08-26,C00321,D07,Chattogram,Sensor Calibration,Hotline Call,6.5,Resolved,2
+TKT01055,2025-08-27,C00202,D08,Sylhet,Billing & Payment,Field Agent Visit,3.6,Resolved,3
+TKT00769,2025-08-30,C01229,D07,Chattogram,App/Website Issue,In-App Chat,6.9,Resolved,3
+TKT00935,2025-08-30,C00638,D05,Dhaka,App/Website Issue,Field Agent Visit,8.7,Resolved,4
+TKT00333,2025-08-30,C01152,D07,Chattogram,Device Setup,Field Agent Visit,1.5,Resolved,2
+TKT01001,2025-08-30,C00684,D04,Mymensingh,Connectivity Issue,Field Agent Visit,13.9,Resolved,3
+TKT01189,2025-08-31,C01107,D01,Rajshahi,App/Website Issue,In-App Chat,6.3,Resolved,3
+TKT00651,2025-08-31,C01075,D07,Chattogram,Device Setup,In-App Chat,8.0,Escalated,4
+TKT00113,2025-09-01,C00914,D08,Sylhet,Device Setup,In-App Chat,16.8,Escalated,3
+TKT00223,2025-09-01,C01408,D01,Rajshahi,Billing & Payment,In-App Chat,4.5,Resolved,4
+TKT00711,2025-09-01,C00778,D02,Rangpur,Device Setup,In-App Chat,11.0,Resolved,4
+TKT00748,2025-09-02,C00032,D08,Sylhet,Device Setup,Hotline Call,5.4,Pending,4
+TKT00185,2025-09-02,C01031,D05,Dhaka,Sensor Calibration,Hotline Call,3.3,Resolved,5
+TKT00255,2025-09-03,C00195,D01,Rajshahi,App/Website Issue,Hotline Call,9.9,Resolved,3
+TKT00959,2025-09-03,C01146,D03,Khulna,Connectivity Issue,In-App Chat,11.2,Resolved,4
+TKT01205,2025-09-05,C00258,D01,Rajshahi,Connectivity Issue,In-App Chat,9.0,Resolved,4
+TKT00754,2025-09-06,C01484,D02,Rangpur,Device Setup,Field Agent Visit,5.5,Resolved,4
+TKT00467,2025-09-06,C00850,D08,Sylhet,App/Website Issue,In-App Chat,4.0,Resolved,3
+TKT01237,2025-09-07,C00212,D05,Dhaka,General Inquiry,In-App Chat,1.1,Resolved,3
+TKT00704,2025-09-07,C01393,D01,Rajshahi,App/Website Issue,In-App Chat,1.9,Pending,4
+TKT00323,2025-09-07,C00834,D05,Dhaka,Billing & Payment,Hotline Call,1.9,Resolved,4
+TKT01042,2025-09-08,C01020,D04,Mymensingh,Billing & Payment,In-App Chat,3.5,Resolved,3
+TKT00131,2025-09-08,C00812,D01,Rajshahi,Device Setup,In-App Chat,0.6,Resolved,3
+TKT00439,2025-09-09,C00208,D05,Dhaka,App/Website Issue,In-App Chat,1.6,Resolved,4
+TKT01060,2025-09-10,C00828,D02,Rangpur,Device Setup,In-App Chat,2.3,Resolved,3
+TKT00190,2025-09-10,C00195,D01,Rajshahi,Connectivity Issue,In-App Chat,28.4,Escalated,3
+TKT00437,2025-09-11,C00515,D03,Khulna,Billing & Payment,Hotline Call,1.3,Resolved,4
+TKT00209,2025-09-11,C00215,D05,Dhaka,General Inquiry,Facebook Page,2.9,Resolved,3
+TKT00150,2025-09-12,C00941,D02,Rangpur,Connectivity Issue,In-App Chat,0.9,Resolved,4
+TKT00621,2025-09-12,C00192,D02,Rangpur,Connectivity Issue,In-App Chat,4.8,Resolved,4
+TKT00854,2025-09-12,C00159,D06,Barishal,Billing & Payment,In-App Chat,2.7,Resolved,4
+TKT00461,2025-09-13,C00618,D03,Khulna,Device Setup,Facebook Page,16.6,Resolved,4
+TKT00218,2025-09-14,C01430,D04,Mymensingh,General Inquiry,Hotline Call,1.6,Escalated,3
+TKT00860,2025-09-15,C01023,D08,Sylhet,Billing & Payment,In-App Chat,2.3,Resolved,4
+TKT01147,2025-09-15,C00329,D05,Dhaka,Connectivity Issue,Facebook Page,12.0,Resolved,3
+TKT00125,2025-09-15,C00110,D07,Chattogram,General Inquiry,In-App Chat,2.2,Resolved,4
+TKT00238,2025-09-16,C00965,D08,Sylhet,Connectivity Issue,Hotline Call,11.8,Resolved,5
+TKT00494,2025-09-16,C00135,D05,Dhaka,Device Setup,In-App Chat,7.9,Resolved,3
+TKT00529,2025-09-16,C00079,D04,Mymensingh,App/Website Issue,In-App Chat,0.6,Resolved,5
+TKT00266,2025-09-16,C00496,D04,Mymensingh,Connectivity Issue,Field Agent Visit,6.0,Resolved,3
+TKT00356,2025-09-17,C00628,D01,Rajshahi,App/Website Issue,In-App Chat,1.1,Resolved,3
+TKT01116,2025-09-17,C00863,D06,Barishal,Connectivity Issue,Field Agent Visit,3.8,Resolved,4
+TKT00326,2025-09-17,C00709,D03,Khulna,Connectivity Issue,In-App Chat,13.6,Resolved,5
+TKT00762,2025-09-18,C00538,D02,Rangpur,Sensor Calibration,Facebook Page,4.9,Resolved,4
+TKT00408,2025-09-18,C01071,D07,Chattogram,Connectivity Issue,Field Agent Visit,2.5,Resolved,3
+TKT00611,2025-09-18,C00204,D01,Rajshahi,General Inquiry,In-App Chat,3.3,Resolved,5
+TKT00281,2025-09-19,C00832,D04,Mymensingh,App/Website Issue,Facebook Page,3.5,Resolved,3
+TKT00410,2025-09-20,C00089,D02,Rangpur,App/Website Issue,In-App Chat,2.4,Resolved,4
+TKT00794,2025-09-20,C00798,D02,Rangpur,Connectivity Issue,Hotline Call,10.6,Resolved,3
+TKT00229,2025-09-21,C01299,D06,Barishal,Connectivity Issue,Hotline Call,19.8,Escalated,5
+TKT00660,2025-09-21,C01498,D05,Dhaka,Sensor Calibration,Hotline Call,12.2,Resolved,3
+TKT00313,2025-09-23,C01364,D01,Rajshahi,App/Website Issue,Hotline Call,3.8,Resolved,4
+TKT01218,2025-09-23,C00731,D03,Khulna,App/Website Issue,In-App Chat,3.2,Resolved,4
+TKT00595,2025-09-24,C01265,D05,Dhaka,Connectivity Issue,Field Agent Visit,3.2,Resolved,3
+TKT00968,2025-09-25,C00655,D07,Chattogram,Connectivity Issue,Hotline Call,13.4,Resolved,4
+TKT00629,2025-09-25,C00889,D02,Rangpur,App/Website Issue,Field Agent Visit,8.0,Resolved,3
+TKT00075,2025-09-26,C00679,D01,Rajshahi,Sensor Calibration,In-App Chat,8.2,Resolved,5
+TKT00035,2025-09-26,C00576,D04,Mymensingh,Billing & Payment,In-App Chat,0.7,Resolved,4
+TKT00441,2025-09-26,C00313,D02,Rangpur,Sensor Calibration,Hotline Call,19.6,Resolved,3
+TKT00988,2025-09-26,C01432,D05,Dhaka,Connectivity Issue,Facebook Page,3.2,Resolved,2
+TKT00396,2025-09-28,C01302,D05,Dhaka,App/Website Issue,In-App Chat,3.9,Pending,4
+TKT00851,2025-09-28,C00835,D06,Barishal,Device Setup,Facebook Page,10.6,Resolved,3
+TKT00932,2025-09-29,C01003,D01,Rajshahi,Device Setup,Field Agent Visit,8.9,Resolved,3
+TKT00257,2025-09-29,C00693,D02,Rangpur,Billing & Payment,Hotline Call,2.3,Escalated,3
+TKT01229,2025-10-01,C01455,D03,Khulna,Connectivity Issue,In-App Chat,10.1,Resolved,3
+TKT00341,2025-10-01,C00902,D02,Rangpur,Device Setup,Facebook Page,8.8,Resolved,4
+TKT01121,2025-10-02,C01364,D01,Rajshahi,App/Website Issue,Facebook Page,4.2,Resolved,4
+TKT00329,2025-10-02,C00402,D07,Chattogram,Sensor Calibration,In-App Chat,5.8,Resolved,3
+TKT00385,2025-10-02,C00121,D05,Dhaka,Connectivity Issue,In-App Chat,11.5,Resolved,3
+TKT00543,2025-10-02,C01045,D01,Rajshahi,App/Website Issue,In-App Chat,3.1,Resolved,2
+TKT01221,2025-10-03,C00624,D04,Mymensingh,Sensor Calibration,In-App Chat,14.4,Resolved,4
+TKT00536,2025-10-03,C00895,D06,Barishal,Billing & Payment,In-App Chat,2.3,Resolved,3
+TKT00673,2025-10-03,C01115,D08,Sylhet,General Inquiry,In-App Chat,1.1,Resolved,4
+TKT00112,2025-10-04,C00934,D06,Barishal,Sensor Calibration,Field Agent Visit,10.5,Resolved,5
+TKT01090,2025-10-04,C00693,D02,Rangpur,Billing & Payment,Facebook Page,3.8,Resolved,5
+TKT00087,2025-10-04,C01353,D02,Rangpur,App/Website Issue,Facebook Page,4.9,Resolved,4
+TKT00228,2025-10-05,C01251,D01,Rajshahi,App/Website Issue,Hotline Call,2.0,Resolved,3
+TKT00317,2025-10-05,C01006,D03,Khulna,General Inquiry,In-App Chat,1.3,Escalated,4
+TKT00872,2025-10-05,C00904,D04,Mymensingh,Device Setup,In-App Chat,10.2,Resolved,1
+TKT00166,2025-10-05,C01336,D07,Chattogram,Device Setup,Hotline Call,11.6,Escalated,3
+TKT01097,2025-10-06,C01137,D04,Mymensingh,Connectivity Issue,Facebook Page,18.5,Resolved,3
+TKT00448,2025-10-07,C00185,D06,Barishal,Sensor Calibration,Facebook Page,1.9,Resolved,4
+TKT01132,2025-10-08,C00331,D06,Barishal,Device Setup,Facebook Page,9.1,Resolved,3
+TKT00567,2025-10-08,C01178,D03,Khulna,General Inquiry,In-App Chat,1.8,Resolved,4
+TKT00144,2025-10-08,C01449,D05,Dhaka,App/Website Issue,In-App Chat,3.1,Resolved,3
+TKT00288,2025-10-09,C01108,D03,Khulna,Connectivity Issue,In-App Chat,6.7,Resolved,2
+TKT00310,2025-10-10,C00167,D07,Chattogram,Device Setup,Facebook Page,6.1,Resolved,4
+TKT00936,2025-10-10,C00249,D03,Khulna,App/Website Issue,In-App Chat,4.1,Resolved,2
+TKT00563,2025-10-10,C00114,D05,Dhaka,Sensor Calibration,Field Agent Visit,2.8,Resolved,4
+TKT00325,2025-10-11,C00627,D06,Barishal,Device Setup,Facebook Page,6.4,Resolved,5
+TKT01225,2025-10-11,C00257,D06,Barishal,Device Setup,Field Agent Visit,5.7,Resolved,3
+TKT00187,2025-10-11,C00561,D01,Rajshahi,Device Setup,In-App Chat,14.1,Resolved,4
+TKT00973,2025-10-11,C01347,D03,Khulna,Connectivity Issue,Hotline Call,2.7,Resolved,4
+TKT00824,2025-10-11,C00175,D02,Rangpur,General Inquiry,Field Agent Visit,2.4,Resolved,4
+TKT01239,2025-10-11,C00456,D02,Rangpur,Sensor Calibration,Facebook Page,10.8,Resolved,4
+TKT00503,2025-10-11,C00547,D03,Khulna,Sensor Calibration,In-App Chat,11.1,Resolved,4
+TKT00059,2025-10-12,C01048,D06,Barishal,App/Website Issue,Hotline Call,6.5,Resolved,2
+TKT00792,2025-10-13,C00571,D03,Khulna,General Inquiry,Field Agent Visit,0.5,Resolved,4
+TKT00402,2025-10-13,C01132,D04,Mymensingh,General Inquiry,Facebook Page,1.4,Resolved,3
+TKT00460,2025-10-13,C01372,D08,Sylhet,Billing & Payment,Hotline Call,9.3,Resolved,2
+TKT00285,2025-10-13,C00370,D07,Chattogram,Connectivity Issue,Field Agent Visit,7.5,Resolved,4
+TKT00587,2025-10-14,C01008,D03,Khulna,Connectivity Issue,Facebook Page,6.1,Resolved,3
+TKT00041,2025-10-14,C00797,D01,Rajshahi,Billing & Payment,Facebook Page,9.4,Resolved,4
+TKT00133,2025-10-14,C00836,D05,Dhaka,Connectivity Issue,Hotline Call,10.0,Resolved,3
+TKT00370,2025-10-14,C00756,D02,Rangpur,Connectivity Issue,In-App Chat,3.1,Resolved,3
+TKT01014,2025-10-15,C00874,D03,Khulna,Device Setup,In-App Chat,8.3,Resolved,1
+TKT00360,2025-10-16,C00513,D01,Rajshahi,App/Website Issue,Facebook Page,0.8,Resolved,3
+TKT00600,2025-10-16,C00499,D03,Khulna,Connectivity Issue,Hotline Call,4.6,Resolved,3
+TKT00585,2025-10-16,C00411,D05,Dhaka,Billing & Payment,In-App Chat,3.9,Resolved,3
+TKT00743,2025-10-17,C01370,D03,Khulna,App/Website Issue,Hotline Call,8.5,Resolved,4
+TKT00684,2025-10-20,C01131,D08,Sylhet,General Inquiry,Facebook Page,2.1,Resolved,4
+TKT01148,2025-10-21,C00233,D08,Sylhet,Connectivity Issue,In-App Chat,3.2,Resolved,4
+TKT00603,2025-10-21,C00136,D01,Rajshahi,App/Website Issue,Facebook Page,0.7,Resolved,5
+TKT00538,2025-10-21,C01216,D04,Mymensingh,Billing & Payment,Field Agent Visit,1.1,Resolved,4
+TKT00978,2025-10-22,C00955,D08,Sylhet,Device Setup,Facebook Page,4.5,Resolved,3
+TKT00191,2025-10-22,C00279,D07,Chattogram,Sensor Calibration,In-App Chat,3.5,Resolved,5
+TKT00999,2025-10-23,C00625,D08,Sylhet,Device Setup,In-App Chat,6.1,Resolved,3
+TKT00861,2025-10-23,C01441,D02,Rangpur,App/Website Issue,In-App Chat,7.5,Resolved,4
+TKT01093,2025-10-23,C01270,D04,Mymensingh,Sensor Calibration,Hotline Call,6.6,Resolved,4
+TKT00664,2025-10-24,C00424,D01,Rajshahi,App/Website Issue,In-App Chat,4.5,Resolved,5
+TKT00569,2025-10-24,C00073,D07,Chattogram,App/Website Issue,Hotline Call,2.9,Resolved,3
+TKT00853,2025-10-24,C00352,D02,Rangpur,Billing & Payment,In-App Chat,6.4,Resolved,4
+TKT00376,2025-10-25,C00277,D03,Khulna,Device Setup,Facebook Page,4.7,Resolved,3
+TKT00732,2025-10-25,C01269,D04,Mymensingh,App/Website Issue,Hotline Call,1.2,Pending,3
+TKT00213,2025-10-25,C01201,D05,Dhaka,Connectivity Issue,In-App Chat,18.6,Resolved,2
+TKT01052,2025-10-25,C00487,D04,Mymensingh,General Inquiry,Facebook Page,1.7,Resolved,4
+TKT00279,2025-10-26,C00019,D07,Chattogram,Sensor Calibration,Hotline Call,21.5,Resolved,3
+TKT01092,2025-10-26,C01484,D02,Rangpur,General Inquiry,Field Agent Visit,1.8,Resolved,4
+TKT00679,2025-10-26,C00082,D03,Khulna,Billing & Payment,Hotline Call,8.0,Resolved,4
+TKT00717,2025-10-27,C01361,D05,Dhaka,Connectivity Issue,Hotline Call,1.8,Resolved,2
+TKT01208,2025-10-27,C01123,D07,Chattogram,Sensor Calibration,Hotline Call,0.5,Resolved,5
+TKT00579,2025-10-27,C00354,D05,Dhaka,Device Setup,Facebook Page,4.5,Escalated,5
+TKT00885,2025-10-27,C00627,D06,Barishal,App/Website Issue,Hotline Call,3.8,Resolved,2
+TKT01003,2025-10-27,C00645,D05,Dhaka,Billing & Payment,Field Agent Visit,5.2,Resolved,3
+TKT01165,2025-10-27,C01486,D01,Rajshahi,General Inquiry,In-App Chat,0.5,Resolved,3
+TKT00825,2025-10-27,C00937,D08,Sylhet,General Inquiry,In-App Chat,0.5,Escalated,3
+TKT00634,2025-10-28,C00766,D01,Rajshahi,Connectivity Issue,Hotline Call,1.2,Resolved,4
+TKT00321,2025-10-28,C00702,D03,Khulna,App/Website Issue,In-App Chat,7.7,Resolved,5
+TKT00442,2025-10-29,C00473,D01,Rajshahi,Sensor Calibration,Field Agent Visit,1.4,Resolved,3
+TKT00782,2025-10-29,C00241,D07,Chattogram,Connectivity Issue,In-App Chat,12.4,Resolved,3
+TKT00217,2025-10-30,C00108,D02,Rangpur,Device Setup,Facebook Page,2.9,Resolved,3
+TKT00018,2025-10-30,C01062,D05,Dhaka,Device Setup,Hotline Call,3.2,Resolved,4
+TKT00892,2025-10-31,C00374,D03,Khulna,Billing & Payment,Facebook Page,1.4,Resolved,4
+TKT01236,2025-10-31,C00731,D03,Khulna,Device Setup,Hotline Call,4.1,Resolved,4
+TKT00633,2025-11-01,C00487,D04,Mymensingh,App/Website Issue,Hotline Call,5.8,Resolved,3
+TKT00099,2025-11-01,C01441,D02,Rangpur,App/Website Issue,Hotline Call,2.4,Resolved,3
+TKT00622,2025-11-01,C00570,D04,Mymensingh,Billing & Payment,Facebook Page,3.8,Pending,4
+TKT00316,2025-11-02,C01034,D07,Chattogram,General Inquiry,Field Agent Visit,0.5,Resolved,3
+TKT00779,2025-11-02,C00515,D03,Khulna,Connectivity Issue,Hotline Call,12.1,Resolved,3
+TKT00095,2025-11-02,C00152,D07,Chattogram,Device Setup,Hotline Call,10.2,Resolved,2
+TKT00390,2025-11-03,C00226,D07,Chattogram,Sensor Calibration,Facebook Page,6.2,Escalated,3
+TKT00367,2025-11-03,C00781,D02,Rangpur,Connectivity Issue,Facebook Page,5.4,Resolved,3
+TKT00879,2025-11-05,C01500,D05,Dhaka,Connectivity Issue,Hotline Call,10.1,Resolved,2
+TKT00554,2025-11-05,C01029,D06,Barishal,App/Website Issue,In-App Chat,0.6,Resolved,3
+TKT00771,2025-11-06,C00297,D08,Sylhet,App/Website Issue,Field Agent Visit,4.0,Resolved,5
+TKT00803,2025-11-06,C00927,D02,Rangpur,General Inquiry,In-App Chat,1.5,Resolved,2
+TKT00884,2025-11-07,C01453,D07,Chattogram,Billing & Payment,Facebook Page,4.4,Resolved,4
+TKT00849,2025-11-07,C01099,D07,Chattogram,Device Setup,In-App Chat,11.2,Resolved,4
+TKT00609,2025-11-07,C00930,D06,Barishal,Sensor Calibration,Hotline Call,3.1,Resolved,4
+TKT00200,2025-11-07,C00517,D03,Khulna,Connectivity Issue,Facebook Page,9.9,Resolved,3
+TKT00205,2025-11-07,C01233,D02,Rangpur,App/Website Issue,In-App Chat,8.5,Resolved,4
+TKT00645,2025-11-07,C00537,D04,Mymensingh,Sensor Calibration,Facebook Page,13.5,Resolved,3
+TKT01178,2025-11-08,C00683,D01,Rajshahi,Device Setup,Hotline Call,4.6,Resolved,3
+TKT00606,2025-11-08,C00449,D01,Rajshahi,Sensor Calibration,In-App Chat,6.0,Resolved,3
+TKT00424,2025-11-09,C00331,D06,Barishal,Device Setup,Facebook Page,7.0,Resolved,4
+TKT00949,2025-11-09,C01185,D02,Rangpur,Device Setup,Field Agent Visit,5.4,Resolved,3
+TKT00115,2025-11-09,C01267,D02,Rangpur,Connectivity Issue,Facebook Page,25.3,Resolved,5
+TKT01110,2025-11-09,C00011,D03,Khulna,Connectivity Issue,Hotline Call,13.4,Resolved,4
+TKT00904,2025-11-11,C00422,D01,Rajshahi,General Inquiry,Hotline Call,0.6,Resolved,3
+TKT00118,2025-11-12,C01359,D05,Dhaka,Sensor Calibration,In-App Chat,5.2,Resolved,4
+TKT01047,2025-11-12,C01385,D08,Sylhet,General Inquiry,Hotline Call,2.9,Resolved,4
+TKT00315,2025-11-12,C00750,D07,Chattogram,Device Setup,In-App Chat,4.1,Resolved,4
+TKT00699,2025-11-14,C00269,D01,Rajshahi,App/Website Issue,Facebook Page,4.4,Resolved,3
+TKT00550,2025-11-14,C00138,D04,Mymensingh,App/Website Issue,In-App Chat,7.8,Escalated,4
+TKT00073,2025-11-14,C01353,D02,Rangpur,Device Setup,In-App Chat,2.9,Escalated,3
+TKT00751,2025-11-14,C00169,D03,Khulna,Billing & Payment,Facebook Page,2.0,Pending,4
+TKT00042,2025-11-15,C00146,D02,Rangpur,Sensor Calibration,Hotline Call,2.3,Pending,2
+TKT01086,2025-11-15,C01124,D02,Rangpur,Connectivity Issue,Field Agent Visit,10.2,Resolved,4
+TKT01057,2025-11-15,C01170,D01,Rajshahi,App/Website Issue,In-App Chat,6.7,Resolved,3
+TKT01122,2025-11-15,C00920,D04,Mymensingh,Sensor Calibration,Hotline Call,9.0,Resolved,3
+TKT00839,2025-11-15,C00166,D03,Khulna,Connectivity Issue,Hotline Call,11.2,Resolved,3
+TKT00592,2025-11-15,C01082,D07,Chattogram,App/Website Issue,Hotline Call,5.9,Resolved,3
+TKT00527,2025-11-16,C00599,D08,Sylhet,Device Setup,Hotline Call,2.3,Resolved,3
+TKT01026,2025-11-16,C00573,D04,Mymensingh,Billing & Payment,Hotline Call,2.4,Resolved,4
+TKT00337,2025-11-16,C01385,D08,Sylhet,App/Website Issue,Hotline Call,2.9,Resolved,4
+TKT00922,2025-11-16,C00841,D01,Rajshahi,App/Website Issue,In-App Chat,4.4,Resolved,3
+TKT01149,2025-11-17,C00849,D01,Rajshahi,Billing & Payment,Field Agent Visit,3.1,Resolved,5
+TKT00224,2025-11-17,C00615,D02,Rangpur,Connectivity Issue,Field Agent Visit,4.1,Resolved,3
+TKT01150,2025-11-17,C01347,D03,Khulna,General Inquiry,In-App Chat,0.5,Resolved,4
+TKT00010,2025-11-18,C00771,D02,Rangpur,Billing & Payment,Field Agent Visit,2.0,Resolved,5
+TKT01226,2025-11-18,C00115,D02,Rangpur,General Inquiry,Facebook Page,0.6,Resolved,3
+TKT00958,2025-11-19,C00097,D03,Khulna,App/Website Issue,Field Agent Visit,2.1,Resolved,4
+TKT00348,2025-11-20,C00197,D05,Dhaka,General Inquiry,Field Agent Visit,0.5,Resolved,3
+TKT00433,2025-11-20,C00908,D01,Rajshahi,App/Website Issue,In-App Chat,4.5,Resolved,4
+TKT00826,2025-11-20,C00811,D01,Rajshahi,Sensor Calibration,In-App Chat,9.4,Resolved,3
+TKT01085,2025-11-20,C01471,D07,Chattogram,General Inquiry,In-App Chat,3.4,Resolved,4
+TKT00258,2025-11-20,C00117,D06,Barishal,Device Setup,In-App Chat,13.0,Resolved,2
+TKT00559,2025-11-21,C01119,D02,Rangpur,Billing & Payment,Facebook Page,2.5,Resolved,3
+TKT00576,2025-11-21,C01500,D05,Dhaka,Billing & Payment,Facebook Page,1.1,Resolved,4
+TKT00909,2025-11-21,C00091,D01,Rajshahi,Connectivity Issue,Field Agent Visit,27.3,Resolved,3
+TKT00715,2025-11-21,C01032,D05,Dhaka,Billing & Payment,In-App Chat,4.9,Resolved,3
+TKT00908,2025-11-21,C01154,D01,Rajshahi,App/Website Issue,In-App Chat,1.3,Resolved,4
+TKT00737,2025-11-21,C00241,D07,Chattogram,Connectivity Issue,Facebook Page,19.2,Resolved,4
+TKT00710,2025-11-22,C01344,D05,Dhaka,General Inquiry,Facebook Page,1.8,Resolved,3
+TKT00907,2025-11-24,C00222,D04,Mymensingh,Sensor Calibration,Field Agent Visit,5.4,Resolved,5
+TKT00040,2025-11-24,C00079,D04,Mymensingh,Connectivity Issue,In-App Chat,24.9,Resolved,3
+TKT00480,2025-11-24,C00719,D05,Dhaka,Sensor Calibration,Field Agent Visit,6.2,Resolved,4
+TKT00156,2025-11-25,C01347,D03,Khulna,App/Website Issue,Facebook Page,4.0,Resolved,3
+TKT00623,2025-11-25,C01138,D03,Khulna,Device Setup,Hotline Call,7.2,Resolved,3
+TKT00097,2025-11-25,C00580,D03,Khulna,Sensor Calibration,In-App Chat,4.9,Resolved,3
+TKT00138,2025-11-25,C00749,D06,Barishal,Device Setup,Hotline Call,17.4,Resolved,5
+TKT00162,2025-11-26,C01139,D01,Rajshahi,Sensor Calibration,In-App Chat,14.4,Resolved,3
+TKT00246,2025-11-26,C00096,D05,Dhaka,App/Website Issue,Facebook Page,1.4,Resolved,5
+TKT00667,2025-11-26,C00966,D04,Mymensingh,Sensor Calibration,Hotline Call,11.4,Resolved,3
+TKT00992,2025-11-27,C01202,D04,Mymensingh,Device Setup,In-App Chat,4.5,Resolved,4
+TKT00172,2025-11-27,C00495,D06,Barishal,Connectivity Issue,Hotline Call,29.7,Resolved,3
+TKT00012,2025-11-27,C00748,D03,Khulna,Connectivity Issue,Facebook Page,11.2,Resolved,2
+TKT00862,2025-11-27,C00766,D01,Rajshahi,General Inquiry,Hotline Call,1.0,Resolved,4
+TKT00208,2025-11-28,C01185,D02,Rangpur,Device Setup,Field Agent Visit,3.3,Resolved,4
+TKT00397,2025-11-28,C00546,D04,Mymensingh,Billing & Payment,Hotline Call,2.6,Resolved,3
+TKT00345,2025-11-28,C00597,D05,Dhaka,App/Website Issue,In-App Chat,2.7,Resolved,3
+TKT00509,2025-11-28,C01269,D04,Mymensingh,Connectivity Issue,In-App Chat,4.4,Resolved,5
+TKT00076,2025-11-28,C00330,D02,Rangpur,Sensor Calibration,Field Agent Visit,18.9,Resolved,5
+TKT00534,2025-11-28,C01327,D03,Khulna,Billing & Payment,Hotline Call,0.8,Resolved,3
+TKT01019,2025-11-29,C00152,D07,Chattogram,Billing & Payment,Facebook Page,5.3,Resolved,2
+TKT01195,2025-11-30,C01492,D07,Chattogram,Connectivity Issue,In-App Chat,16.5,Resolved,4
+TKT00738,2025-11-30,C01451,D06,Barishal,Billing & Payment,Facebook Page,1.7,Resolved,3
+TKT00259,2025-12-03,C01491,D01,Rajshahi,Device Setup,Hotline Call,2.1,Resolved,2
+TKT00998,2025-12-03,C00245,D05,Dhaka,Device Setup,Facebook Page,3.4,Resolved,4
+TKT00039,2025-12-03,C01224,D05,Dhaka,Device Setup,Field Agent Visit,8.2,Resolved,4
+TKT00496,2025-12-03,C00050,D01,Rajshahi,Connectivity Issue,Field Agent Visit,7.0,Resolved,4
+TKT00515,2025-12-03,C00948,D07,Chattogram,Device Setup,Facebook Page,1.5,Resolved,3
+TKT00706,2025-12-03,C00992,D06,Barishal,Device Setup,Facebook Page,1.7,Resolved,5
+TKT00419,2025-12-04,C00313,D02,Rangpur,Device Setup,In-App Chat,1.2,Resolved,5
+TKT00520,2025-12-05,C00240,D01,Rajshahi,Connectivity Issue,Facebook Page,5.6,Resolved,4
+TKT00291,2025-12-06,C01415,D01,Rajshahi,Device Setup,In-App Chat,8.3,Resolved,3
+TKT00923,2025-12-06,C01174,D06,Barishal,App/Website Issue,In-App Chat,9.3,Resolved,4
+TKT00151,2025-12-07,C01255,D01,Rajshahi,App/Website Issue,In-App Chat,0.9,Resolved,5
+TKT00646,2025-12-07,C01108,D03,Khulna,App/Website Issue,Field Agent Visit,4.4,Resolved,4
+TKT00727,2025-12-07,C00472,D04,Mymensingh,Billing & Payment,Hotline Call,0.9,Resolved,5
+TKT00539,2025-12-07,C00934,D06,Barishal,Connectivity Issue,Hotline Call,7.9,Resolved,5
+TKT00492,2025-12-08,C00182,D07,Chattogram,App/Website Issue,Hotline Call,0.9,Resolved,4
+TKT00199,2025-12-08,C00017,D04,Mymensingh,General Inquiry,Hotline Call,0.6,Resolved,4
+TKT00057,2025-12-09,C00764,D01,Rajshahi,Device Setup,In-App Chat,6.0,Resolved,5
+TKT00274,2025-12-09,C00261,D01,Rajshahi,General Inquiry,Hotline Call,0.5,Resolved,5
+TKT01091,2025-12-09,C01196,D02,Rangpur,General Inquiry,In-App Chat,0.5,Resolved,4
+TKT00449,2025-12-09,C01413,D07,Chattogram,App/Website Issue,In-App Chat,0.8,Resolved,5
+TKT00648,2025-12-10,C01163,D07,Chattogram,App/Website Issue,In-App Chat,2.2,Resolved,5
+TKT01102,2025-12-10,C01432,D05,Dhaka,Sensor Calibration,In-App Chat,3.3,Resolved,5
+TKT01025,2025-12-10,C01288,D03,Khulna,Billing & Payment,Facebook Page,1.8,Escalated,4
+TKT00252,2025-12-10,C00939,D07,Chattogram,Sensor Calibration,Facebook Page,11.9,Resolved,4
+TKT00107,2025-12-10,C00813,D08,Sylhet,App/Website Issue,Facebook Page,2.8,Resolved,4
+TKT00312,2025-12-10,C01500,D05,Dhaka,Sensor Calibration,Facebook Page,4.9,Resolved,4
+TKT00920,2025-12-10,C00910,D02,Rangpur,Sensor Calibration,Facebook Page,10.5,Resolved,4
+TKT01039,2025-12-11,C00948,D07,Chattogram,Connectivity Issue,In-App Chat,1.7,Pending,4
+TKT00320,2025-12-11,C00082,D03,Khulna,Connectivity Issue,Field Agent Visit,3.8,Resolved,4
+TKT01224,2025-12-11,C00941,D02,Rangpur,Device Setup,Hotline Call,3.8,Resolved,4
+TKT00631,2025-12-12,C00626,D03,Khulna,Connectivity Issue,Hotline Call,0.6,Resolved,4
+TKT00167,2025-12-12,C01492,D07,Chattogram,Sensor Calibration,Facebook Page,2.9,Resolved,4
+TKT00681,2025-12-12,C01415,D01,Rajshahi,App/Website Issue,In-App Chat,7.6,Resolved,5
+TKT00048,2025-12-13,C01016,D02,Rangpur,Sensor Calibration,Hotline Call,0.5,Pending,3
+TKT01114,2025-12-13,C01040,D01,Rajshahi,App/Website Issue,Hotline Call,8.9,Resolved,3
+TKT00505,2025-12-14,C01227,D04,Mymensingh,Connectivity Issue,Hotline Call,3.5,Resolved,3
+TKT00818,2025-12-15,C01356,D01,Rajshahi,Sensor Calibration,In-App Chat,6.9,Resolved,5
+TKT00902,2025-12-15,C00977,D04,Mymensingh,Sensor Calibration,Field Agent Visit,1.8,Resolved,5
+TKT00837,2025-12-16,C01062,D05,Dhaka,Sensor Calibration,In-App Chat,1.8,Resolved,3
+TKT00643,2025-12-16,C00828,D02,Rangpur,Device Setup,In-App Chat,8.8,Resolved,4
+TKT01066,2025-12-17,C00759,D01,Rajshahi,Sensor Calibration,Hotline Call,3.5,Resolved,3
+TKT01145,2025-12-17,C00629,D04,Mymensingh,Device Setup,Field Agent Visit,1.8,Resolved,5
+TKT00289,2025-12-17,C00197,D05,Dhaka,General Inquiry,In-App Chat,1.3,Resolved,5
+TKT00121,2025-12-17,C00820,D02,Rangpur,Device Setup,In-App Chat,2.8,Resolved,4
+TKT00523,2025-12-18,C01429,D06,Barishal,Connectivity Issue,Field Agent Visit,12.9,Escalated,4
+TKT00069,2025-12-18,C00810,D08,Sylhet,Connectivity Issue,In-App Chat,1.0,Resolved,5
+TKT00597,2025-12-18,C01057,D07,Chattogram,Sensor Calibration,In-App Chat,8.9,Resolved,4
+TKT00856,2025-12-18,C01376,D01,Rajshahi,Device Setup,In-App Chat,3.8,Resolved,4
+TKT00475,2025-12-19,C01015,D03,Khulna,Sensor Calibration,In-App Chat,4.3,Resolved,5
+TKT01185,2025-12-19,C00182,D07,Chattogram,Device Setup,Hotline Call,3.1,Resolved,4
+TKT00074,2025-12-20,C00845,D01,Rajshahi,General Inquiry,In-App Chat,0.5,Resolved,4
+TKT00806,2025-12-21,C00578,D05,Dhaka,App/Website Issue,In-App Chat,2.0,Resolved,4
+TKT01227,2025-12-21,C00117,D06,Barishal,Device Setup,Facebook Page,2.0,Escalated,5
+TKT01196,2025-12-22,C01257,D06,Barishal,App/Website Issue,Hotline Call,1.8,Resolved,5
+TKT00632,2025-12-22,C00754,D04,Mymensingh,Device Setup,Hotline Call,0.8,Resolved,4
+TKT01177,2025-12-23,C00412,D05,Dhaka,App/Website Issue,In-App Chat,2.0,Resolved,3
+TKT00850,2025-12-24,C01482,D01,Rajshahi,Billing & Payment,In-App Chat,0.8,Resolved,5
+TKT00478,2025-12-25,C01378,D07,Chattogram,App/Website Issue,In-App Chat,3.7,Escalated,4
+TKT00455,2025-12-25,C00722,D03,Khulna,Billing & Payment,Facebook Page,6.1,Resolved,4
+TKT01127,2025-12-25,C00566,D05,Dhaka,App/Website Issue,Facebook Page,1.3,Resolved,4
+TKT00798,2025-12-25,C01266,D06,Barishal,Sensor Calibration,In-App Chat,2.3,Resolved,3
+TKT00368,2025-12-26,C00482,D02,Rangpur,Billing & Payment,Hotline Call,3.6,Resolved,4
+TKT00833,2025-12-26,C00165,D04,Mymensingh,App/Website Issue,In-App Chat,2.1,Resolved,5
+TKT00154,2025-12-27,C00644,D02,Rangpur,Device Setup,Hotline Call,0.6,Escalated,5
+TKT00211,2025-12-27,C01111,D01,Rajshahi,Billing & Payment,In-App Chat,0.7,Resolved,5
+TKT01016,2025-12-27,C00907,D04,Mymensingh,Billing & Payment,Hotline Call,1.0,Escalated,5
+TKT00564,2025-12-27,C00020,D05,Dhaka,Sensor Calibration,In-App Chat,1.1,Resolved,5
+TKT00521,2025-12-27,C00269,D01,Rajshahi,Connectivity Issue,Field Agent Visit,4.4,Resolved,5
+TKT01209,2025-12-27,C00837,D06,Barishal,Billing & Payment,In-App Chat,1.6,Resolved,4
+TKT00620,2025-12-27,C01400,D03,Khulna,General Inquiry,Hotline Call,0.5,Resolved,4
+TKT00373,2025-12-28,C01178,D03,Khulna,General Inquiry,In-App Chat,0.5,Resolved,4
+TKT00220,2025-12-28,C00405,D08,Sylhet,General Inquiry,Hotline Call,4.8,Resolved,5
+TKT01159,2025-12-28,C00074,D02,Rangpur,Connectivity Issue,Field Agent Visit,12.3,Escalated,5
+TKT00351,2025-12-30,C01146,D03,Khulna,Connectivity Issue,Field Agent Visit,2.1,Resolved,5
+TKT00553,2025-12-30,C01378,D07,Chattogram,Sensor Calibration,Facebook Page,0.7,Resolved,5
+TKT00995,2025-12-30,C00403,D06,Barishal,Connectivity Issue,In-App Chat,2.7,Escalated,4
+TKT00359,2025-12-30,C00657,D07,Chattogram,Device Setup,Hotline Call,2.0,Resolved,4
+TKT00488,2025-12-30,C00723,D01,Rajshahi,Connectivity Issue,In-App Chat,9.9,Resolved,4
+TKT00219,2025-12-30,C00647,D01,Rajshahi,App/Website Issue,In-App Chat,0.9,Resolved,4
+TKT00350,2025-12-31,C01472,D02,Rangpur,Billing & Payment,Field Agent Visit,1.4,Resolved,4
+TKT00961,2025-12-31,C01438,D04,Mymensingh,Connectivity Issue,In-App Chat,5.4,Resolved,4
+TKT00980,2026-01-01,C00369,D03,Khulna,Connectivity Issue,In-App Chat,4.1,Resolved,5
+TKT00262,2026-01-01,C00632,D07,Chattogram,Sensor Calibration,In-App Chat,2.2,Resolved,5
+TKT00016,2026-01-01,C00837,D06,Barishal,Connectivity Issue,Facebook Page,6.1,Resolved,3
+TKT00891,2026-01-01,C00354,D05,Dhaka,Sensor Calibration,Field Agent Visit,2.7,Resolved,4
+TKT01100,2026-01-01,C00882,D05,Dhaka,Connectivity Issue,In-App Chat,6.4,Resolved,4
+TKT00793,2026-01-01,C01018,D07,Chattogram,App/Website Issue,Field Agent Visit,1.4,Resolved,4
+TKT00562,2026-01-03,C00968,D02,Rangpur,Billing & Payment,Facebook Page,1.3,Resolved,4
+TKT00845,2026-01-04,C00740,D03,Khulna,Device Setup,In-App Chat,2.4,Resolved,3
+TKT01002,2026-01-04,C01189,D01,Rajshahi,App/Website Issue,In-App Chat,7.1,Escalated,4
+TKT00830,2026-01-04,C01491,D01,Rajshahi,Connectivity Issue,In-App Chat,5.7,Resolved,3
+TKT00952,2026-01-04,C00122,D05,Dhaka,Device Setup,Field Agent Visit,5.4,Escalated,5
+TKT00691,2026-01-05,C01124,D02,Rangpur,General Inquiry,Facebook Page,0.5,Resolved,5
+TKT01045,2026-01-05,C00693,D02,Rangpur,General Inquiry,Hotline Call,0.5,Resolved,4
+TKT00058,2026-01-05,C00530,D03,Khulna,Connectivity Issue,Facebook Page,3.3,Pending,4
+TKT00261,2026-01-05,C01436,D08,Sylhet,General Inquiry,In-App Chat,2.3,Resolved,2
+TKT01043,2026-01-05,C00754,D04,Mymensingh,App/Website Issue,In-App Chat,0.9,Resolved,4
+TKT00158,2026-01-05,C00543,D07,Chattogram,General Inquiry,Facebook Page,3.9,Resolved,5
+TKT00799,2026-01-05,C00413,D01,Rajshahi,App/Website Issue,Hotline Call,0.5,Resolved,4
+TKT00955,2026-01-06,C01198,D05,Dhaka,Connectivity Issue,Hotline Call,2.4,Resolved,4
+TKT00189,2026-01-06,C01285,D07,Chattogram,Connectivity Issue,Facebook Page,6.7,Resolved,5
+TKT01188,2026-01-06,C00209,D01,Rajshahi,App/Website Issue,Field Agent Visit,6.0,Resolved,5
+TKT00783,2026-01-07,C01397,D04,Mymensingh,Device Setup,Field Agent Visit,1.3,Resolved,3
+TKT00785,2026-01-07,C01023,D08,Sylhet,Sensor Calibration,Hotline Call,0.8,Resolved,4
+TKT00374,2026-01-07,C00743,D07,Chattogram,Sensor Calibration,Hotline Call,8.3,Resolved,4
+TKT00758,2026-01-08,C00386,D08,Sylhet,General Inquiry,Hotline Call,1.0,Resolved,3
+TKT00570,2026-01-08,C01238,D03,Khulna,Sensor Calibration,Field Agent Visit,2.7,Resolved,5
+TKT00700,2026-01-09,C00447,D08,Sylhet,Connectivity Issue,Field Agent Visit,8.4,Resolved,5
+TKT00869,2026-01-09,C00231,D01,Rajshahi,Connectivity Issue,In-App Chat,2.8,Resolved,3
+TKT00805,2026-01-09,C00165,D04,Mymensingh,Device Setup,Field Agent Visit,5.4,Resolved,5
+TKT00518,2026-01-10,C01466,D05,Dhaka,Device Setup,In-App Chat,1.5,Resolved,4
+TKT00873,2026-01-10,C00169,D03,Khulna,Device Setup,In-App Chat,4.8,Resolved,5
+TKT00888,2026-01-10,C01330,D02,Rangpur,Device Setup,In-App Chat,2.9,Resolved,4
+TKT00260,2026-01-10,C00360,D05,Dhaka,Billing & Payment,Facebook Page,0.7,Resolved,5
+TKT00104,2026-01-10,C00402,D07,Chattogram,Connectivity Issue,Hotline Call,9.5,Resolved,4
+TKT00008,2026-01-10,C00060,D01,Rajshahi,General Inquiry,Hotline Call,0.9,Resolved,4
+TKT00844,2026-01-10,C01375,D08,Sylhet,Sensor Calibration,In-App Chat,4.7,Resolved,3
+TKT00800,2026-01-11,C00399,D04,Mymensingh,Connectivity Issue,Hotline Call,2.0,Resolved,4
+TKT00164,2026-01-11,C00292,D01,Rajshahi,Device Setup,Hotline Call,1.7,Resolved,4
+TKT00807,2026-01-11,C00026,D02,Rangpur,General Inquiry,Facebook Page,0.6,Resolved,5
+TKT00960,2026-01-11,C00883,D07,Chattogram,App/Website Issue,In-App Chat,6.8,Resolved,3
+TKT01152,2026-01-12,C00062,D04,Mymensingh,App/Website Issue,Hotline Call,6.3,Resolved,3
+TKT00790,2026-01-12,C00690,D04,Mymensingh,App/Website Issue,Field Agent Visit,4.3,Resolved,4
+TKT00947,2026-01-12,C01044,D05,Dhaka,General Inquiry,In-App Chat,1.8,Escalated,4
+TKT00625,2026-01-12,C01091,D02,Rangpur,Billing & Payment,Hotline Call,7.7,Resolved,3
+TKT00362,2026-01-12,C00449,D01,Rajshahi,Sensor Calibration,Hotline Call,4.2,Resolved,4
+TKT00096,2026-01-12,C00821,D01,Rajshahi,App/Website Issue,In-App Chat,10.2,Resolved,2
+TKT00050,2026-01-12,C00517,D03,Khulna,Device Setup,In-App Chat,1.2,Resolved,5
+TKT01213,2026-01-13,C00222,D04,Mymensingh,General Inquiry,Facebook Page,0.8,Resolved,5
+TKT01163,2026-01-13,C00477,D03,Khulna,Sensor Calibration,Facebook Page,6.1,Resolved,5
+TKT00709,2026-01-13,C00419,D02,Rangpur,App/Website Issue,Facebook Page,1.6,Resolved,5
+TKT00555,2026-01-13,C00896,D07,Chattogram,Device Setup,Hotline Call,2.3,Resolved,3
+TKT00216,2026-01-14,C00929,D05,Dhaka,Device Setup,Field Agent Visit,3.4,Resolved,5
+TKT00764,2026-01-14,C00447,D08,Sylhet,General Inquiry,In-App Chat,1.5,Resolved,5
+TKT00061,2026-01-14,C00278,D04,Mymensingh,App/Website Issue,Facebook Page,3.9,Resolved,5
+TKT00037,2026-01-14,C00545,D01,Rajshahi,Connectivity Issue,In-App Chat,4.2,Resolved,5
+TKT00446,2026-01-15,C00572,D07,Chattogram,Device Setup,In-App Chat,4.8,Resolved,5
+TKT00703,2026-01-15,C01393,D01,Rajshahi,General Inquiry,Field Agent Visit,0.5,Resolved,4
+TKT00464,2026-01-15,C00289,D04,Mymensingh,Billing & Payment,In-App Chat,1.5,Resolved,4
+TKT00430,2026-01-15,C00338,D06,Barishal,Sensor Calibration,In-App Chat,4.8,Resolved,4
+TKT00665,2026-01-16,C00086,D01,Rajshahi,App/Website Issue,Facebook Page,2.0,Resolved,3
+TKT00759,2026-01-16,C00950,D03,Khulna,Connectivity Issue,Field Agent Visit,4.1,Resolved,5
+TKT00336,2026-01-16,C00665,D03,Khulna,Sensor Calibration,In-App Chat,1.9,Resolved,4
+TKT00295,2026-01-16,C00821,D01,Rajshahi,Sensor Calibration,In-App Chat,6.1,Resolved,5
+TKT00765,2026-01-17,C01126,D04,Mymensingh,Billing & Payment,Field Agent Visit,1.2,Resolved,5
+TKT01170,2026-01-17,C00115,D02,Rangpur,App/Website Issue,In-App Chat,3.4,Resolved,3
+TKT00971,2026-01-17,C00337,D01,Rajshahi,App/Website Issue,Facebook Page,6.3,Resolved,5
+TKT00981,2026-01-17,C00216,D06,Barishal,Device Setup,Facebook Page,3.3,Resolved,5
+TKT00659,2026-01-17,C00366,D03,Khulna,App/Website Issue,In-App Chat,7.9,Resolved,4
+TKT00721,2026-01-18,C01381,D03,Khulna,Device Setup,In-App Chat,8.4,Resolved,5
+TKT00898,2026-01-18,C01131,D08,Sylhet,Sensor Calibration,Facebook Page,2.3,Resolved,5
+TKT00614,2026-01-18,C00799,D06,Barishal,General Inquiry,In-App Chat,1.1,Resolved,5
+TKT00535,2026-01-18,C00289,D04,Mymensingh,Connectivity Issue,Field Agent Visit,10.9,Resolved,5
+TKT01133,2026-01-18,C00001,D06,Barishal,Connectivity Issue,Field Agent Visit,0.8,Resolved,5
+TKT00416,2026-01-18,C00804,D05,Dhaka,Billing & Payment,Facebook Page,1.8,Resolved,4
+TKT00671,2026-01-18,C00276,D03,Khulna,Device Setup,Facebook Page,1.5,Resolved,4
+TKT00413,2026-01-18,C00085,D01,Rajshahi,General Inquiry,In-App Chat,1.7,Resolved,3
+TKT01154,2026-01-20,C00680,D03,Khulna,General Inquiry,Field Agent Visit,3.0,Resolved,5
+TKT00914,2026-01-20,C00931,D02,Rangpur,Connectivity Issue,In-App Chat,4.8,Resolved,4
+TKT00894,2026-01-20,C00861,D06,Barishal,Billing & Payment,Hotline Call,1.0,Resolved,4
+TKT00720,2026-01-21,C01494,D06,Barishal,Device Setup,Hotline Call,3.9,Pending,5
+TKT00858,2026-01-21,C00550,D03,Khulna,App/Website Issue,In-App Chat,0.8,Resolved,3
+TKT01108,2026-01-21,C00656,D03,Khulna,Connectivity Issue,Field Agent Visit,0.6,Resolved,5
+TKT00545,2026-01-21,C01482,D01,Rajshahi,Device Setup,In-App Chat,2.5,Resolved,4
+TKT00941,2026-01-22,C00110,D07,Chattogram,Sensor Calibration,In-App Chat,10.8,Resolved,5
+TKT00714,2026-01-22,C00383,D06,Barishal,Connectivity Issue,Facebook Page,5.4,Resolved,4
+TKT00082,2026-01-22,C00210,D04,Mymensingh,Sensor Calibration,Hotline Call,8.8,Resolved,4
+TKT01040,2026-01-22,C00758,D07,Chattogram,Billing & Payment,Facebook Page,0.7,Resolved,4
+TKT00309,2026-01-23,C00358,D06,Barishal,General Inquiry,In-App Chat,1.2,Resolved,5
+TKT00848,2026-01-23,C01267,D02,Rangpur,Connectivity Issue,In-App Chat,6.4,Resolved,4
+TKT00566,2026-01-23,C00013,D05,Dhaka,Sensor Calibration,In-App Chat,1.6,Resolved,5
+TKT00516,2026-01-23,C00966,D04,Mymensingh,Sensor Calibration,Hotline Call,6.7,Resolved,4
+TKT01008,2026-01-24,C01076,D03,Khulna,Billing & Payment,Hotline Call,1.3,Resolved,5
+TKT01153,2026-01-24,C01308,D05,Dhaka,Sensor Calibration,Facebook Page,1.6,Resolved,5
+TKT00247,2026-01-24,C00859,D03,Khulna,App/Website Issue,Facebook Page,2.5,Resolved,5
+TKT01129,2026-01-24,C00048,D02,Rangpur,Device Setup,Hotline Call,1.2,Resolved,4
+TKT00420,2026-01-24,C00894,D01,Rajshahi,General Inquiry,In-App Chat,0.5,Resolved,5
+TKT00328,2026-01-24,C00296,D07,Chattogram,Sensor Calibration,Facebook Page,5.0,Resolved,4
+TKT00031,2026-01-24,C01002,D04,Mymensingh,General Inquiry,Hotline Call,1.0,Escalated,4
+TKT00990,2026-01-25,C00416,D02,Rangpur,App/Website Issue,Hotline Call,5.2,Resolved,4
+TKT00778,2026-01-25,C00779,D06,Barishal,Billing & Payment,Facebook Page,1.6,Resolved,5
+TKT00719,2026-01-25,C00797,D01,Rajshahi,General Inquiry,Facebook Page,1.9,Resolved,5
+TKT00232,2026-01-25,C00219,D07,Chattogram,Connectivity Issue,Hotline Call,0.5,Resolved,4
+TKT00275,2026-01-25,C01136,D03,Khulna,App/Website Issue,Facebook Page,3.2,Resolved,5
+TKT01234,2026-01-25,C01219,D05,Dhaka,Connectivity Issue,In-App Chat,1.3,Resolved,4
+TKT00581,2026-01-26,C00631,D07,Chattogram,Connectivity Issue,Field Agent Visit,4.9,Resolved,5
+TKT00506,2026-01-26,C00767,D02,Rangpur,Billing & Payment,Hotline Call,5.0,Resolved,5
+TKT00519,2026-01-26,C00034,D03,Khulna,App/Website Issue,Field Agent Visit,2.6,Resolved,4
+TKT01072,2026-01-26,C00146,D02,Rangpur,Connectivity Issue,In-App Chat,2.3,Resolved,5
+TKT01240,2026-01-27,C00832,D04,Mymensingh,Device Setup,In-App Chat,1.4,Resolved,5
+TKT00697,2026-01-27,C01450,D02,Rangpur,App/Website Issue,Hotline Call,2.4,Pending,3
+TKT00188,2026-01-27,C01255,D01,Rajshahi,Sensor Calibration,Hotline Call,2.5,Resolved,4
+TKT01160,2026-01-27,C01144,D07,Chattogram,Device Setup,Hotline Call,2.5,Resolved,5
+TKT00863,2026-01-27,C00127,D03,Khulna,Device Setup,In-App Chat,1.8,Resolved,4
+TKT01174,2026-01-27,C00803,D07,Chattogram,Connectivity Issue,Hotline Call,7.0,Resolved,3
+TKT00301,2026-01-28,C00248,D03,Khulna,Connectivity Issue,Hotline Call,2.6,Resolved,4
+TKT01112,2026-01-28,C00904,D04,Mymensingh,Connectivity Issue,Facebook Page,4.4,Resolved,5
+TKT00092,2026-01-28,C00177,D03,Khulna,App/Website Issue,In-App Chat,1.7,Resolved,5
+TKT00946,2026-01-28,C00384,D04,Mymensingh,Connectivity Issue,In-App Chat,5.6,Resolved,5
+TKT00499,2026-01-28,C00048,D02,Rangpur,Connectivity Issue,In-App Chat,4.4,Resolved,4
+TKT00147,2026-01-28,C00028,D01,Rajshahi,App/Website Issue,Hotline Call,1.4,Resolved,3
+TKT00389,2026-01-28,C00781,D02,Rangpur,Sensor Calibration,Facebook Page,2.9,Resolved,4
+TKT00594,2026-01-29,C00623,D08,Sylhet,Device Setup,In-App Chat,0.5,Resolved,4
+TKT01111,2026-01-29,C00576,D04,Mymensingh,Device Setup,Field Agent Visit,2.6,Resolved,3
+TKT00245,2026-01-29,C00044,D03,Khulna,App/Website Issue,Facebook Page,2.1,Resolved,4
+TKT00165,2026-01-29,C01095,D05,Dhaka,App/Website Issue,Hotline Call,1.3,Resolved,4
+TKT00915,2026-01-29,C00613,D08,Sylhet,Connectivity Issue,Hotline Call,14.9,Resolved,3
+TKT00136,2026-01-29,C00712,D05,Dhaka,App/Website Issue,Field Agent Visit,3.1,Resolved,4
+TKT01023,2026-01-30,C01402,D01,Rajshahi,Device Setup,Hotline Call,0.5,Resolved,5
+TKT00055,2026-01-30,C01091,D02,Rangpur,App/Website Issue,In-App Chat,1.3,Resolved,5
+TKT01242,2026-01-30,C01069,D01,Rajshahi,Connectivity Issue,Hotline Call,4.1,Resolved,5
+TKT00674,2026-01-30,C00713,D06,Barishal,Billing & Payment,Facebook Page,1.1,Resolved,5
+TKT00867,2026-01-31,C00599,D08,Sylhet,Billing & Payment,In-App Chat,4.1,Resolved,4
+TKT01064,2026-01-31,C01247,D05,Dhaka,General Inquiry,Field Agent Visit,1.7,Resolved,3
+TKT00176,2026-01-31,C01158,D01,Rajshahi,Sensor Calibration,In-App Chat,3.4,Resolved,5
+TKT00876,2026-01-31,C01005,D05,Dhaka,Connectivity Issue,Facebook Page,4.1,Resolved,5
+TKT00895,2026-01-31,C00157,D02,Rangpur,General Inquiry,Facebook Page,1.2,Escalated,5
+TKT00768,2026-02-01,C00787,D06,Barishal,Device Setup,In-App Chat,11.9,Resolved,3
+TKT00056,2026-02-01,C00679,D01,Rajshahi,Connectivity Issue,Hotline Call,7.8,Resolved,3
+TKT00817,2026-02-01,C00003,D07,Chattogram,Sensor Calibration,Hotline Call,1.2,Resolved,4
+TKT00832,2026-02-01,C01224,D05,Dhaka,Billing & Payment,Field Agent Visit,3.6,Resolved,5
+TKT00657,2026-02-01,C00018,D01,Rajshahi,Connectivity Issue,Hotline Call,7.1,Escalated,5
+TKT01233,2026-02-01,C00454,D02,Rangpur,Device Setup,Hotline Call,3.9,Resolved,5
+TKT00654,2026-02-01,C00175,D02,Rangpur,Sensor Calibration,In-App Chat,6.9,Resolved,4
+TKT00847,2026-02-01,C01153,D01,Rajshahi,App/Website Issue,Hotline Call,0.8,Resolved,5
+TKT01243,2026-02-02,C01171,D03,Khulna,Connectivity Issue,In-App Chat,1.9,Resolved,4
+TKT00749,2026-02-02,C00024,D07,Chattogram,App/Website Issue,Facebook Page,4.3,Resolved,4
+TKT01179,2026-02-02,C00623,D08,Sylhet,Device Setup,Hotline Call,2.7,Resolved,5
+TKT00735,2026-02-02,C00217,D01,Rajshahi,Device Setup,In-App Chat,2.2,Resolved,4
+TKT00982,2026-02-02,C00707,D06,Barishal,App/Website Issue,Facebook Page,0.5,Resolved,5
+TKT00290,2026-02-03,C00494,D03,Khulna,Device Setup,Field Agent Visit,11.9,Resolved,3
+TKT00626,2026-02-03,C00388,D08,Sylhet,App/Website Issue,Facebook Page,3.4,Resolved,5
+TKT00986,2026-02-04,C00120,D05,Dhaka,Billing & Payment,Facebook Page,1.5,Resolved,4
+TKT01201,2026-02-04,C01027,D08,Sylhet,Sensor Calibration,In-App Chat,2.9,Resolved,5
+TKT00239,2026-02-04,C01044,D05,Dhaka,Device Setup,In-App Chat,3.6,Resolved,4
+TKT00934,2026-02-05,C01015,D03,Khulna,App/Website Issue,Hotline Call,2.4,Resolved,3
+TKT00101,2026-02-05,C00800,D05,Dhaka,Device Setup,In-App Chat,2.0,Resolved,5
+TKT01222,2026-02-05,C00362,D01,Rajshahi,Sensor Calibration,Hotline Call,10.9,Resolved,3
+TKT00002,2026-02-05,C01408,D01,Rajshahi,Sensor Calibration,In-App Chat,5.1,Resolved,3
+TKT01230,2026-02-05,C00165,D04,Mymensingh,General Inquiry,Facebook Page,1.8,Escalated,4
+TKT00186,2026-02-06,C00844,D03,Khulna,Connectivity Issue,In-App Chat,7.9,Resolved,4
+TKT00117,2026-02-06,C00890,D05,Dhaka,Device Setup,In-App Chat,1.7,Resolved,5
+TKT00086,2026-02-06,C00776,D07,Chattogram,Connectivity Issue,Facebook Page,7.4,Resolved,4
+TKT00169,2026-02-06,C00217,D01,Rajshahi,Sensor Calibration,In-App Chat,1.3,Resolved,5
+TKT00472,2026-02-07,C01349,D03,Khulna,Device Setup,Field Agent Visit,3.2,Resolved,3
+TKT00011,2026-02-07,C00939,D07,Chattogram,Connectivity Issue,Field Agent Visit,3.6,Resolved,5
+TKT00596,2026-02-07,C00865,D01,Rajshahi,App/Website Issue,Facebook Page,2.6,Resolved,4
+TKT00106,2026-02-07,C00024,D07,Chattogram,Billing & Payment,In-App Chat,1.6,Pending,4
+TKT00865,2026-02-08,C00801,D06,Barishal,Billing & Payment,Field Agent Visit,1.1,Resolved,4
+TKT00330,2026-02-08,C00451,D01,Rajshahi,Connectivity Issue,Facebook Page,4.1,Resolved,4
+TKT01194,2026-02-08,C00075,D01,Rajshahi,App/Website Issue,Facebook Page,0.5,Resolved,3
+TKT00880,2026-02-08,C01027,D08,Sylhet,App/Website Issue,Facebook Page,3.9,Resolved,5
+TKT00985,2026-02-09,C01310,D08,Sylhet,Connectivity Issue,In-App Chat,0.5,Resolved,4
+TKT00930,2026-02-09,C00021,D06,Barishal,General Inquiry,In-App Chat,1.1,Resolved,5
+TKT00838,2026-02-09,C00090,D04,Mymensingh,Device Setup,Hotline Call,9.2,Resolved,5
+TKT00346,2026-02-09,C01073,D04,Mymensingh,App/Website Issue,In-App Chat,2.3,Resolved,4
+TKT01010,2026-02-09,C01015,D03,Khulna,General Inquiry,Facebook Page,0.6,Resolved,4
+TKT00335,2026-02-09,C01199,D02,Rangpur,Connectivity Issue,In-App Chat,6.1,Resolved,5
+TKT00331,2026-02-09,C00921,D01,Rajshahi,Connectivity Issue,In-App Chat,6.1,Resolved,4
+TKT00036,2026-02-09,C00231,D01,Rajshahi,Device Setup,Hotline Call,5.9,Resolved,3
+TKT00580,2026-02-09,C00709,D03,Khulna,Sensor Calibration,Facebook Page,2.9,Resolved,3
+TKT01212,2026-02-10,C00837,D06,Barishal,Device Setup,In-App Chat,1.7,Resolved,5
+TKT00810,2026-02-10,C01201,D05,Dhaka,General Inquiry,In-App Chat,0.5,Resolved,5
+TKT00636,2026-02-10,C01369,D02,Rangpur,App/Website Issue,Facebook Page,8.8,Resolved,5
+TKT00231,2026-02-10,C00518,D06,Barishal,Billing & Payment,Hotline Call,1.9,Escalated,4
+TKT00085,2026-02-10,C00800,D05,Dhaka,Connectivity Issue,Hotline Call,15.1,Resolved,5
+TKT01151,2026-02-10,C00917,D01,Rajshahi,App/Website Issue,Field Agent Visit,5.7,Pending,4
+TKT00462,2026-02-10,C00056,D06,Barishal,App/Website Issue,In-App Chat,2.8,Resolved,4
+TKT00146,2026-02-10,C01159,D03,Khulna,General Inquiry,Facebook Page,0.7,Resolved,3
+TKT00487,2026-02-10,C00656,D03,Khulna,Billing & Payment,Hotline Call,1.6,Resolved,5
+TKT00881,2026-02-10,C01427,D01,Rajshahi,Billing & Payment,In-App Chat,3.8,Resolved,5
+TKT01078,2026-02-11,C01499,D03,Khulna,Billing & Payment,Hotline Call,1.2,Resolved,4
+TKT00277,2026-02-11,C01220,D01,Rajshahi,General Inquiry,Hotline Call,0.5,Resolved,4
+TKT00253,2026-02-11,C00347,D08,Sylhet,App/Website Issue,Field Agent Visit,1.5,Pending,2
+TKT00866,2026-02-11,C00219,D07,Chattogram,Device Setup,Hotline Call,9.0,Resolved,5
+TKT00924,2026-02-11,C00568,D01,Rajshahi,Device Setup,Facebook Page,3.1,Resolved,5
+TKT00877,2026-02-11,C01209,D02,Rangpur,Sensor Calibration,Hotline Call,1.9,Resolved,3
+TKT01191,2026-02-11,C00697,D06,Barishal,General Inquiry,In-App Chat,0.5,Resolved,4
+TKT00507,2026-02-11,C00285,D05,Dhaka,Connectivity Issue,Hotline Call,7.0,Resolved,3
+TKT00192,2026-02-11,C00179,D07,Chattogram,Connectivity Issue,Facebook Page,15.4,Resolved,4
+TKT01211,2026-02-12,C01174,D06,Barishal,Sensor Calibration,Facebook Page,2.3,Resolved,4
+TKT00184,2026-02-12,C00053,D06,Barishal,Billing & Payment,In-App Chat,6.2,Resolved,4
+TKT00204,2026-02-12,C00757,D03,Khulna,Device Setup,Hotline Call,0.5,Resolved,4
+TKT00352,2026-02-12,C00094,D03,Khulna,Sensor Calibration,Hotline Call,13.4,Resolved,5
+TKT01125,2026-02-12,C00247,D05,Dhaka,Sensor Calibration,Facebook Page,8.5,Resolved,4
+TKT01062,2026-02-12,C00089,D02,Rangpur,Device Setup,In-App Chat,1.0,Pending,4
+TKT00068,2026-02-13,C00316,D03,Khulna,Device Setup,Field Agent Visit,0.9,Pending,3
+TKT00745,2026-02-13,C01382,D01,Rajshahi,Connectivity Issue,Facebook Page,2.1,Resolved,4
+TKT00502,2026-02-13,C00620,D01,Rajshahi,App/Website Issue,Facebook Page,9.1,Resolved,4
+TKT00421,2026-02-13,C01336,D07,Chattogram,Billing & Payment,In-App Chat,6.1,Resolved,5
+TKT00168,2026-02-14,C00035,D04,Mymensingh,Sensor Calibration,Hotline Call,2.1,Resolved,4
+TKT00477,2026-02-14,C00622,D04,Mymensingh,Device Setup,In-App Chat,5.6,Resolved,4
+TKT00043,2026-02-14,C00624,D04,Mymensingh,App/Website Issue,Facebook Page,1.8,Resolved,5
+TKT00855,2026-02-14,C01371,D01,Rajshahi,Billing & Payment,Facebook Page,2.2,Resolved,5
+TKT00221,2026-02-14,C00266,D02,Rangpur,Device Setup,Facebook Page,0.6,Resolved,5
+TKT01115,2026-02-14,C01074,D07,Chattogram,App/Website Issue,Facebook Page,5.0,Resolved,5
+TKT00882,2026-02-14,C00226,D07,Chattogram,Connectivity Issue,In-App Chat,4.1,Resolved,5
+TKT00734,2026-02-15,C00989,D03,Khulna,General Inquiry,Field Agent Visit,0.9,Resolved,5
+TKT00046,2026-02-15,C00294,D01,Rajshahi,General Inquiry,Field Agent Visit,1.8,Resolved,4
+TKT00206,2026-02-15,C01219,D05,Dhaka,Billing & Payment,Field Agent Visit,3.5,Resolved,3
+TKT00607,2026-02-15,C00981,D08,Sylhet,Connectivity Issue,Field Agent Visit,12.9,Resolved,5
+TKT00431,2026-02-15,C01066,D08,Sylhet,Connectivity Issue,Hotline Call,1.0,Resolved,4
+TKT00009,2026-02-15,C01255,D01,Rajshahi,Sensor Calibration,Facebook Page,4.2,Resolved,3
+TKT00598,2026-02-16,C01386,D01,Rajshahi,General Inquiry,Facebook Page,1.2,Resolved,4
+TKT00105,2026-02-16,C01044,D05,Dhaka,Device Setup,Hotline Call,2.2,Resolved,4
+TKT00906,2026-02-16,C00731,D03,Khulna,App/Website Issue,In-App Chat,2.0,Resolved,4
+TKT00979,2026-02-17,C00101,D07,Chattogram,Billing & Payment,In-App Chat,2.5,Resolved,4
+TKT00114,2026-02-17,C00620,D01,Rajshahi,Device Setup,Field Agent Visit,1.7,Resolved,4
+TKT00582,2026-02-17,C00951,D04,Mymensingh,Connectivity Issue,Facebook Page,2.2,Resolved,5
+TKT00465,2026-02-18,C00833,D03,Khulna,General Inquiry,In-App Chat,0.5,Resolved,5
+TKT00476,2026-02-18,C00532,D05,Dhaka,Device Setup,Hotline Call,2.9,Resolved,4
+TKT00690,2026-02-18,C00592,D04,Mymensingh,Device Setup,Hotline Call,4.0,Resolved,5
+TKT00083,2026-02-18,C01396,D01,Rajshahi,Sensor Calibration,Hotline Call,5.2,Resolved,4
+TKT01146,2026-02-18,C00452,D07,Chattogram,Billing & Payment,Field Agent Visit,2.9,Resolved,5
+TKT01103,2026-02-19,C01189,D01,Rajshahi,Connectivity Issue,Hotline Call,8.2,Resolved,4
+TKT00575,2026-02-19,C00640,D07,Chattogram,Sensor Calibration,In-App Chat,6.8,Resolved,4
+TKT00306,2026-02-19,C00895,D06,Barishal,Sensor Calibration,In-App Chat,0.9,Resolved,4
+TKT00481,2026-02-19,C01037,D03,Khulna,General Inquiry,Facebook Page,0.7,Resolved,4
+TKT00695,2026-02-19,C01475,D04,Mymensingh,App/Website Issue,Field Agent Visit,4.5,Resolved,4
+TKT00688,2026-02-19,C00320,D08,Sylhet,Connectivity Issue,Facebook Page,2.2,Resolved,4
+TKT00484,2026-02-20,C00011,D03,Khulna,Billing & Payment,Facebook Page,3.7,Resolved,3
+TKT00742,2026-02-20,C00147,D03,Khulna,Billing & Payment,Facebook Page,1.6,Resolved,3
+TKT00292,2026-02-20,C01431,D07,Chattogram,App/Website Issue,Field Agent Visit,2.2,Resolved,4
+TKT00938,2026-02-20,C01400,D03,Khulna,Device Setup,Hotline Call,3.6,Resolved,5
+TKT00361,2026-02-20,C00296,D07,Chattogram,Sensor Calibration,Hotline Call,2.6,Resolved,5
+TKT00815,2026-02-21,C00264,D01,Rajshahi,Sensor Calibration,Facebook Page,4.0,Escalated,4
+TKT00921,2026-02-21,C00341,D01,Rajshahi,Sensor Calibration,In-App Chat,7.1,Resolved,3
+TKT00171,2026-02-21,C00940,D01,Rajshahi,App/Website Issue,Field Agent Visit,3.1,Resolved,5
+TKT00236,2026-02-22,C00932,D03,Khulna,Device Setup,Hotline Call,1.5,Resolved,4
+TKT00427,2026-02-22,C00894,D01,Rajshahi,Connectivity Issue,In-App Chat,2.2,Resolved,4
+TKT00491,2026-02-22,C00042,D07,Chattogram,Sensor Calibration,Hotline Call,6.1,Resolved,5
+TKT00524,2026-02-22,C01303,D06,Barishal,Connectivity Issue,Facebook Page,9.0,Resolved,5
+TKT01198,2026-02-22,C00423,D01,Rajshahi,Billing & Payment,Facebook Page,2.2,Resolved,3
+TKT00522,2026-02-22,C00687,D03,Khulna,General Inquiry,Hotline Call,1.2,Resolved,5
+TKT00666,2026-02-22,C00043,D05,Dhaka,Connectivity Issue,In-App Chat,4.4,Resolved,3
+TKT00163,2026-02-22,C01291,D04,Mymensingh,Billing & Payment,In-App Chat,2.5,Resolved,3
+TKT00170,2026-02-22,C00129,D01,Rajshahi,Connectivity Issue,Hotline Call,0.7,Resolved,3
+TKT01223,2026-02-22,C00673,D08,Sylhet,Connectivity Issue,Facebook Page,7.0,Resolved,4
+TKT00072,2026-02-22,C01041,D01,Rajshahi,Connectivity Issue,Hotline Call,5.1,Resolved,4
+TKT00178,2026-02-22,C00583,D01,Rajshahi,Sensor Calibration,Facebook Page,16.0,Escalated,3
+TKT01030,2026-02-22,C01476,D04,Mymensingh,Billing & Payment,In-App Chat,0.5,Resolved,5
+TKT00707,2026-02-22,C00683,D01,Rajshahi,Device Setup,In-App Chat,3.6,Resolved,5
+TKT00692,2026-02-22,C01189,D01,Rajshahi,Billing & Payment,In-App Chat,2.2,Escalated,5
+TKT00789,2026-02-22,C00194,D07,Chattogram,Connectivity Issue,Facebook Page,5.4,Resolved,5
+TKT00638,2026-02-23,C00385,D03,Khulna,Connectivity Issue,In-App Chat,1.5,Resolved,4
+TKT00432,2026-02-23,C01347,D03,Khulna,General Inquiry,Hotline Call,0.5,Resolved,5
+TKT01137,2026-02-24,C00163,D02,Rangpur,App/Website Issue,Hotline Call,8.6,Resolved,5
+TKT01193,2026-02-24,C01350,D01,Rajshahi,Device Setup,In-App Chat,3.3,Resolved,5
+TKT01175,2026-02-24,C00575,D07,Chattogram,Billing & Payment,Facebook Page,1.9,Resolved,5
+TKT01219,2026-02-24,C00937,D08,Sylhet,App/Website Issue,In-App Chat,2.8,Resolved,4
+TKT00355,2026-02-24,C00172,D04,Mymensingh,Device Setup,Hotline Call,8.6,Resolved,4
+TKT00497,2026-02-24,C01449,D05,Dhaka,General Inquiry,Facebook Page,0.6,Resolved,3
+TKT00615,2026-02-24,C00249,D03,Khulna,Sensor Calibration,Field Agent Visit,0.5,Resolved,3
+TKT00398,2026-02-24,C00470,D04,Mymensingh,Connectivity Issue,In-App Chat,3.0,Resolved,4
+TKT00254,2026-02-24,C01474,D04,Mymensingh,Device Setup,Hotline Call,1.3,Resolved,5
+TKT00234,2026-02-24,C01278,D01,Rajshahi,Sensor Calibration,Facebook Page,3.9,Resolved,5
+TKT00203,2026-02-24,C00751,D02,Rangpur,Connectivity Issue,In-App Chat,0.7,Resolved,2
+TKT00954,2026-02-24,C00360,D05,Dhaka,Connectivity Issue,In-App Chat,10.5,Resolved,4
+TKT00693,2026-02-25,C01036,D05,Dhaka,Connectivity Issue,In-App Chat,5.8,Resolved,5
+TKT00298,2026-02-25,C01390,D01,Rajshahi,Device Setup,Facebook Page,1.0,Pending,4
+TKT01027,2026-02-25,C01250,D07,Chattogram,General Inquiry,In-App Chat,1.7,Resolved,4
+TKT00831,2026-02-25,C00646,D07,Chattogram,Device Setup,In-App Chat,4.8,Resolved,5
+TKT00161,2026-02-25,C00835,D06,Barishal,General Inquiry,In-App Chat,1.6,Resolved,4
+TKT00474,2026-02-26,C00476,D02,Rangpur,Device Setup,Hotline Call,2.2,Resolved,5
+TKT00498,2026-02-26,C00790,D05,Dhaka,App/Website Issue,Hotline Call,3.2,Resolved,3
+TKT00883,2026-02-26,C01012,D05,Dhaka,Device Setup,Facebook Page,4.9,Resolved,5
+TKT01135,2026-02-26,C01037,D03,Khulna,Device Setup,Field Agent Visit,2.9,Resolved,4
+TKT00757,2026-02-26,C00778,D02,Rangpur,Sensor Calibration,In-App Chat,7.6,Resolved,5
+TKT00013,2026-02-26,C01367,D02,Rangpur,App/Website Issue,In-App Chat,1.3,Resolved,5
+TKT00130,2026-02-26,C00654,D02,Rangpur,App/Website Issue,Field Agent Visit,2.2,Resolved,5
+TKT00726,2026-02-27,C00941,D02,Rangpur,App/Website Issue,Facebook Page,8.9,Resolved,4
+TKT00237,2026-02-27,C00081,D05,Dhaka,App/Website Issue,Field Agent Visit,1.7,Resolved,2
+TKT00586,2026-02-27,C01172,D06,Barishal,Billing & Payment,Hotline Call,1.9,Escalated,4
+TKT00004,2026-02-27,C00084,D02,Rangpur,App/Website Issue,Hotline Call,5.6,Resolved,4
+TKT00508,2026-02-27,C00174,D07,Chattogram,Device Setup,Facebook Page,3.1,Resolved,5
+TKT00635,2026-02-27,C00734,D03,Khulna,App/Website Issue,Field Agent Visit,1.2,Resolved,5
+TKT00723,2026-02-28,C00491,D05,Dhaka,Device Setup,Facebook Page,5.1,Resolved,5
+TKT00038,2026-02-28,C00028,D01,Rajshahi,Connectivity Issue,Hotline Call,5.7,Resolved,4
+TKT00558,2026-02-28,C01430,D04,Mymensingh,Billing & Payment,Hotline Call,1.1,Resolved,5
+TKT00174,2026-02-28,C00859,D03,Khulna,Device Setup,Field Agent Visit,8.1,Resolved,5
+TKT00859,2026-03-01,C00001,D06,Barishal,Billing & Payment,Field Agent Visit,2.6,Resolved,4
+TKT00843,2026-03-01,C00013,D05,Dhaka,Billing & Payment,Facebook Page,2.0,Resolved,4
+TKT00353,2026-03-01,C00986,D07,Chattogram,App/Website Issue,In-App Chat,0.5,Resolved,5
+TKT01051,2026-03-01,C00655,D07,Chattogram,Device Setup,Hotline Call,5.3,Resolved,3
+TKT00177,2026-03-01,C00741,D01,Rajshahi,App/Website Issue,Field Agent Visit,3.6,Resolved,4
+TKT00006,2026-03-01,C00127,D03,Khulna,Connectivity Issue,Field Agent Visit,13.1,Resolved,5
+TKT00100,2026-03-01,C01308,D05,Dhaka,Device Setup,In-App Chat,2.1,Resolved,4
+TKT00470,2026-03-02,C01439,D07,Chattogram,Sensor Calibration,Field Agent Visit,2.7,Resolved,5
+TKT00957,2026-03-02,C00952,D02,Rangpur,Sensor Calibration,Hotline Call,2.4,Resolved,5
+TKT00153,2026-03-02,C01381,D03,Khulna,Connectivity Issue,Facebook Page,4.4,Resolved,4
+TKT01032,2026-03-02,C00742,D01,Rajshahi,App/Website Issue,Facebook Page,8.1,Resolved,5
+TKT00517,2026-03-02,C01379,D05,Dhaka,App/Website Issue,In-App Chat,3.3,Resolved,3
+TKT00405,2026-03-03,C01027,D08,Sylhet,General Inquiry,In-App Chat,2.2,Resolved,3
+TKT00388,2026-03-03,C00666,D05,Dhaka,Connectivity Issue,In-App Chat,6.3,Escalated,4
+TKT00334,2026-03-03,C00906,D05,Dhaka,Device Setup,Hotline Call,12.9,Resolved,5
+TKT00797,2026-03-03,C01193,D07,Chattogram,Connectivity Issue,Facebook Page,4.4,Resolved,4
+TKT00284,2026-03-03,C01339,D07,Chattogram,Sensor Calibration,In-App Chat,4.2,Resolved,5
+TKT00747,2026-03-03,C01419,D07,Chattogram,Device Setup,Facebook Page,2.9,Resolved,5
+TKT00683,2026-03-04,C01327,D03,Khulna,Device Setup,In-App Chat,3.9,Escalated,5
+TKT00903,2026-03-04,C01174,D06,Barishal,App/Website Issue,In-App Chat,1.9,Resolved,4
+TKT00401,2026-03-04,C00678,D04,Mymensingh,Device Setup,Facebook Page,2.0,Resolved,5
+TKT00445,2026-03-04,C01249,D07,Chattogram,Connectivity Issue,Facebook Page,8.7,Resolved,1
+TKT01007,2026-03-04,C01484,D02,Rangpur,Connectivity Issue,In-App Chat,3.1,Resolved,5
+TKT00722,2026-03-04,C00096,D05,Dhaka,General Inquiry,In-App Chat,0.9,Resolved,5
+TKT00415,2026-03-04,C00752,D03,Khulna,App/Website Issue,In-App Chat,1.9,Resolved,3
+TKT00812,2026-03-05,C00891,D03,Khulna,General Inquiry,In-App Chat,0.9,Resolved,4
+TKT00268,2026-03-05,C00064,D06,Barishal,Billing & Payment,Hotline Call,1.8,Resolved,5
+TKT00956,2026-03-05,C01348,D03,Khulna,App/Website Issue,Hotline Call,3.2,Resolved,4
+TKT00399,2026-03-06,C00108,D02,Rangpur,Sensor Calibration,Facebook Page,2.3,Resolved,4
+TKT00240,2026-03-06,C01167,D07,Chattogram,Sensor Calibration,Field Agent Visit,14.7,Resolved,5
+TKT01081,2026-03-07,C00919,D02,Rangpur,Device Setup,In-App Chat,4.8,Resolved,5
+TKT00028,2026-03-07,C00406,D07,Chattogram,Billing & Payment,In-App Chat,2.6,Resolved,5
+TKT00322,2026-03-07,C00240,D01,Rajshahi,Billing & Payment,Facebook Page,8.0,Resolved,4
+TKT00230,2026-03-07,C00838,D08,Sylhet,Device Setup,Hotline Call,4.2,Resolved,3
+TKT00565,2026-03-07,C01188,D08,Sylhet,Device Setup,Field Agent Visit,5.3,Resolved,4
+TKT00977,2026-03-07,C01485,D05,Dhaka,Device Setup,In-App Chat,3.6,Resolved,5
+TKT00149,2026-03-07,C00787,D06,Barishal,Connectivity Issue,Facebook Page,2.4,Resolved,3
+TKT00897,2026-03-08,C00156,D05,Dhaka,Device Setup,In-App Chat,3.5,Resolved,5
+TKT00675,2026-03-08,C00322,D04,Mymensingh,General Inquiry,Field Agent Visit,1.8,Escalated,5
+TKT01048,2026-03-08,C00749,D06,Barishal,Device Setup,Hotline Call,13.1,Resolved,4
+TKT00504,2026-03-08,C00953,D02,Rangpur,App/Website Issue,Facebook Page,0.5,Escalated,5
+TKT00243,2026-03-08,C00626,D03,Khulna,App/Website Issue,In-App Chat,1.6,Resolved,5
+TKT00400,2026-03-08,C00266,D02,Rangpur,App/Website Issue,Hotline Call,3.0,Resolved,4
+TKT00005,2026-03-08,C00191,D07,Chattogram,App/Website Issue,In-App Chat,5.3,Resolved,3
+TKT00530,2026-03-09,C00324,D04,Mymensingh,App/Website Issue,In-App Chat,3.4,Resolved,4
+TKT00003,2026-03-09,C00067,D04,Mymensingh,Device Setup,Facebook Page,1.6,Resolved,5
+TKT00822,2026-03-09,C00373,D03,Khulna,Sensor Calibration,Hotline Call,2.9,Resolved,5
+TKT00974,2026-03-09,C00432,D06,Barishal,Sensor Calibration,In-App Chat,0.5,Resolved,5
+TKT00051,2026-03-09,C00913,D07,Chattogram,Sensor Calibration,In-App Chat,1.9,Pending,4
+TKT00340,2026-03-09,C00113,D02,Rangpur,General Inquiry,Field Agent Visit,0.5,Resolved,3
+TKT01012,2026-03-09,C01220,D01,Rajshahi,Device Setup,Hotline Call,0.5,Escalated,5
+TKT00440,2026-03-10,C00953,D02,Rangpur,Device Setup,Facebook Page,4.3,Resolved,3
+TKT00814,2026-03-10,C00644,D02,Rangpur,Sensor Calibration,Field Agent Visit,5.3,Resolved,4
+TKT00459,2026-03-10,C00235,D07,Chattogram,Connectivity Issue,In-App Chat,14.6,Resolved,5
+TKT01157,2026-03-11,C00311,D04,Mymensingh,Connectivity Issue,Facebook Page,0.8,Resolved,4
+TKT01186,2026-03-11,C00320,D08,Sylhet,Billing & Payment,Hotline Call,9.7,Resolved,3
+TKT00194,2026-03-11,C00291,D07,Chattogram,Connectivity Issue,Facebook Page,1.1,Resolved,4
+TKT00532,2026-03-11,C01500,D05,Dhaka,Connectivity Issue,Facebook Page,5.6,Resolved,5
+TKT00689,2026-03-11,C00274,D05,Dhaka,General Inquiry,In-App Chat,3.2,Resolved,4
+TKT00029,2026-03-11,C01454,D08,Sylhet,Billing & Payment,Field Agent Visit,0.5,Resolved,3
+TKT00282,2026-03-11,C00037,D01,Rajshahi,General Inquiry,In-App Chat,0.5,Resolved,4
+TKT00712,2026-03-11,C00320,D08,Sylhet,App/Website Issue,Field Agent Visit,1.3,Resolved,5
+TKT00032,2026-03-12,C00845,D01,Rajshahi,Connectivity Issue,In-App Chat,2.4,Resolved,4
+TKT01124,2026-03-12,C01052,D01,Rajshahi,Device Setup,Hotline Call,2.2,Resolved,5
+TKT01075,2026-03-12,C00632,D07,Chattogram,App/Website Issue,Field Agent Visit,4.6,Resolved,4
+TKT00741,2026-03-12,C01264,D08,Sylhet,Connectivity Issue,Facebook Page,7.7,Resolved,5
+TKT00572,2026-03-12,C00728,D01,Rajshahi,App/Website Issue,In-App Chat,0.5,Resolved,4
+TKT00813,2026-03-12,C00672,D05,Dhaka,Sensor Calibration,In-App Chat,3.0,Resolved,5
+TKT00089,2026-03-12,C00077,D02,Rangpur,Device Setup,Hotline Call,1.3,Resolved,3
+TKT00404,2026-03-13,C00785,D08,Sylhet,Billing & Payment,In-App Chat,1.5,Resolved,4
+TKT00249,2026-03-13,C00734,D03,Khulna,Connectivity Issue,In-App Chat,11.4,Resolved,4
+TKT01033,2026-03-13,C00250,D03,Khulna,Billing & Payment,Facebook Page,0.8,Escalated,5
+TKT00728,2026-03-13,C01189,D01,Rajshahi,Connectivity Issue,Facebook Page,19.4,Resolved,4
+TKT01141,2026-03-13,C00795,D01,Rajshahi,Connectivity Issue,Facebook Page,5.6,Resolved,4
+TKT01181,2026-03-13,C01256,D07,Chattogram,Device Setup,In-App Chat,8.0,Resolved,4
+TKT00235,2026-03-13,C00754,D04,Mymensingh,General Inquiry,Hotline Call,0.8,Resolved,5
+TKT00890,2026-03-14,C00442,D01,Rajshahi,App/Website Issue,In-App Chat,4.7,Resolved,4
+TKT00179,2026-03-14,C01462,D04,Mymensingh,App/Website Issue,Facebook Page,0.5,Resolved,4
+TKT00583,2026-03-14,C00168,D06,Barishal,General Inquiry,In-App Chat,1.0,Resolved,5
+TKT00307,2026-03-14,C00108,D02,Rangpur,General Inquiry,Hotline Call,0.6,Resolved,4
+TKT01046,2026-03-14,C01225,D02,Rangpur,Device Setup,In-App Chat,1.7,Resolved,4
+TKT00926,2026-03-14,C01087,D06,Barishal,Billing & Payment,Facebook Page,0.6,Resolved,4
+TKT00033,2026-03-14,C01209,D02,Rangpur,General Inquiry,Hotline Call,2.6,Pending,4
+TKT00842,2026-03-14,C00219,D07,Chattogram,Device Setup,In-App Chat,1.1,Pending,5
+TKT00513,2026-03-15,C00539,D02,Rangpur,General Inquiry,Field Agent Visit,0.5,Resolved,4
+TKT00993,2026-03-15,C00608,D01,Rajshahi,General Inquiry,In-App Chat,1.1,Resolved,4
+TKT00653,2026-03-15,C00894,D01,Rajshahi,Device Setup,Hotline Call,4.0,Resolved,4
+TKT00132,2026-03-16,C01096,D03,Khulna,General Inquiry,Hotline Call,2.4,Resolved,5
+TKT00423,2026-03-16,C00589,D02,Rangpur,Connectivity Issue,Field Agent Visit,11.1,Resolved,4
+TKT00278,2026-03-16,C01106,D06,Barishal,App/Website Issue,In-App Chat,4.3,Resolved,4
+TKT00557,2026-03-16,C01243,D03,Khulna,App/Website Issue,Hotline Call,1.9,Resolved,4
+TKT00412,2026-03-16,C01223,D07,Chattogram,App/Website Issue,In-App Chat,3.0,Resolved,5
+TKT00556,2026-03-16,C00820,D02,Rangpur,App/Website Issue,In-App Chat,5.8,Resolved,5
+TKT00180,2026-03-16,C01084,D07,Chattogram,Billing & Payment,In-App Chat,0.5,Resolved,5
+TKT00145,2026-03-17,C00942,D07,Chattogram,Connectivity Issue,In-App Chat,4.6,Escalated,5
+TKT00686,2026-03-17,C01456,D01,Rajshahi,General Inquiry,Field Agent Visit,0.6,Resolved,5
+TKT01143,2026-03-17,C00577,D07,Chattogram,Connectivity Issue,Hotline Call,6.5,Resolved,4
+TKT01077,2026-03-18,C01493,D05,Dhaka,General Inquiry,Hotline Call,0.9,Resolved,4
+TKT01021,2026-03-18,C01419,D07,Chattogram,Sensor Calibration,In-App Chat,4.4,Resolved,4
+TKT00378,2026-03-18,C00378,D03,Khulna,Billing & Payment,Field Agent Visit,3.7,Resolved,5
+TKT00549,2026-03-18,C00846,D07,Chattogram,Sensor Calibration,In-App Chat,6.5,Resolved,1
+TKT00109,2026-03-18,C00890,D05,Dhaka,Sensor Calibration,Field Agent Visit,7.8,Resolved,3
+TKT00111,2026-03-18,C00553,D02,Rangpur,Device Setup,Hotline Call,6.1,Resolved,4
+TKT00962,2026-03-18,C00088,D04,Mymensingh,General Inquiry,Field Agent Visit,0.8,Escalated,4
+TKT01162,2026-03-18,C01439,D07,Chattogram,Sensor Calibration,In-App Chat,9.2,Resolved,5
+TKT00417,2026-03-18,C00650,D01,Rajshahi,Sensor Calibration,Facebook Page,2.5,Resolved,3
+TKT00905,2026-03-19,C01452,D05,Dhaka,General Inquiry,Facebook Page,0.5,Resolved,4
+TKT00537,2026-03-19,C00548,D01,Rajshahi,Sensor Calibration,In-App Chat,0.6,Resolved,5
+TKT00786,2026-03-19,C01485,D05,Dhaka,Billing & Payment,In-App Chat,0.5,Resolved,5
+TKT00655,2026-03-19,C00742,D01,Rajshahi,App/Website Issue,Field Agent Visit,2.4,Resolved,5
+TKT01106,2026-03-19,C00577,D07,Chattogram,App/Website Issue,Facebook Page,2.1,Resolved,4
+TKT01087,2026-03-19,C00163,D02,Rangpur,Sensor Calibration,In-App Chat,7.9,Resolved,4
+TKT01164,2026-03-19,C00228,D04,Mymensingh,Device Setup,Field Agent Visit,0.5,Resolved,4
+TKT00589,2026-03-19,C00432,D06,Barishal,General Inquiry,Field Agent Visit,4.4,Resolved,5
+TKT01034,2026-03-19,C01052,D01,Rajshahi,Device Setup,In-App Chat,1.3,Resolved,5
+TKT00578,2026-03-20,C00650,D01,Rajshahi,Connectivity Issue,Hotline Call,11.2,Resolved,4
+TKT01058,2026-03-20,C00436,D02,Rangpur,Sensor Calibration,In-App Chat,10.2,Resolved,5
+TKT00840,2026-03-20,C00163,D02,Rangpur,Sensor Calibration,Hotline Call,8.6,Resolved,5
+TKT01232,2026-03-20,C01316,D05,Dhaka,Device Setup,Hotline Call,5.2,Resolved,3
+TKT00663,2026-03-20,C01195,D07,Chattogram,App/Website Issue,In-App Chat,1.1,Resolved,4
+TKT00233,2026-03-20,C00227,D01,Rajshahi,General Inquiry,In-App Chat,1.2,Resolved,4
+TKT01171,2026-03-21,C01140,D05,Dhaka,Sensor Calibration,Field Agent Visit,6.8,Pending,5
+TKT00471,2026-03-21,C00895,D06,Barishal,Billing & Payment,Hotline Call,1.7,Resolved,3
+TKT00034,2026-03-21,C01457,D02,Rangpur,Billing & Payment,In-App Chat,2.1,Resolved,4
+TKT00628,2026-03-21,C00534,D05,Dhaka,Billing & Payment,In-App Chat,2.9,Resolved,4
+TKT01094,2026-03-21,C00092,D05,Dhaka,General Inquiry,In-App Chat,1.3,Resolved,5
+TKT01228,2026-03-22,C00324,D04,Mymensingh,App/Website Issue,In-App Chat,2.2,Resolved,5
+TKT01013,2026-03-22,C00560,D04,Mymensingh,Device Setup,Hotline Call,1.2,Resolved,3
+TKT00950,2026-03-22,C01332,D04,Mymensingh,General Inquiry,Hotline Call,1.2,Resolved,3
+TKT00774,2026-03-22,C00191,D07,Chattogram,Connectivity Issue,In-App Chat,6.6,Resolved,4
+TKT01117,2026-03-22,C00134,D03,Khulna,App/Website Issue,In-App Chat,3.7,Resolved,2
+TKT01190,2026-03-22,C00194,D07,Chattogram,General Inquiry,Facebook Page,0.7,Resolved,3
+TKT01210,2026-03-22,C00791,D02,Rangpur,Sensor Calibration,Facebook Page,4.0,Resolved,4
+TKT01187,2026-03-22,C00631,D07,Chattogram,Connectivity Issue,Hotline Call,2.7,Resolved,5
+TKT00212,2026-03-22,C00064,D06,Barishal,App/Website Issue,In-App Chat,2.7,Resolved,5
+TKT00510,2026-03-23,C00255,D02,Rangpur,General Inquiry,In-App Chat,1.6,Resolved,4
+TKT00263,2026-03-23,C00289,D04,Mymensingh,Sensor Calibration,Field Agent Visit,14.7,Escalated,5
+TKT00365,2026-03-23,C01304,D02,Rangpur,Device Setup,Hotline Call,3.1,Resolved,3
+TKT01068,2026-03-23,C00257,D06,Barishal,Connectivity Issue,Hotline Call,2.6,Resolved,5
+TKT01044,2026-03-24,C01139,D01,Rajshahi,Device Setup,In-App Chat,0.5,Resolved,4
+TKT00157,2026-03-25,C01288,D03,Khulna,General Inquiry,In-App Chat,0.5,Resolved,3
+TKT00953,2026-03-25,C00967,D08,Sylhet,Connectivity Issue,Facebook Page,8.5,Resolved,3
+TKT00500,2026-03-25,C00901,D04,Mymensingh,Device Setup,Hotline Call,2.9,Resolved,5
+TKT00202,2026-03-25,C00046,D06,Barishal,Device Setup,Facebook Page,6.3,Resolved,4
+TKT01063,2026-03-25,C00915,D08,Sylhet,General Inquiry,In-App Chat,1.2,Escalated,5
+TKT00030,2026-03-25,C01254,D05,Dhaka,General Inquiry,Hotline Call,0.5,Resolved,5
+TKT00119,2026-03-25,C00083,D06,Barishal,Device Setup,Hotline Call,2.5,Resolved,4
+TKT00637,2026-03-25,C01443,D01,Rajshahi,Billing & Payment,In-App Chat,3.2,Resolved,4
+TKT01203,2026-03-25,C00378,D03,Khulna,Sensor Calibration,Field Agent Visit,0.6,Resolved,3
+TKT00454,2026-03-25,C00786,D03,Khulna,Device Setup,In-App Chat,0.7,Resolved,5
+TKT00264,2026-03-25,C00343,D06,Barishal,Connectivity Issue,In-App Chat,16.1,Resolved,4
+TKT01220,2026-03-26,C00072,D03,Khulna,Billing & Payment,Field Agent Visit,1.8,Resolved,3
+TKT00271,2026-03-26,C01358,D04,Mymensingh,Connectivity Issue,In-App Chat,1.0,Resolved,4
+TKT00994,2026-03-26,C00237,D04,Mymensingh,Sensor Calibration,Hotline Call,11.4,Resolved,5
+TKT00602,2026-03-26,C00669,D02,Rangpur,General Inquiry,In-App Chat,0.5,Resolved,5
+TKT00852,2026-03-26,C00190,D02,Rangpur,Device Setup,In-App Chat,1.5,Escalated,3
+TKT00078,2026-03-26,C00453,D05,Dhaka,Device Setup,Field Agent Visit,0.9,Resolved,2
+TKT00878,2026-03-26,C00330,D02,Rangpur,Device Setup,In-App Chat,5.3,Resolved,4
+TKT00024,2026-03-26,C00176,D01,Rajshahi,Sensor Calibration,In-App Chat,1.7,Resolved,3
+TKT00780,2026-03-26,C00447,D08,Sylhet,Sensor Calibration,Hotline Call,2.3,Resolved,5
+TKT00514,2026-03-27,C00325,D07,Chattogram,Connectivity Issue,Hotline Call,13.8,Resolved,5
+TKT00300,2026-03-28,C00858,D07,Chattogram,App/Website Issue,Hotline Call,2.9,Resolved,5
+TKT01074,2026-03-29,C00064,D06,Barishal,Sensor Calibration,In-App Chat,11.1,Resolved,4
+TKT00680,2026-03-29,C01102,D03,Khulna,Device Setup,In-App Chat,8.7,Resolved,4
+TKT01172,2026-03-29,C01427,D01,Rajshahi,App/Website Issue,In-App Chat,2.7,Resolved,4
+TKT01244,2026-03-29,C00777,D05,Dhaka,App/Website Issue,Field Agent Visit,1.8,Resolved,5
+TKT00601,2026-03-29,C00421,D05,Dhaka,Sensor Calibration,Hotline Call,3.8,Resolved,3
+TKT01018,2026-03-30,C00865,D01,Rajshahi,General Inquiry,In-App Chat,1.5,Pending,4
+TKT00198,2026-03-30,C01145,D03,Khulna,Billing & Payment,In-App Chat,1.8,Resolved,3
+TKT00134,2026-03-31,C01336,D07,Chattogram,Connectivity Issue,In-App Chat,6.4,Resolved,4
+TKT00612,2026-03-31,C00686,D03,Khulna,Connectivity Issue,Hotline Call,5.2,Resolved,5
+TKT00588,2026-03-31,C00700,D02,Rangpur,Connectivity Issue,In-App Chat,1.8,Resolved,5
+TKT00127,2026-03-31,C00715,D06,Barishal,Device Setup,Hotline Call,0.5,Resolved,4
+TKT00022,2026-03-31,C00066,D04,Mymensingh,Device Setup,Facebook Page,0.9,Resolved,5
+TKT01041,2026-03-31,C00186,D05,Dhaka,Billing & Payment,Hotline Call,2.1,Resolved,5
+TKT00951,2026-03-31,C00904,D04,Mymensingh,Device Setup,Hotline Call,2.1,Resolved,5
+TKT01022,2026-04-01,C01084,D07,Chattogram,Sensor Calibration,Hotline Call,9.5,Pending,4
+TKT00084,2026-04-01,C01130,D08,Sylhet,App/Website Issue,Hotline Call,0.5,Resolved,4
+TKT00122,2026-04-01,C00578,D05,Dhaka,Connectivity Issue,Field Agent Visit,5.0,Pending,4
+TKT00123,2026-04-01,C00989,D03,Khulna,General Inquiry,Field Agent Visit,1.0,Resolved,5
+TKT01167,2026-04-01,C00771,D02,Rangpur,App/Website Issue,In-App Chat,1.3,Resolved,4
+TKT01183,2026-04-01,C00280,D07,Chattogram,Connectivity Issue,Facebook Page,2.3,Pending,4
+TKT00344,2026-04-01,C00541,D08,Sylhet,Device Setup,Hotline Call,1.0,Resolved,1
+TKT00773,2026-04-02,C00647,D01,Rajshahi,Sensor Calibration,Facebook Page,8.6,Resolved,4
+TKT00380,2026-04-02,C01463,D02,Rangpur,General Inquiry,Facebook Page,0.5,Resolved,3
+TKT00928,2026-04-02,C00096,D05,Dhaka,App/Website Issue,Hotline Call,6.4,Resolved,4
+TKT00120,2026-04-02,C01261,D01,Rajshahi,General Inquiry,In-App Chat,0.9,Resolved,5
+TKT00071,2026-04-02,C01348,D03,Khulna,Sensor Calibration,In-App Chat,2.9,Resolved,5
+TKT00181,2026-04-02,C01112,D03,Khulna,App/Website Issue,In-App Chat,2.9,Resolved,5
+TKT01216,2026-04-02,C00207,D01,Rajshahi,Sensor Calibration,In-App Chat,3.3,Escalated,4
+TKT00512,2026-04-02,C00172,D04,Mymensingh,Connectivity Issue,Facebook Page,6.1,Resolved,3
+TKT01182,2026-04-02,C01466,D05,Dhaka,Device Setup,In-App Chat,3.9,Resolved,5
+TKT00414,2026-04-03,C00316,D03,Khulna,Device Setup,In-App Chat,2.5,Resolved,4
+TKT01038,2026-04-03,C00893,D02,Rangpur,App/Website Issue,Hotline Call,3.9,Resolved,4
+TKT00857,2026-04-03,C00458,D04,Mymensingh,Connectivity Issue,In-App Chat,3.2,Resolved,5
+TKT00571,2026-04-03,C00256,D06,Barishal,Device Setup,In-App Chat,2.6,Escalated,3
+TKT01206,2026-04-03,C00688,D08,Sylhet,App/Website Issue,In-App Chat,5.0,Resolved,3
+TKT00940,2026-04-03,C00777,D05,Dhaka,Billing & Payment,Hotline Call,2.9,Resolved,4
+TKT00724,2026-04-03,C00761,D05,Dhaka,Connectivity Issue,Facebook Page,7.5,Resolved,5
+TKT00893,2026-04-03,C00529,D06,Barishal,App/Website Issue,Hotline Call,3.6,Resolved,5
+TKT00256,2026-04-03,C01046,D03,Khulna,Device Setup,In-App Chat,0.8,Escalated,5
+TKT01036,2026-04-04,C01339,D07,Chattogram,General Inquiry,Hotline Call,0.8,Resolved,3
+TKT00590,2026-04-04,C00569,D03,Khulna,Sensor Calibration,In-App Chat,4.8,Resolved,4
+TKT00698,2026-04-04,C00964,D01,Rajshahi,Billing & Payment,Facebook Page,0.5,Resolved,4
+TKT01061,2026-04-04,C00970,D02,Rangpur,General Inquiry,Hotline Call,0.8,Pending,4
+TKT00287,2026-04-04,C01496,D05,Dhaka,Sensor Calibration,Field Agent Visit,17.2,Escalated,4
+TKT00548,2026-04-05,C00280,D07,Chattogram,Billing & Payment,Hotline Call,2.2,Resolved,4
+TKT01031,2026-04-05,C01422,D04,Mymensingh,General Inquiry,In-App Chat,1.1,Pending,3
+TKT01015,2026-04-05,C00255,D02,Rangpur,Billing & Payment,Hotline Call,3.0,Escalated,4
+TKT00443,2026-04-05,C01241,D07,Chattogram,Connectivity Issue,Hotline Call,0.9,Resolved,5
+TKT00887,2026-04-05,C01125,D03,Khulna,Device Setup,Field Agent Visit,3.7,Pending,3
+TKT01099,2026-04-05,C00314,D03,Khulna,Connectivity Issue,Facebook Page,7.5,Resolved,4
+TKT00435,2026-04-05,C00036,D02,Rangpur,App/Website Issue,Hotline Call,3.4,Pending,4
+TKT01056,2026-04-05,C00213,D02,Rangpur,App/Website Issue,In-App Chat,1.4,Resolved,4
+TKT01037,2026-04-05,C01304,D02,Rangpur,Device Setup,In-App Chat,5.1,Escalated,4
+TKT00062,2026-04-05,C00524,D05,Dhaka,App/Website Issue,Hotline Call,1.1,Resolved,5
+TKT01071,2026-04-06,C00027,D04,Mymensingh,Connectivity Issue,Field Agent Visit,3.4,Resolved,4
+TKT00927,2026-04-06,C00444,D02,Rangpur,Connectivity Issue,Hotline Call,2.5,Resolved,2
+TKT00060,2026-04-06,C01386,D01,Rajshahi,Sensor Calibration,In-App Chat,2.9,Resolved,4
+TKT00363,2026-04-06,C01358,D04,Mymensingh,Billing & Payment,Facebook Page,1.9,Resolved,4
+TKT00302,2026-04-06,C01321,D04,Mymensingh,General Inquiry,In-App Chat,0.5,Resolved,4
+TKT00610,2026-04-06,C01474,D04,Mymensingh,App/Website Issue,Hotline Call,2.7,Resolved,3
+TKT00155,2026-04-06,C00055,D05,Dhaka,Billing & Payment,Hotline Call,2.9,Resolved,4
+TKT01158,2026-04-06,C01126,D04,Mymensingh,App/Website Issue,Facebook Page,1.2,Resolved,5
+TKT00489,2026-04-07,C01202,D04,Mymensingh,Connectivity Issue,Hotline Call,0.6,Resolved,4
+TKT00937,2026-04-07,C00256,D06,Barishal,Connectivity Issue,Facebook Page,4.3,Pending,5
+TKT00349,2026-04-07,C00218,D01,Rajshahi,Billing & Payment,In-App Chat,4.2,Resolved,5
+TKT00196,2026-04-07,C00081,D05,Dhaka,Sensor Calibration,Hotline Call,0.5,Resolved,5
+TKT01126,2026-04-07,C00070,D03,Khulna,App/Website Issue,Field Agent Visit,6.5,Resolved,3
+TKT00458,2026-04-07,C00194,D07,Chattogram,Billing & Payment,In-App Chat,1.9,Resolved,5
+TKT00899,2026-04-07,C00286,D03,Khulna,Billing & Payment,Facebook Page,2.1,Resolved,5
+TKT00781,2026-04-07,C01140,D05,Dhaka,Device Setup,Facebook Page,0.5,Resolved,5
+TKT00996,2026-04-07,C00791,D02,Rangpur,Connectivity Issue,Facebook Page,3.0,Resolved,4
+TKT01166,2026-04-07,C01329,D02,Rangpur,Connectivity Issue,Field Agent Visit,2.2,Resolved,3
+TKT01054,2026-04-07,C00307,D03,Khulna,Sensor Calibration,In-App Chat,0.8,Resolved,5
+TKT00483,2026-04-07,C00799,D06,Barishal,App/Website Issue,Hotline Call,3.1,Resolved,4
+TKT00305,2026-04-07,C00895,D06,Barishal,Device Setup,Facebook Page,1.7,Resolved,4
+TKT00708,2026-04-08,C00693,D02,Rangpur,Billing & Payment,Field Agent Visit,0.8,Resolved,5
+TKT01119,2026-04-08,C00044,D03,Khulna,Connectivity Issue,In-App Chat,1.8,Resolved,3
+TKT00546,2026-04-08,C00727,D02,Rangpur,Sensor Calibration,In-App Chat,2.3,Resolved,4
+TKT00314,2026-04-08,C01321,D04,Mymensingh,Connectivity Issue,Hotline Call,2.9,Escalated,4
+TKT00568,2026-04-08,C00558,D04,Mymensingh,Billing & Payment,In-App Chat,0.5,Resolved,3
+TKT00438,2026-04-08,C00459,D06,Barishal,App/Website Issue,Field Agent Visit,0.5,Resolved,5
+TKT00108,2026-04-08,C01334,D08,Sylhet,Sensor Calibration,Hotline Call,8.0,Resolved,5
+TKT00358,2026-04-09,C01151,D01,Rajshahi,Connectivity Issue,In-App Chat,3.2,Resolved,4
+TKT00547,2026-04-09,C01312,D07,Chattogram,App/Website Issue,Hotline Call,0.5,Resolved,4
+TKT01156,2026-04-09,C00064,D06,Barishal,Billing & Payment,In-App Chat,4.7,Escalated,4
+TKT00788,2026-04-09,C01392,D07,Chattogram,Sensor Calibration,In-App Chat,10.7,Resolved,4
+TKT00642,2026-04-09,C00131,D02,Rangpur,Sensor Calibration,Facebook Page,1.6,Resolved,3
+TKT00591,2026-04-09,C00617,D06,Barishal,Connectivity Issue,Facebook Page,5.8,Resolved,3
+TKT00925,2026-04-09,C01350,D01,Rajshahi,Billing & Payment,In-App Chat,2.4,Resolved,5
+TKT00864,2026-04-10,C00210,D04,Mymensingh,Billing & Payment,Facebook Page,2.9,Resolved,4
+TKT00473,2026-04-10,C00629,D04,Mymensingh,App/Website Issue,In-App Chat,4.5,Resolved,5
+TKT00756,2026-04-10,C00314,D03,Khulna,General Inquiry,Field Agent Visit,1.5,Resolved,5
+TKT00139,2026-04-10,C00264,D01,Rajshahi,General Inquiry,Field Agent Visit,0.8,Resolved,5
+TKT00124,2026-04-10,C01018,D07,Chattogram,Sensor Calibration,Facebook Page,3.2,Resolved,5
+TKT00750,2026-04-10,C00980,D02,Rangpur,General Inquiry,In-App Chat,0.5,Resolved,4
+TKT00511,2026-04-10,C00172,D04,Mymensingh,App/Website Issue,In-App Chat,2.3,Resolved,5
+TKT00889,2026-04-10,C00838,D08,Sylhet,App/Website Issue,Hotline Call,2.6,Resolved,5
+TKT00241,2026-04-11,C00055,D05,Dhaka,Connectivity Issue,Facebook Page,8.4,Resolved,5
+TKT01024,2026-04-11,C00614,D08,Sylhet,Billing & Payment,Hotline Call,1.9,Resolved,4
+TKT00729,2026-04-11,C00897,D02,Rangpur,Sensor Calibration,Field Agent Visit,0.6,Resolved,5
+TKT00244,2026-04-11,C01090,D04,Mymensingh,Device Setup,Facebook Page,8.4,Resolved,5
+TKT00970,2026-04-11,C01151,D01,Rajshahi,Connectivity Issue,In-App Chat,3.1,Resolved,4
+TKT00526,2026-04-11,C01248,D02,Rangpur,Connectivity Issue,Facebook Page,6.8,Resolved,4
+TKT00456,2026-04-12,C00320,D08,Sylhet,Billing & Payment,In-App Chat,3.2,Resolved,3
+TKT01238,2026-04-12,C00553,D02,Rangpur,Billing & Payment,Facebook Page,1.7,Resolved,3
+TKT01131,2026-04-12,C00979,D04,Mymensingh,App/Website Issue,Field Agent Visit,2.4,Resolved,5
+TKT00929,2026-04-12,C01029,D06,Barishal,Device Setup,Hotline Call,11.1,Resolved,5
+TKT00116,2026-04-13,C00140,D01,Rajshahi,Device Setup,In-App Chat,3.6,Resolved,4
+TKT00250,2026-04-13,C00676,D03,Khulna,Device Setup,Facebook Page,2.1,Resolved,3
+TKT00395,2026-04-13,C00959,D04,Mymensingh,Sensor Calibration,In-App Chat,4.0,Resolved,4
+TKT01020,2026-04-13,C00680,D03,Khulna,Device Setup,In-App Chat,5.5,Resolved,4
+TKT00369,2026-04-14,C01131,D08,Sylhet,General Inquiry,In-App Chat,3.0,Resolved,4
+TKT00604,2026-04-14,C01190,D05,Dhaka,Device Setup,In-App Chat,4.6,Resolved,5
+TKT00197,2026-04-14,C00720,D08,Sylhet,Connectivity Issue,Hotline Call,2.1,Resolved,3
+TKT00945,2026-04-14,C01044,D05,Dhaka,General Inquiry,Hotline Call,1.8,Resolved,3
+TKT00391,2026-04-14,C00437,D01,Rajshahi,Sensor Calibration,In-App Chat,3.6,Resolved,4
+TKT01009,2026-04-14,C01294,D03,Khulna,Billing & Payment,Field Agent Visit,1.8,Resolved,5
+TKT01113,2026-04-14,C00641,D06,Barishal,App/Website Issue,In-App Chat,7.5,Resolved,5
+TKT00364,2026-04-14,C00318,D05,Dhaka,App/Website Issue,In-App Chat,4.9,Resolved,5
+TKT00020,2026-04-15,C01241,D07,Chattogram,General Inquiry,Hotline Call,1.5,Resolved,4
+TKT00357,2026-04-15,C00220,D03,Khulna,Device Setup,Hotline Call,3.9,Resolved,4
+TKT00293,2026-04-15,C00798,D02,Rangpur,Sensor Calibration,Hotline Call,4.2,Resolved,5
+TKT00823,2026-04-15,C00053,D06,Barishal,Sensor Calibration,In-App Chat,5.5,Resolved,4
+TKT00997,2026-04-15,C01457,D02,Rangpur,Sensor Calibration,Field Agent Visit,5.1,Resolved,5
+TKT00821,2026-04-15,C00491,D05,Dhaka,Billing & Payment,Hotline Call,2.2,Resolved,4
+TKT00948,2026-04-15,C00302,D01,Rajshahi,Connectivity Issue,Hotline Call,10.3,Resolved,4
+TKT00308,2026-04-16,C00246,D07,Chattogram,General Inquiry,Field Agent Visit,1.0,Resolved,5
+TKT00969,2026-04-16,C01354,D02,Rangpur,Billing & Payment,Hotline Call,2.3,Escalated,5
+TKT00599,2026-04-16,C00351,D05,Dhaka,Billing & Payment,Facebook Page,1.3,Resolved,5
+TKT00081,2026-04-16,C01104,D07,Chattogram,Sensor Calibration,Hotline Call,0.9,Resolved,4
+TKT00066,2026-04-16,C00999,D08,Sylhet,Device Setup,Hotline Call,4.1,Resolved,4
+TKT00299,2026-04-16,C00713,D06,Barishal,App/Website Issue,In-App Chat,1.1,Resolved,4
+TKT00669,2026-04-16,C01102,D03,Khulna,Device Setup,In-App Chat,2.9,Resolved,3
+TKT01084,2026-04-16,C01304,D02,Rangpur,Connectivity Issue,In-App Chat,6.8,Resolved,3
+TKT00077,2026-04-16,C01460,D03,Khulna,Billing & Payment,Hotline Call,3.3,Resolved,4
+TKT00270,2026-04-17,C00970,D02,Rangpur,App/Website Issue,Facebook Page,5.3,Resolved,3
+TKT00377,2026-04-17,C01039,D04,Mymensingh,Device Setup,Facebook Page,3.8,Resolved,5
+TKT00682,2026-04-17,C00387,D05,Dhaka,Billing & Payment,Hotline Call,1.8,Resolved,4
+TKT01035,2026-04-17,C01405,D02,Rangpur,General Inquiry,In-App Chat,1.8,Resolved,5
+TKT01197,2026-04-17,C00580,D03,Khulna,Device Setup,Facebook Page,10.1,Resolved,5
+TKT00129,2026-04-17,C00619,D01,Rajshahi,Device Setup,In-App Chat,5.4,Resolved,3
+TKT01235,2026-04-17,C00606,D06,Barishal,General Inquiry,Field Agent Visit,0.5,Resolved,3
+TKT00808,2026-04-17,C00108,D02,Rangpur,App/Website Issue,Hotline Call,3.1,Resolved,4
+TKT00214,2026-04-17,C00789,D06,Barishal,Billing & Payment,Field Agent Visit,5.0,Resolved,5
+TKT00846,2026-04-17,C01412,D08,Sylhet,Connectivity Issue,In-App Chat,4.4,Resolved,4
+TKT00718,2026-04-18,C00822,D05,Dhaka,Connectivity Issue,In-App Chat,2.5,Resolved,4
+TKT00283,2026-04-18,C00768,D01,Rajshahi,Device Setup,In-App Chat,1.5,Resolved,5
+TKT00918,2026-04-18,C00979,D04,Mymensingh,Billing & Payment,In-App Chat,1.2,Pending,3
+TKT00019,2026-04-18,C00949,D07,Chattogram,Sensor Calibration,Facebook Page,1.1,Resolved,5
+TKT00613,2026-04-18,C00393,D05,Dhaka,Connectivity Issue,In-App Chat,3.8,Resolved,4
+TKT00820,2026-04-18,C00185,D06,Barishal,General Inquiry,In-App Chat,0.6,Resolved,4
+TKT00819,2026-04-18,C00459,D06,Barishal,Device Setup,Hotline Call,5.1,Resolved,4
+TKT00347,2026-04-18,C00246,D07,Chattogram,Connectivity Issue,Hotline Call,3.4,Resolved,5
+TKT00148,2026-04-19,C01473,D01,Rajshahi,General Inquiry,Hotline Call,1.1,Resolved,4
+TKT00272,2026-04-19,C01402,D01,Rajshahi,Device Setup,In-App Chat,3.8,Resolved,5
+TKT00618,2026-04-19,C00211,D05,Dhaka,General Inquiry,Hotline Call,0.5,Resolved,4
+TKT00093,2026-04-19,C00205,D01,Rajshahi,General Inquiry,Hotline Call,2.2,Resolved,5
+TKT01180,2026-04-19,C00194,D07,Chattogram,General Inquiry,Facebook Page,0.5,Resolved,3
+TKT00705,2026-04-19,C01190,D05,Dhaka,App/Website Issue,Field Agent Visit,1.6,Pending,5
+TKT00755,2026-04-19,C01434,D01,Rajshahi,App/Website Issue,In-App Chat,2.2,Resolved,5
+TKT00753,2026-04-20,C00434,D07,Chattogram,App/Website Issue,In-App Chat,1.4,Resolved,5
+TKT00577,2026-04-20,C01024,D04,Mymensingh,Device Setup,Field Agent Visit,5.6,Resolved,4
+TKT00023,2026-04-20,C01073,D04,Mymensingh,General Inquiry,In-App Chat,0.5,Resolved,3
+TKT01139,2026-04-20,C01422,D04,Mymensingh,Device Setup,Facebook Page,2.5,Resolved,3
+TKT00809,2026-04-20,C00828,D02,Rangpur,Connectivity Issue,In-App Chat,2.0,Pending,4
+TKT00276,2026-04-20,C01201,D05,Dhaka,Connectivity Issue,Field Agent Visit,8.6,Escalated,4
+TKT00201,2026-04-20,C01407,D08,Sylhet,Connectivity Issue,Hotline Call,5.5,Resolved,4
+TKT01089,2026-04-20,C00188,D01,Rajshahi,Connectivity Issue,Field Agent Visit,2.7,Resolved,4
+TKT00265,2026-04-21,C00360,D05,Dhaka,Connectivity Issue,Field Agent Visit,5.6,Resolved,4
+TKT00426,2026-04-21,C01177,D04,Mymensingh,Billing & Payment,In-App Chat,1.5,Resolved,5
+TKT00639,2026-04-21,C00387,D05,Dhaka,Sensor Calibration,Hotline Call,9.9,Resolved,3
+TKT00644,2026-04-21,C00343,D06,Barishal,General Inquiry,Facebook Page,1.1,Resolved,3
+TKT00318,2026-04-21,C00796,D03,Khulna,Connectivity Issue,Facebook Page,1.3,Resolved,5
+TKT01192,2026-04-21,C01143,D07,Chattogram,App/Website Issue,In-App Chat,3.6,Resolved,4
+TKT00152,2026-04-22,C00648,D04,Mymensingh,Device Setup,Facebook Page,2.7,Resolved,4
+TKT00342,2026-04-22,C01448,D04,Mymensingh,Connectivity Issue,In-App Chat,17.2,Resolved,5
+TKT00801,2026-04-22,C00606,D06,Barishal,App/Website Issue,In-App Chat,0.8,Resolved,4
+TKT00382,2026-04-22,C01212,D07,Chattogram,Billing & Payment,Hotline Call,2.4,Resolved,5
+TKT00294,2026-04-22,C01030,D03,Khulna,Connectivity Issue,In-App Chat,0.8,Resolved,5
+TKT00064,2026-04-22,C00959,D04,Mymensingh,General Inquiry,Hotline Call,0.5,Resolved,3
+TKT00053,2026-04-22,C00040,D05,Dhaka,App/Website Issue,Field Agent Visit,2.5,Resolved,4
+TKT00407,2026-04-22,C01405,D02,Rangpur,App/Website Issue,Facebook Page,6.1,Resolved,4
+TKT01070,2026-04-22,C00225,D02,Rangpur,General Inquiry,Hotline Call,1.0,Resolved,4
+TKT00650,2026-04-23,C00492,D05,Dhaka,Device Setup,Hotline Call,6.8,Resolved,3
+TKT00173,2026-04-23,C00497,D03,Khulna,Sensor Calibration,Hotline Call,2.4,Resolved,4
+TKT00135,2026-04-23,C00995,D07,Chattogram,Connectivity Issue,In-App Chat,6.4,Resolved,5
+TKT00017,2026-04-23,C00662,D07,Chattogram,Device Setup,In-App Chat,3.0,Resolved,5
+TKT00393,2026-04-23,C00808,D02,Rangpur,Connectivity Issue,Field Agent Visit,4.5,Resolved,4
+TKT00021,2026-04-23,C01002,D04,Mymensingh,Sensor Calibration,In-App Chat,3.7,Escalated,5
+TKT00049,2026-04-23,C00796,D03,Khulna,Device Setup,Field Agent Visit,2.0,Resolved,3
+TKT00175,2026-04-23,C01239,D02,Rangpur,Device Setup,Field Agent Visit,6.6,Resolved,4
+TKT01120,2026-04-23,C01191,D04,Mymensingh,General Inquiry,In-App Chat,0.5,Resolved,4
+TKT00297,2026-04-23,C00918,D01,Rajshahi,General Inquiry,Facebook Page,2.0,Resolved,3
+TKT00386,2026-04-23,C00664,D01,Rajshahi,Sensor Calibration,In-App Chat,6.0,Resolved,4
+TKT00141,2026-04-24,C00794,D01,Rajshahi,General Inquiry,Hotline Call,1.2,Resolved,4
+TKT00143,2026-04-24,C01103,D06,Barishal,App/Website Issue,In-App Chat,8.0,Resolved,5
+TKT00159,2026-04-24,C00584,D03,Khulna,App/Website Issue,Hotline Call,4.7,Resolved,5
+TKT00469,2026-04-24,C00039,D02,Rangpur,Connectivity Issue,In-App Chat,10.1,Resolved,5
+TKT01184,2026-04-24,C01474,D04,Mymensingh,Connectivity Issue,Hotline Call,7.4,Resolved,4
+TKT00267,2026-04-24,C00607,D07,Chattogram,Sensor Calibration,Field Agent Visit,2.7,Resolved,4
+TKT01204,2026-04-24,C00979,D04,Mymensingh,Device Setup,Hotline Call,2.7,Resolved,5
+TKT01142,2026-04-24,C00603,D07,Chattogram,Billing & Payment,Hotline Call,3.9,Resolved,5
+TKT01028,2026-04-24,C00485,D01,Rajshahi,Connectivity Issue,Hotline Call,5.2,Resolved,4
+TKT01241,2026-04-24,C00641,D06,Barishal,Sensor Calibration,In-App Chat,6.9,Resolved,5
+TKT00829,2026-04-24,C00350,D01,Rajshahi,Device Setup,Facebook Page,3.6,Resolved,3
+TKT00463,2026-04-24,C01109,D08,Sylhet,Sensor Calibration,Hotline Call,9.7,Resolved,5
+TKT01130,2026-04-24,C00724,D08,Sylhet,Sensor Calibration,Facebook Page,0.6,Resolved,5
+TKT00067,2026-04-24,C00859,D03,Khulna,Sensor Calibration,Field Agent Visit,2.2,Resolved,4
+TKT00409,2026-04-24,C01317,D05,Dhaka,Connectivity Issue,Facebook Page,1.2,Resolved,5
+TKT00434,2026-04-24,C00674,D05,Dhaka,App/Website Issue,Hotline Call,4.1,Resolved,4
+TKT01231,2026-04-25,C01422,D04,Mymensingh,Billing & Payment,In-App Chat,1.4,Escalated,4
+TKT01250,2026-04-25,C01478,D08,Sylhet,Connectivity Issue,Hotline Call,13.8,Resolved,4
+TKT01144,2026-04-25,C00209,D01,Rajshahi,Sensor Calibration,In-App Chat,2.7,Resolved,4
+TKT00964,2026-04-25,C01063,D02,Rangpur,Device Setup,Hotline Call,0.7,Resolved,4
+TKT00967,2026-04-25,C00142,D04,Mymensingh,General Inquiry,Facebook Page,0.5,Resolved,4
+TKT00485,2026-04-25,C00905,D08,Sylhet,Connectivity Issue,Facebook Page,2.6,Resolved,4
+TKT00495,2026-04-25,C01130,D08,Sylhet,Connectivity Issue,Hotline Call,2.0,Resolved,5
+TKT00540,2026-04-25,C00123,D01,Rajshahi,Billing & Payment,Field Agent Visit,2.9,Resolved,4
+TKT00989,2026-04-25,C00375,D01,Rajshahi,App/Website Issue,In-App Chat,1.7,Resolved,3
+TKT01155,2026-04-25,C00641,D06,Barishal,Sensor Calibration,In-App Chat,3.9,Resolved,5
+TKT00452,2026-04-25,C01143,D07,Chattogram,Billing & Payment,In-App Chat,2.5,Resolved,4
+TKT00319,2026-04-25,C00525,D01,Rajshahi,App/Website Issue,In-App Chat,4.9,Resolved,5
+TKT01073,2026-04-25,C01264,D08,Sylhet,App/Website Issue,Hotline Call,1.1,Resolved,4
+TKT00834,2026-04-25,C01402,D01,Rajshahi,Billing & Payment,Facebook Page,1.8,Resolved,5
+TKT01082,2026-04-25,C00143,D07,Chattogram,Sensor Calibration,Hotline Call,2.3,Resolved,2
+TKT00088,2026-04-25,C01417,D04,Mymensingh,Sensor Calibration,In-App Chat,18.0,Resolved,5
+TKT00026,2026-04-25,C00829,D07,Chattogram,Billing & Payment,In-App Chat,2.0,Resolved,4
+TKT01050,2026-04-25,C00822,D05,Dhaka,Device Setup,In-App Chat,2.1,Resolved,4
+TKT00466,2026-04-25,C01087,D06,Barishal,App/Website Issue,In-App Chat,1.8,Resolved,5
+TKT00630,2026-04-26,C00030,D05,Dhaka,General Inquiry,Hotline Call,2.6,Resolved,4
+TKT00733,2026-04-26,C00239,D01,Rajshahi,App/Website Issue,In-App Chat,4.5,Resolved,4
+TKT00375,2026-04-26,C00918,D01,Rajshahi,Connectivity Issue,In-App Chat,2.3,Resolved,4
+TKT00736,2026-04-26,C00672,D05,Dhaka,General Inquiry,In-App Chat,0.5,Pending,4
+TKT00371,2026-04-26,C01094,D02,Rangpur,App/Website Issue,Field Agent Visit,1.5,Resolved,3
+TKT00343,2026-04-26,C00541,D08,Sylhet,Device Setup,In-App Chat,4.2,Resolved,3
+TKT00251,2026-04-26,C01194,D08,Sylhet,Connectivity Issue,Facebook Page,4.4,Pending,5
+TKT00242,2026-04-26,C00510,D01,Rajshahi,Sensor Calibration,In-App Chat,4.4,Resolved,5
+TKT00063,2026-04-26,C00843,D04,Mymensingh,General Inquiry,In-App Chat,1.6,Resolved,4
+TKT00436,2026-04-26,C00675,D05,Dhaka,Connectivity Issue,Hotline Call,13.1,Resolved,5
+TKT00770,2026-04-26,C00633,D01,Rajshahi,Device Setup,Facebook Page,0.9,Resolved,4
+TKT00001,2026-04-26,C01043,D05,Dhaka,App/Website Issue,In-App Chat,5.0,Resolved,4
+TKT00983,2026-04-26,C00843,D04,Mymensingh,Device Setup,Hotline Call,5.8,Resolved,4
+TKT00802,2026-04-26,C01431,D07,Chattogram,General Inquiry,Facebook Page,0.5,Resolved,5
+TKT01128,2026-04-26,C00720,D08,Sylhet,App/Website Issue,Hotline Call,8.8,Resolved,4
+TKT01069,2026-04-27,C00646,D07,Chattogram,Connectivity Issue,Field Agent Visit,4.2,Resolved,5
+TKT00387,2026-04-27,C01245,D03,Khulna,Device Setup,Hotline Call,3.2,Resolved,5
+TKT00406,2026-04-27,C01215,D02,Rangpur,Device Setup,In-App Chat,1.7,Resolved,5
+TKT00933,2026-04-27,C00800,D05,Dhaka,App/Website Issue,In-App Chat,3.1,Resolved,4
+TKT00910,2026-04-27,C00052,D01,Rajshahi,General Inquiry,In-App Chat,1.4,Resolved,5
+TKT01207,2026-04-27,C00670,D03,Khulna,Connectivity Issue,In-App Chat,1.9,Resolved,4
+TKT00649,2026-04-27,C00518,D06,Barishal,Connectivity Issue,Facebook Page,1.2,Resolved,3
+TKT00917,2026-04-27,C01265,D05,Dhaka,Connectivity Issue,Field Agent Visit,8.6,Resolved,5
+TKT00777,2026-04-27,C01080,D03,Khulna,Device Setup,Facebook Page,17.3,Resolved,5
+TKT01134,2026-04-27,C01340,D03,Khulna,Device Setup,In-App Chat,3.2,Resolved,5
+TKT00767,2026-04-27,C00288,D03,Khulna,Device Setup,Hotline Call,8.8,Resolved,4
+TKT00025,2026-04-27,C00095,D02,Rangpur,Billing & Payment,Facebook Page,2.4,Escalated,5
+TKT00725,2026-04-27,C00366,D03,Khulna,Connectivity Issue,Hotline Call,7.3,Resolved,3
+TKT00687,2026-04-28,C01094,D02,Rangpur,Connectivity Issue,Hotline Call,1.8,Resolved,4
+TKT00338,2026-04-28,C01356,D01,Rajshahi,Device Setup,Hotline Call,4.1,Pending,4
+TKT01000,2026-04-28,C00979,D04,Mymensingh,Connectivity Issue,Facebook Page,1.5,Pending,4
+TKT00987,2026-04-28,C00262,D07,Chattogram,General Inquiry,Field Agent Visit,0.6,Resolved,5
+TKT00384,2026-04-28,C00630,D06,Barishal,Connectivity Issue,In-App Chat,12.5,Resolved,4
+TKT00776,2026-04-28,C00170,D08,Sylhet,App/Website Issue,Facebook Page,2.0,Resolved,3
+TKT00939,2026-04-28,C01102,D03,Khulna,General Inquiry,Hotline Call,1.3,Resolved,5
+TKT00482,2026-04-28,C00664,D01,Rajshahi,Sensor Calibration,Field Agent Visit,1.5,Resolved,5
+TKT00303,2026-04-28,C01162,D05,Dhaka,Billing & Payment,In-App Chat,4.3,Resolved,3
+TKT00137,2026-04-28,C01399,D05,Dhaka,Connectivity Issue,In-App Chat,9.2,Resolved,5
+TKT00931,2026-04-28,C00610,D04,Mymensingh,Device Setup,Facebook Page,3.3,Resolved,5
+TKT00486,2026-04-28,C00158,D05,Dhaka,App/Website Issue,Hotline Call,3.9,Resolved,4
+TKT01005,2026-04-28,C00980,D02,Rangpur,Sensor Calibration,Field Agent Visit,4.9,Resolved,4
+TKT00103,2026-04-28,C00324,D04,Mymensingh,App/Website Issue,Hotline Call,0.5,Resolved,4
+TKT00094,2026-04-28,C01447,D07,Chattogram,Sensor Calibration,Field Agent Visit,9.3,Resolved,5
+TKT00694,2026-04-28,C00822,D05,Dhaka,App/Website Issue,In-App Chat,0.5,Pending,4
+TKT00886,2026-04-28,C01016,D02,Rangpur,Connectivity Issue,Hotline Call,7.6,Resolved,3
+TKT00616,2026-04-28,C01280,D05,Dhaka,Connectivity Issue,Field Agent Visit,7.9,Pending,4
+TKT00090,2026-04-28,C00924,D04,Mymensingh,Connectivity Issue,In-App Chat,5.9,Resolved,5
+TKT01215,2026-04-28,C00669,D02,Rangpur,General Inquiry,Hotline Call,0.5,Resolved,4
+TKT00044,2026-04-29,C00610,D04,Mymensingh,General Inquiry,In-App Chat,0.5,Resolved,5
+TKT00248,2026-04-29,C00718,D01,Rajshahi,General Inquiry,Facebook Page,1.8,Resolved,5
+TKT00286,2026-04-29,C01001,D01,Rajshahi,General Inquiry,Field Agent Visit,1.2,Resolved,5
+TKT00182,2026-04-29,C00949,D07,Chattogram,Connectivity Issue,Hotline Call,6.8,Resolved,4
+TKT00605,2026-04-29,C01492,D07,Chattogram,Device Setup,Facebook Page,2.2,Resolved,1
+TKT00984,2026-04-29,C00705,D02,Rangpur,Sensor Calibration,Hotline Call,4.5,Resolved,5
+TKT00787,2026-04-29,C00825,D07,Chattogram,App/Website Issue,Facebook Page,5.8,Pending,5
+TKT00685,2026-04-29,C00868,D06,Barishal,Device Setup,Facebook Page,3.4,Resolved,5
+TKT00617,2026-04-29,C00782,D07,Chattogram,Device Setup,Hotline Call,8.4,Resolved,4
+TKT00531,2026-04-29,C00782,D07,Chattogram,General Inquiry,In-App Chat,2.4,Resolved,5
+TKT01214,2026-04-29,C00124,D03,Khulna,App/Website Issue,Facebook Page,0.7,Resolved,4
+TKT00574,2026-04-29,C00782,D07,Chattogram,Billing & Payment,Hotline Call,2.1,Resolved,4
+TKT00215,2026-04-30,C00831,D05,Dhaka,App/Website Issue,Hotline Call,2.2,Resolved,4
+TKT00324,2026-04-30,C00722,D03,Khulna,Device Setup,In-App Chat,4.4,Escalated,2
+TKT00222,2026-04-30,C01094,D02,Rangpur,Device Setup,Hotline Call,4.7,Resolved,4
+TKT01123,2026-04-30,C01365,D04,Mymensingh,Device Setup,In-App Chat,1.3,Resolved,4
+TKT00868,2026-04-30,C00090,D04,Mymensingh,App/Website Issue,Facebook Page,2.6,Resolved,5
+TKT01076,2026-04-30,C00823,D02,Rangpur,App/Website Issue,In-App Chat,3.6,Resolved,3
+TKT00696,2026-04-30,C00724,D08,Sylhet,Billing & Payment,In-App Chat,2.3,Pending,5
+TKT01247,2026-04-30,C00611,D04,Mymensingh,Billing & Payment,In-App Chat,0.6,Resolved,3
+TKT00457,2026-04-30,C00350,D01,Rajshahi,Sensor Calibration,Facebook Page,4.4,Resolved,5
+TKT00479,2026-04-30,C00459,D06,Barishal,General Inquiry,Hotline Call,0.5,Pending,4
+TKT00772,2026-04-30,C01468,D02,Rangpur,Sensor Calibration,Facebook Page,6.1,Resolved,4

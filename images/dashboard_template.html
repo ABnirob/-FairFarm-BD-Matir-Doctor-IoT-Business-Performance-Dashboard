@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Carlito', 'DejaVu Sans', Arial, sans-serif; background: #F4F1E8; }
+  .canvas { width: 1600px; background: #F4F1E8; padding: 0 0 28px 0; }
+
+  .header {
+    background: linear-gradient(135deg, #1F3D2C 0%, #234A33 55%, #2E5C3E 100%);
+    padding: 30px 40px 22px 40px;
+    position: relative;
+    overflow: hidden;
+  }
+  .soil-stripes {
+    position: absolute; left:0; right:0; bottom:0; height:10px;
+    background: repeating-linear-gradient(90deg, #D99B2B 0 60px, #C1532A 60px 120px, #7AAE6B 120px 180px, #8C5B3E 180px 240px);
+    opacity: 0.9;
+  }
+  .header-top { display:flex; justify-content: space-between; align-items: flex-start; }
+  .brand { display:flex; align-items:center; gap:14px; }
+  .brand-mark {
+    width: 46px; height:46px; border-radius: 10px; background: #D99B2B;
+    display:flex; align-items:center; justify-content:center; font-size:24px; font-weight:800; color:#1F3D2C;
+  }
+  .brand-text h1 { color:#fff; font-size: 23px; font-weight:800; letter-spacing:0.2px;}
+  .brand-text p { color:#BFD9C9; font-size:12.5px; margin-top:3px; font-style: italic;}
+  .badge {
+    background: rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.25); color:#EAF2EC;
+    font-size:11.5px; padding:7px 14px; border-radius:20px; font-weight:600;
+  }
+  .header-sub { color:#CFE3D6; font-size:12px; margin-top:14px; max-width:900px; line-height:1.5;}
+
+  .kpi-row { display:grid; grid-template-columns: repeat(6, 1fr); gap:14px; padding: 22px 40px 0 40px; }
+  .kpi-card {
+    background:#fff; border-radius:10px; padding:14px 16px; border:1px solid #E4DFD0;
+    box-shadow: 0 1px 3px rgba(31,61,44,0.06);
+    position: relative;
+  }
+  .kpi-card::before {
+    content:""; position:absolute; left:0; top:0; bottom:0; width:4px; border-radius: 10px 0 0 10px;
+    background: var(--accent, #2E7D4F);
+  }
+  .kpi-label { font-size: 10px; color:#7C8C81; font-weight:700; letter-spacing:0.4px; text-transform:uppercase;}
+  .kpi-value { font-size: 25px; font-weight:800; color:#1F3D2C; margin-top:6px; }
+  .kpi-delta { font-size: 11px; font-weight:700; margin-top:4px; }
+  .delta-up { color:#2E7D4F; }
+  .delta-flat { color:#A8895A; }
+
+  .section-title { padding: 24px 40px 4px 40px; font-size:15px; font-weight:800; color:#1F3D2C; }
+  .section-sub { padding: 0 40px 14px 40px; font-size:11.5px; color:#8C9A8E; }
+
+  .chart-grid { display:grid; grid-template-columns: 1.35fr 1fr; gap:18px; padding: 0 40px; }
+  .chart-grid2 { display:grid; grid-template-columns: 1fr 1fr; gap:18px; padding: 18px 40px 0 40px; }
+  .chart-card {
+    background:#fff; border-radius:12px; border:1px solid #E4DFD0; box-shadow: 0 1px 3px rgba(31,61,44,0.06);
+    overflow:hidden;
+  }
+  .chart-card img { width:100%; display:block; }
+  .chart-card-title {
+    font-size:12.5px; font-weight:800; color:#1F3D2C; padding: 12px 16px 0 16px;
+  }
+  .chart-card-note { font-size: 10px; color:#9aa89e; padding: 0 16px 8px 16px; }
+
+  .footer {
+    display:flex; justify-content:space-between; align-items:center;
+    padding: 20px 40px 0 40px; font-size:10.5px; color:#9aa89e;
+  }
+  .footer b { color:#5C6F63; }
+</style>
+</head>
+<body>
+<div class="canvas">
+
+  <div class="header">
+    <div class="header-top">
+      <div class="brand">
+        <div class="brand-mark">MD</div>
+        <div class="brand-text">
+          <h1>FairFarm BD &nbsp;·&nbsp; Matir Doctor IoT Business Dashboard</h1>
+          <p>Data &amp; Business Analyst Portfolio Project — Md. Abul Bashar Nirob</p>
+        </div>
+      </div>
+      <div style="display:flex; gap:10px;">
+        <div class="badge">📍 Bangladesh · 8 Divisions</div>
+        <div class="badge">🗓 Jan 2025 – Apr 2026</div>
+        <div class="badge">⬤ Filter: All Divisions</div>
+      </div>
+    </div>
+    <div class="header-sub">
+      Tracking the Matir Doctor IoT soil-sensor line: web/app acquisition funnel, regional sales, device telemetry health,
+      and support SLAs — built to mirror the requirements, gap analysis, and reporting work behind a documented
+      +25% conversion-rate lift and +30% visitor-traffic growth. <i>Synthetic dataset for portfolio demonstration.</i>
+    </div>
+    <div class="soil-stripes"></div>
+  </div>
+
+  <div class="kpi-row">
+    <div class="kpi-card" style="--accent:#2E7D4F">
+      <div class="kpi-label">Total Revenue</div>
+      <div class="kpi-value">BDT 29.7M</div>
+      <div class="kpi-delta delta-up">▲ 4,200 orders</div>
+    </div>
+    <div class="kpi-card" style="--accent:#D99B2B">
+      <div class="kpi-label">Devices Sold</div>
+      <div class="kpi-value">7,015</div>
+      <div class="kpi-delta delta-flat">Lite · Pro · Pro+ (NPK)</div>
+    </div>
+    <div class="kpi-card" style="--accent:#C1532A">
+      <div class="kpi-label">Avg. Conversion Rate</div>
+      <div class="kpi-value">1.92%</div>
+      <div class="kpi-delta delta-up">▲ +24.9% post UX overhaul</div>
+    </div>
+    <div class="kpi-card" style="--accent:#3E6B8C">
+      <div class="kpi-label">Total Sessions</div>
+      <div class="kpi-value">1.01M</div>
+      <div class="kpi-delta delta-up">▲ +29.9% post UX overhaul</div>
+    </div>
+    <div class="kpi-card" style="--accent:#7AAE6B">
+      <div class="kpi-label">Active IoT Devices</div>
+      <div class="kpi-value">1,180</div>
+      <div class="kpi-delta delta-flat">4.7% readings flagged</div>
+    </div>
+    <div class="kpi-card" style="--accent:#8C5B3E">
+      <div class="kpi-label">Avg. CSAT Score</div>
+      <div class="kpi-value">3.99 / 5</div>
+      <div class="kpi-delta delta-up">▲ improved after process fix</div>
+    </div>
+  </div>
+
+  <div class="section-title">Growth Story — UX &amp; Process Overhaul Impact</div>
+  <div class="section-sub">Resume claim validated against the data: conversion rate and visitor traffic both step up the month requirements were shipped.</div>
+  <div class="chart-grid">
+    <div class="chart-card">
+      <img src="__TRAFFIC_CHART__">
+    </div>
+    <div class="chart-card">
+      <img src="__DEVICE_ALERT_CHART__">
+    </div>
+  </div>
+
+  <div class="section-title">Regional &amp; Product Performance</div>
+  <div class="section-sub">Where revenue concentrates, and how support load breaks down — the views built for dealer &amp; inventory planning.</div>
+  <div class="chart-grid2">
+    <div class="chart-card">
+      <img src="__REVENUE_DIVISION_CHART__">
+    </div>
+    <div class="chart-card">
+      <img src="__TICKET_CHART__">
+    </div>
+  </div>
+
+  <div class="footer">
+    <div>Built with <b>Python (Pandas/NumPy)</b>, <b>SQL</b>, <b>Excel</b> &amp; <b>Power BI</b> · Star-schema model: 5 dimensions, 4 fact tables, ~84K rows</div>
+    <div><b>github.com/ABnirob</b> · FairFarm BD Analytics Project</div>
+  </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "pre_ux_avg_conversion_rate_pct": 1.85,
+  "post_ux_avg_conversion_rate_pct": 2.31,
+  "conversion_rate_lift_pct": 24.9,
+  "pre_ux_avg_daily_sessions": 1903.2,
+  "post_ux_avg_daily_sessions": 2472.4,
+  "visitor_traffic_lift_pct": 29.9,
+  "welch_t_stat": 106.83,
+  "p_value": 1.644513433020314e-196,
+  "statistically_significant_at_0.05": true,
+  "total_revenue_bdt": 29690390.0,
+  "total_orders": 4200,
+  "total_devices_deployed": 1180,
+  "pct_iot_readings_with_alert": 4.7,
+  "avg_csat_score": 3.99
+}

@@ -1,0 +1,4 @@
+product_id,device_model,category,unit_price_bdt,sensors_included
+P01,Matir Doctor Lite,Entry IoT Sensor,2500,"Moisture, Temperature"
+P02,Matir Doctor Pro,Mid IoT Sensor,4800,"Moisture, pH, Temperature, Humidity"
+P03,Matir Doctor Pro+ (NPK),Advanced IoT Sensor,7900,"Moisture, pH, NPK, Temperature, Humidity"

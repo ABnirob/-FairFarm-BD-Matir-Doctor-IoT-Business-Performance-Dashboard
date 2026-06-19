@@ -1,0 +1,21 @@
+{
+  "web_traffic_export": {
+    "rows_before": 27432,
+    "duplicate_rows_removed": 272,
+    "non_numeric_conversions_fixed": 0,
+    "missing_bounce_rate_pct_imputed_by_division_median": 1086,
+    "missing_avg_session_duration_sec_imputed_by_division_median": 814,
+    "rows_after": 27160
+  },
+  "sales_export": {
+    "rows_before": 4200,
+    "mixed_date_formats_standardized": 840,
+    "invalid_negative_quantity_fixed": 15,
+    "rows_after": 4200
+  },
+  "customers_export": {
+    "rows_before": 1500,
+    "missing_division_imputed_via_district_lookup": 45,
+    "rows_after": 1500
+  }
+}

@@ -1,0 +1,157 @@
+// =============================================================================
+// FairFarm BD — Matir Doctor IoT Business Dashboard
+// Power Query M scripts
+// -----------------------------------------------------------------------------
+// In Power BI Desktop: Home > Transform Data > Home > Advanced Editor,
+// create a new blank query for each table below, paste the M code, and
+// update FOLDER_PATH to wherever you've unzipped this project's
+// data/csv folder (use double backslashes on Windows, e.g.
+// "C:\\Users\\you\\fairfarm-bd-analytics\\data\\csv\\").
+// =============================================================================
+
+// Set this once, then every query below references #"FolderPath"
+// (create a Parameter named FolderPath: Home > Manage Parameters > New Parameter,
+//  Type = Text, Current Value = your local csv folder path ending with a slash)
+
+// ---------------------------------------------------------------------------
+// dim_date
+// ---------------------------------------------------------------------------
+let
+    Source = Csv.Document(File.Contents(FolderPath & "dim_date.csv"), [Delimiter=",", Columns=11, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    Typed = Table.TransformColumnTypes(Headers, {
+        {"date", type date}, {"year", Int64.Type}, {"month", Int64.Type},
+        {"month_name", type text}, {"year_month", type text}, {"quarter", type text},
+        {"week", Int64.Type}, {"day_name", type text}, {"is_weekend", type logical},
+        {"agri_season", type text}, {"period_flag", type text}
+    })
+in
+    Typed
+
+// ---------------------------------------------------------------------------
+// dim_division
+// ---------------------------------------------------------------------------
+let
+    Source = Csv.Document(File.Contents(FolderPath & "dim_division.csv"), [Delimiter=",", Columns=6, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    Typed = Table.TransformColumnTypes(Headers, {
+        {"division_id", type text}, {"division_name", type text},
+        {"latitude", type number}, {"longitude", type number},
+        {"agri_intensity", type text}, {"traffic_weight", type number}
+    })
+in
+    Typed
+
+// ---------------------------------------------------------------------------
+// dim_district
+// ---------------------------------------------------------------------------
+let
+    Source = Csv.Document(File.Contents(FolderPath & "dim_district.csv"), [Delimiter=",", Columns=4, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    Typed = Table.TransformColumnTypes(Headers, {
+        {"district_id", type text}, {"district_name", type text},
+        {"division_id", type text}, {"division_name", type text}
+    })
+in
+    Typed
+
+// ---------------------------------------------------------------------------
+// dim_product
+// ---------------------------------------------------------------------------
+let
+    Source = Csv.Document(File.Contents(FolderPath & "dim_product.csv"), [Delimiter=",", Columns=5, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    Typed = Table.TransformColumnTypes(Headers, {
+        {"product_id", type text}, {"device_model", type text},
+        {"category", type text}, {"unit_price_bdt", Int64.Type}, {"sensors_included", type text}
+    })
+in
+    Typed
+
+// ---------------------------------------------------------------------------
+// dim_customer
+// ---------------------------------------------------------------------------
+let
+    Source = Csv.Document(File.Contents(FolderPath & "dim_customer.csv"), [Delimiter=",", Columns=10, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    Typed = Table.TransformColumnTypes(Headers, {
+        {"customer_id", type text}, {"division_name", type text}, {"district_name", type text},
+        {"farm_size_acres", type number}, {"customer_segment", type text}, {"crop_type", type text},
+        {"signup_date", type date}, {"acquisition_channel", type text},
+        {"district_id", type text}, {"division_id", type text}
+    })
+in
+    Typed
+
+// ---------------------------------------------------------------------------
+// fact_sales
+// ---------------------------------------------------------------------------
+let
+    Source = Csv.Document(File.Contents(FolderPath & "fact_sales.csv"), [Delimiter=",", Columns=14, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    Typed = Table.TransformColumnTypes(Headers, {
+        {"order_id", type text}, {"date", type date}, {"customer_id", type text},
+        {"division_id", type text}, {"division_name", type text}, {"district_name", type text},
+        {"product_id", type text}, {"device_model", type text}, {"channel", type text},
+        {"quantity", Int64.Type}, {"unit_price_bdt", Int64.Type}, {"discount_pct", Int64.Type},
+        {"total_amount_bdt", type number}, {"payment_method", type text}
+    })
+in
+    Typed
+
+// ---------------------------------------------------------------------------
+// fact_web_traffic
+// ---------------------------------------------------------------------------
+let
+    Source = Csv.Document(File.Contents(FolderPath & "fact_web_traffic.csv"), [Delimiter=",", Columns=13, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    Typed = Table.TransformColumnTypes(Headers, {
+        {"traffic_id", Int64.Type}, {"date", type date}, {"division_id", type text},
+        {"division_name", type text}, {"channel", type text}, {"device_category", type text},
+        {"sessions", Int64.Type}, {"new_users", Int64.Type}, {"total_users", Int64.Type},
+        {"bounce_rate_pct", type number}, {"avg_session_duration_sec", type number},
+        {"conversions", Int64.Type}, {"conversion_rate_pct", type number}
+    })
+in
+    Typed
+
+// ---------------------------------------------------------------------------
+// fact_iot_readings
+// ---------------------------------------------------------------------------
+let
+    Source = Csv.Document(File.Contents(FolderPath & "fact_iot_readings.csv"), [Delimiter=",", Columns=18, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    Typed = Table.TransformColumnTypes(Headers, {
+        {"reading_id", Int64.Type}, {"device_id", type text}, {"customer_id", type text},
+        {"date", type date}, {"division_id", type text}, {"division_name", type text},
+        {"district_name", type text}, {"device_model", type text}, {"soil_moisture_pct", type number},
+        {"soil_ph", type number}, {"nitrogen_ppm", type number}, {"phosphorus_ppm", type number},
+        {"potassium_ppm", type number}, {"soil_temp_c", type number}, {"air_humidity_pct", type number},
+        {"battery_pct", type number}, {"alert_flag", type logical}, {"alert_type", type text}
+    })
+in
+    Typed
+
+// ---------------------------------------------------------------------------
+// fact_support_tickets
+// ---------------------------------------------------------------------------
+let
+    Source = Csv.Document(File.Contents(FolderPath & "fact_support_tickets.csv"), [Delimiter=",", Columns=10, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    Typed = Table.TransformColumnTypes(Headers, {
+        {"ticket_id", type text}, {"date", type date}, {"customer_id", type text},
+        {"division_id", type text}, {"division_name", type text}, {"category", type text},
+        {"channel", type text}, {"resolution_time_hrs", type number}, {"status", type text},
+        {"csat_score", Int64.Type}
+    })
+in
+    Typed
+
+// ---------------------------------------------------------------------------
+// stakeholder_gap_analysis  (qualitative BA artifact — optional table visual)
+// ---------------------------------------------------------------------------
+let
+    Source = Csv.Document(File.Contents(FolderPath & "stakeholder_gap_analysis.csv"), [Delimiter=",", Columns=7, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true])
+in
+    Headers

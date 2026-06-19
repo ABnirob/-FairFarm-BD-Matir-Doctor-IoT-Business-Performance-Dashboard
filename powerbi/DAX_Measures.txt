@@ -1,0 +1,143 @@
+/* =============================================================================
+   FairFarm BD — Matir Doctor IoT Business Dashboard
+   DAX Measures
+   -----------------------------------------------------------------------------
+   Paste each measure into Power BI Desktop: Modeling > New Measure.
+   Recommended home table: create a measures table named "_Measures"
+   (Modeling > Enter Data > add one blank table) and put all of these there
+   so they don't clutter the fact tables.
+   ============================================================================= */
+
+/* ---------- CORE KPI CARDS ---------- */
+
+Total Revenue (BDT) =
+SUM ( fact_sales[total_amount_bdt] )
+
+Total Orders =
+COUNTROWS ( fact_sales )
+
+Devices Sold (Units) =
+SUM ( fact_sales[quantity] )
+
+Avg Order Value (BDT) =
+DIVIDE ( [Total Revenue (BDT)], [Total Orders] )
+
+Total Sessions =
+SUM ( fact_web_traffic[sessions] )
+
+Total Conversions =
+SUM ( fact_web_traffic[conversions] )
+
+Conversion Rate % =
+DIVIDE ( [Total Conversions], [Total Sessions] ) * 100
+
+Avg Bounce Rate % =
+AVERAGE ( fact_web_traffic[bounce_rate_pct] )
+
+Active IoT Devices =
+DISTINCTCOUNT ( fact_iot_readings[device_id] )
+
+IoT Alert Rate % =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( fact_iot_readings ), fact_iot_readings[alert_flag] = TRUE ),
+    COUNTROWS ( fact_iot_readings )
+) * 100
+
+Avg Soil Moisture % =
+AVERAGE ( fact_iot_readings[soil_moisture_pct] )
+
+Avg Soil pH =
+AVERAGE ( fact_iot_readings[soil_ph] )
+
+Total Support Tickets =
+COUNTROWS ( fact_support_tickets )
+
+Avg Resolution Time (hrs) =
+AVERAGE ( fact_support_tickets[resolution_time_hrs] )
+
+Avg CSAT Score =
+AVERAGE ( fact_support_tickets[csat_score] )
+
+Total Customers =
+DISTINCTCOUNT ( dim_customer[customer_id] )
+
+Revenue per Customer (BDT) =
+DIVIDE ( [Total Revenue (BDT)], [Total Customers] )
+
+
+/* ---------- "BEFORE vs. AFTER UX OVERHAUL" ANALYSIS  ---------------------
+   Validates the resume's claim: +25% conversion rate, +30% visitor traffic
+   after the UX/process recommendations shipped (Dec 2025).
+   These use dim_date[period_flag] = "Pre-UX Overhaul" / "Post-UX Overhaul"
+   ------------------------------------------------------------------------ */
+
+Sessions (Pre-UX) =
+CALCULATE ( [Total Sessions], dim_date[period_flag] = "Pre-UX Overhaul" )
+
+Sessions (Post-UX) =
+CALCULATE ( [Total Sessions], dim_date[period_flag] = "Post-UX Overhaul" )
+
+Conversion Rate % (Pre-UX) =
+CALCULATE ( [Conversion Rate %], dim_date[period_flag] = "Pre-UX Overhaul" )
+
+Conversion Rate % (Post-UX) =
+CALCULATE ( [Conversion Rate %], dim_date[period_flag] = "Post-UX Overhaul" )
+
+Conversion Rate Lift % =
+DIVIDE ( [Conversion Rate % (Post-UX)] - [Conversion Rate % (Pre-UX)], [Conversion Rate % (Pre-UX)] ) * 100
+
+Visitor Traffic Lift % =
+DIVIDE ( [Sessions (Post-UX)] - [Sessions (Pre-UX)], [Sessions (Pre-UX)] ) * 100
+
+
+/* ---------- TIME INTELLIGENCE ---------- */
+
+Revenue MoM Growth % =
+VAR CurrentRevenue = [Total Revenue (BDT)]
+VAR PriorRevenue =
+    CALCULATE ( [Total Revenue (BDT)], DATEADD ( dim_date[date], -1, MONTH ) )
+RETURN
+    DIVIDE ( CurrentRevenue - PriorRevenue, PriorRevenue ) * 100
+
+Revenue YTD (BDT) =
+TOTALYTD ( [Total Revenue (BDT)], dim_date[date] )
+
+Sessions MoM Growth % =
+VAR CurrentSessions = [Total Sessions]
+VAR PriorSessions =
+    CALCULATE ( [Total Sessions], DATEADD ( dim_date[date], -1, MONTH ) )
+RETURN
+    DIVIDE ( CurrentSessions - PriorSessions, PriorSessions ) * 100
+
+
+/* ---------- RANKING / TOP-N HELPERS ---------- */
+
+Revenue Rank by Division =
+RANKX ( ALL ( dim_division[division_name] ), [Total Revenue (BDT)], , DESC )
+
+Revenue Rank by District =
+RANKX ( ALL ( dim_district[district_name] ), [Total Revenue (BDT)], , DESC )
+
+% of Total Revenue =
+DIVIDE ( [Total Revenue (BDT)], CALCULATE ( [Total Revenue (BDT)], ALL ( dim_division ) ) ) * 100
+
+
+/* ---------- SUPPORT / OPERATIONS ---------- */
+
+Pct Tickets Resolved =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( fact_support_tickets ), fact_support_tickets[status] = "Resolved" ),
+    [Total Support Tickets]
+) * 100
+
+Avg Resolution Time (hrs, Pre-Fix) =
+CALCULATE ( [Avg Resolution Time (hrs)], fact_support_tickets[date] < DATE ( 2025, 12, 1 ) )
+
+Avg Resolution Time (hrs, Post-Fix) =
+CALCULATE ( [Avg Resolution Time (hrs)], fact_support_tickets[date] >= DATE ( 2025, 12, 1 ) )
+
+Resolution Time Improvement % =
+DIVIDE (
+    [Avg Resolution Time (hrs, Pre-Fix)] - [Avg Resolution Time (hrs, Post-Fix)],
+    [Avg Resolution Time (hrs, Pre-Fix)]
+) * 100

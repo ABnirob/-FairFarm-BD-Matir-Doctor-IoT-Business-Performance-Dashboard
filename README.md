@@ -1,4 +1,4 @@
-# 🌱 FairFarm BD — Matir Doctor IoT Device Sale Performance
+# 🌱 FairFarm BD — Matir Doctor IoT Business Performance Dashboard
 
 **Data & Business Analyst Portfolio Project** · Md. Abul Bashar Nirob
 [LinkedIn](https://linkedin.com/in/mdbashar202) · [GitHub](https://github.com/ABnirob) · [Portfolio](https://Portfolio/abul-bashar)
@@ -9,11 +9,7 @@
 > a digital ecosystem for Bangladeshi farmers combining AI crop intelligence,
 > marketplace access, microfinance, and education.
 
-
-
-## 🛠️ Dashboard Preview
-<img width="3200" height="2690" alt="dashboard_in_PowerBI" src="https://github.com/user-attachments/assets/54d59d92-4043-4d70-87f2-e28709787f79" />
-
+![Dashboard Preview](images/dashboard_preview.png)
 
 ---
 
@@ -217,12 +213,6 @@ sqlite3 data/fairfarm_bd.db < sql/fairfarm_analysis_queries.sql
    recalculates because every KPI and chart is a live `SUMIF`/`SUMIFS`/
    `AVERAGEIF` formula, not a hardcoded number
 
-<img width="1589" height="711" alt="11" src="https://github.com/user-attachments/assets/4f6c1b4b-7856-44d9-add2-6e73e093e107" />
-<img width="1376" height="690" alt="22" src="https://github.com/user-attachments/assets/89a91594-24df-442b-b330-9b7638019a78" />
-<img width="1588" height="703" alt="33" src="https://github.com/user-attachments/assets/72f8b112-0bd6-4781-9bac-8f249a9da983" />
-
-   
-
 ## 📈 Power BI dashboard
 
 A `.pbix` is a Windows-only proprietary binary that can only be authored in
@@ -249,6 +239,6 @@ and Microsoft.
 
 ## 📄 License
 
-This project (code, data, and documentation) is shared for
-portfolio and educational purposes. The dataset is fabricated and
+This project (code, synthetic data, and documentation) is shared for
+portfolio and educational purposes. The synthetic dataset is fabricated and
 contains no real FairFarm BD customer or business data.
