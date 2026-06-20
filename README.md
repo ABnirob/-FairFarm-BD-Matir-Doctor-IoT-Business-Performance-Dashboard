@@ -9,11 +9,15 @@
 > a digital ecosystem for Bangladeshi farmers combining AI crop intelligence,
 > marketplace access, microfinance, and education.
 
-![Dashboard Preview](images/dashboard_preview.png)
+## 📂 Power BI Dashboards
+<img width="3200" height="2340" alt="dashboard_preview_page1" src="https://github.com/user-attachments/assets/b2ee300b-c917-4d5a-ae73-3c2bff286394" />
+<img width="3200" height="2214" alt="dashboard_preview_page2" src="https://github.com/user-attachments/assets/9e28b4e7-c54a-4984-9ae4-9e2411dadfab" />
+<img width="3200" height="3112" alt="dashboard_preview_page3" src="https://github.com/user-attachments/assets/2ad4b3a6-6b20-482b-8098-cf79a7658bad" />
+
 
 ---
 
-## ⚠️ Synthetic data notice
+## ⚠️ data notice
 
 **This is a portfolio recreation, not a leak of proprietary company data.**
 FairFarm BD's real business data is not published here. Instead, this
