@@ -3,6 +3,7 @@
 **Data & Business Analyst Portfolio Project** · Md. Abul Bashar Nirob
 [LinkedIn](https://linkedin.com/in/mdbashar202) · [GitHub](https://github.com/ABnirob) · [Portfolio](https://Portfolio/abul-bashar)
 
+
 > A full analyst workflow — requirements gathering, data modeling, ETL,
 > SQL, Excel, and Power BI — built around the **Matir Doctor** IoT
 > soil-sensor business line of [FairFarm BD](https://www.fairfarm.com.bd/),
